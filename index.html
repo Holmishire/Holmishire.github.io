@@ -30,7 +30,7 @@
 		max-height: 200px;
 		display: block;
 		margin: auto;
-		padding-bottom: 20px;
+		padding: 20px 0;
 	}
 	select {
 		position: absolute;
@@ -213,8 +213,12 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
-									<a href="previews/mse"><div class="set-icon"><img src="sets/mse-files/icon.png" title=""></img></div>
-									<div class="set-icon-name"></div></a>
+									<a href="previews/SS"><div class="set-icon"><img src="sets/SS-files/icon.png" title="Secret Santa"></img></div>
+									<div class="set-icon-name">Secret Santa</div></a>
+								</div>
+				<div class="set-icon-container">
+									<a href="previews/SV"><div class="set-icon"><img src="sets/SV-files/icon.png" title="MSE Survivor"></img></div>
+									<div class="set-icon-name">MSE Survivor</div></a>
 								</div>
 									</div>
 		
@@ -229,6 +233,7 @@
 			let gradients = [];
 			let card_list_arrayified = [];
 			let specialchars = "";
+			let initial_gradient = true;
 
 			document.addEventListener("DOMContentLoaded", async function () {
 				try {
@@ -361,7 +366,12 @@
 			}
 
 			function setGradient() {
-				gradient = document.getElementById("color-select").value;
+				if (!initial_gradient || !localStorage.getItem("gradient"))
+				{
+					localStorage.setItem("gradient", document.getElementById("color-select").value);
+				}
+				
+				gradient = localStorage.getItem("gradient");
 
 				gradTop = "#000000";
 				gradBottom = "#FFFFFF";
@@ -373,7 +383,13 @@
 						gradBottom = grad.color2;
 					}
 				}
+				
+				if (initial_gradient)
+				{
+					document.getElementById("color-select").value = gradient;
+				}
 
+				initial_gradient = false;
 				document.body.style.backgroundImage = `linear-gradient(to bottom, ${gradTop}, ${gradBottom})`;
 			}
 

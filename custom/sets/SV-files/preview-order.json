@@ -1,0 +1,31 @@
+﻿[
+	{ "cards":  [ "W", "U", "B", "R", "G" ] },
+	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },
+	{ "cards":  [ "WB", "UR", "BG", "RW", "GU" ] },
+	{ "cards":  [ "WUB", "UBR", "BRG", "RGW", "GWU" ] },
+	{ "cards":  [ "RWB", "GUR", "WBG", "URW", "BGU" ] },
+	{ "cards":  [ "gold" ] },
+	{ "title": "colorless", "cards":  [ "C" ] },
+	{ "title": "land", "cards":  [ "WL", "UL", "BL", "RL", "GL" ] },
+	{ "cards":  [ "WUL", "UBL", "BRL", "RGL", "GWL" ] },
+	{ "cards":  [ "WBL", "URL", "BGL", "RWL", "GUL" ] },
+	{ "cards":  [ "L" ] },
+	{ "cards":  [ "basic" ] },
+	{ "title": "token", "cards":  [ "token" ] },
+	{ "title": "masterpiece", "cards":  [ "mp" ] }
+	{ "title": "Season 6", "cards": [ "!group S6R1" ] }
+	{ "cards": [ "!group S6R2" ] }
+	{ "cards": [ "!group S6R6½" ] }
+	{ "cards": [ "!group S6R7" ] }
+	{ "title": "Season 5", "cards": [ "!group S5R1" ] }
+	{ "cards": [ "!group S5R2" ] }
+	{ "title": "Season 4", "cards": [ "!group S4R1" ] }
+	{ "cards": [ "!group S4R2" ] }
+	{ "cards": [ "!group S4R3" ] }
+	{ "cards": [ "!group S4R4" ] }
+	{ "title": "Season 3", "cards": [ "!group S3R1" ] }
+	{ "cards": [ "!group S3R2" ] }
+	{ "cards": [ "!group S3R3" ] }
+	{ "title": "Bonus Rounds", "cards": [ "!group S6½R1" ] }
+	{ "cards": [ "!group S4½R2" ] }
+]

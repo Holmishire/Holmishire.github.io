@@ -75,7 +75,7 @@
             "set": "SV",
             "loyalty": "",
             "artist": "Casey Edwards",
-            "notes": "https://www.artstation.com/artwork/rRVGQ6"
+            "notes": "https://www.artstation.com/artwork/rRVGQ6\n\n!tag universes beyond"
         },
         {
             "card_name": "Petal Collector",
@@ -427,7 +427,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Kibyart",
-            "notes": "https://www.deviantart.com/kvx/art/Paladins-Fanart-True-Lex-675705552"
+            "notes": "https://www.deviantart.com/kvx/art/Paladins-Fanart-True-Lex-675705552\n\n!tag universes beyond"
         },
         {
             "card_name": "Maeve of Nine Lives",
@@ -445,7 +445,7 @@
             "set": "SV",
             "loyalty": "",
             "artist": "Yana Marsh",
-            "notes": "https://vk.com/yanamarsh\n\n!tag underdark"
+            "notes": "https://vk.com/yanamarsh\n\n!tag underdark\n!tag universes beyond"
         },
         {
             "card_name": "HINTERLANDS",
@@ -941,7 +941,7 @@
             "set": "SV",
             "loyalty": "",
             "artist": "Aitor Sebastian",
-            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag ravnica\n!tag workshop"
+            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag ravnica\n!tag underdark\n!tag workshop"
         }
     ]
 }

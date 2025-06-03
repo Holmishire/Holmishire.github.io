@@ -14,7 +14,7 @@
 	{ "title": "token", "cards":  [ "token" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] },
 	{ "title": "24W", "cards": [ "!group 24W" ] },
-	{ "title": "24S", "cards": [ "!group 24S+" ] },
+	{ "title": "24S", "cards": [ "!group 24So" ] },
 	{ "cards": [ "!group 24S" ] },
 	{ "title": "23W", "cards": [ "!group 23W" ] },
 	{ "cards": [ "!group 23W½" ] },

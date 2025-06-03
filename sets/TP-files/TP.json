@@ -1,0 +1,46 @@
+﻿{
+    "name": "Telephone",
+    "formats": "legacy",
+    "trimmed": "y",
+    "image_type": "png",
+    "draft_structure": "none",
+    "cards": [
+        {
+            "card_name": "Marrow-Mask Mendicant",
+            "color": "WU",
+            "rarity": "mythic",
+            "type": "Creature \u2014 Shapeshifter Horror",
+            "number": 2,
+            "color_identity": "WU",
+            "cost": "{W}{U}",
+            "rules_text": "Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]\nWhenever Marrow-Mask Mendicant deals combat damage to a player, choose a creature that player controls. Marrow-Mask Mendicant becomes a copy of that creature, except it has this ability and \u201cThis creature has protection from creatures with the same name.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TP",
+            "loyalty": "",
+            "artist": "Felipe Castro",
+            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag highlight"
+        },
+        {
+            "card_name": "Thaumaturgy Savant",
+            "color": "R",
+            "rarity": "rare",
+            "type": "Creature \u2014 Human Wizard",
+            "number": 1,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "You may look at the top card of your library at any time.\nYou may cast instant and sorcery spells from the top of your library. Spend only mana produced by Treasures to cast spells this way.",
+            "flavor_text": "[i]She trades one fortune for another.[/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TP",
+            "loyalty": "",
+            "artist": "Leaf Aske",
+            "notes": "https://www.artstation.com/artwork/qXZ32"
+        }
+    ],
+    "version": 1
+}

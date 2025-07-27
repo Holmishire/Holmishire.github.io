@@ -31,7 +31,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Wavyrr",
-            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag innistrad\n!tag highlight"
+            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag innistrad\n!tag highlight\n\n!sort 99"
         },
         {
             "card_name": "Hand In Hand",
@@ -49,14 +49,14 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Deb Lee",
-            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag innistrad"
+            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag innistrad\n\n!sort 98"
         },
         {
             "card_name": "Dewdrop Strawman",
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 4,
+            "number": 6,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "At the beginning of your end step, you lose 1 life and create a 1/1 blue Bird Illusion creature token with flying.\nWhen Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illusion token you control. You gain 1 life for each token sacrificed this way.",
@@ -67,7 +67,7 @@
             "set": "CC",
             "loyalty": "",
             "artist": "\u3082\u306e\u4e45\u4fdd aka MonoKubo",
-            "notes": "https://twitter.com/13033303/status/1182650243831103490"
+            "notes": "https://twitter.com/13033303/status/1182650243831103490\n\n!sort 97"
         },
         {
             "card_name": "Grudge Scavenge",
@@ -85,7 +85,43 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Jake Parker",
-            "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3"
+            "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3\n\n!sort 96"
+        },
+        {
+            "card_name": "Oth'teva Conservationist",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Human Artificer Druid",
+            "number": 4,
+            "color_identity": "G",
+            "cost": "{1}{G}{G}",
+            "rules_text": "When this creature enters or dies, return target permanent card with mana value 2 or less from your graveyard to your hand.\nReprocess [i](If this dies, shuffle it from its owner's graveyard into their library. Look at the top two cards, then put one into their graveyard.)[/i]",
+            "flavor_text": "[i]\u201cIn the fields of science, there [/i]are[i] no weeds.\u201d\n\u2014Shahar, curator of the Conservatory[/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CC",
+            "loyalty": "",
+            "artist": "Alex Konstad",
+            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!sort 95"
+        },
+        {
+            "card_name": "Treachery Unveiled",
+            "color": "WR",
+            "rarity": "mythic",
+            "type": "Instant",
+            "number": 5,
+            "color_identity": "WR",
+            "cost": "{2}{R}{R}{W}{W}",
+            "rules_text": "Target player separates the attacking creatures they control into two piles. Choose one of those piles. Untap each creature in that pile and gain control of those creatures until end of turn.",
+            "flavor_text": "[i]\u201cIt should never have come to this\u2026\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CC",
+            "loyalty": "",
+            "artist": "Mingchen Shen",
+            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!sort 94"
         }
     ]
 }

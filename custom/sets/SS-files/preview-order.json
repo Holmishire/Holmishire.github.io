@@ -13,6 +13,8 @@
 	{ "cards":  [ "basic" ] },
 	{ "title": "token", "cards":  [ "token" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] },
+	{ "title": "25S", "cards": [ "!group 25S0" ] },
+	{ "cards": [ "!group 25S½" ] },
 	{ "title": "24W", "cards": [ "!group 24W" ] },
 	{ "title": "24S", "cards": [ "!group 24S1" ] },
 	{ "cards": [ "!group 24S2" ] },

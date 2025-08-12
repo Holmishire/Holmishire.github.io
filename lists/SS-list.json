@@ -1,1 +1,575 @@
-﻿[{"card_name": "Chase the Shifting Moon", "number": 10, "shape": "saga"}, {"card_name": "Eyes Agape", "number": 38, "shape": "normal"}, {"card_name": "Surge Protector", "number": 45, "shape": "normal"}, {"card_name": "Dryad of Dusk's Whisper", "number": 31, "shape": "normal"}, {"card_name": "Pierce the Cosmos", "number": 27, "shape": "saga"}, {"card_name": "Legion's Echo", "number": 18, "shape": "normal"}, {"card_name": "Gentle Jackalope", "number": 5, "shape": "normal"}, {"card_name": "Chevalier Ros\u00e9", "number": 3, "shape": "normal"}, {"card_name": "Chase the Blinding Sun", "number": 2, "shape": "saga"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Crawling from the Drink", "number": 47, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->24W", {"card_name": "Day's End Rest", "number": 29, "shape": "normal"}, {"card_name": "Eternities' Wake", "number": 12, "shape": "normal"}, {"card_name": "Kin & Kiln", "number": 39, "shape": "normal"}, {"card_name": "Gracious Mycologist", "number": 6, "shape": "normal"}, {"card_name": "Cloak in Rime", "number": 4, "shape": "normal"}, {"card_name": "Blackwings' Blessing", "number": 15, "shape": "normal"}, {"card_name": "Blaithi Armsmaster", "number": 36, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->24S", {"card_name": "WITCHING", "number": 0, "shape": "normal"}, {"card_name": "Audana", "number": 0, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Clow Cards, Reclaimed", "number": 11, "shape": "modal double faced"}, {"card_name": "Coffee Medium", "number": 23, "shape": "modal double faced"}, {"card_name": "Record Spill", "number": 20, "shape": "modal double faced"}, {"card_name": "Lift the Veil", "number": 1, "shape": "normal"}, {"card_name": "Familiar's Friend", "number": 25, "shape": "adventure"}, {"card_name": "Pumpkin Farmers", "number": 34, "shape": "normal"}, {"card_name": "Speeding Ticket", "number": 9, "shape": "modal double faced"}, {"card_name": "Cat", "number": 3, "shape": "token"}, {"card_name": "Kaede, Dayspring Snoop", "number": 33, "shape": "modal double faced"}, {"card_name": "Manamorphose", "number": 41, "shape": "normal"}, {"card_name": "Tobi's Heart-Splinter", "number": 22, "shape": "normal"}, {"card_name": "Take Another Breath", "number": 42, "shape": "normal"}, {"card_name": "Lorelei No Longer", "number": 13, "shape": "modal double faced"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->23W", {"card_name": "Observance of the Sacred", "number": 8, "shape": "normal"}, {"card_name": "Parry", "number": 0, "shape": "normal"}, {"card_name": "Moment of Privacy", "number": 0, "shape": "normal"}, {"card_name": "Carrion Peddler", "number": 28, "shape": "normal"}, {"card_name": "Ritual Warden", "number": 21, "shape": "normal"}, {"card_name": "Scarlet Crucible", "number": 0, "shape": "normal"}, {"card_name": "Soldier Devout", "number": 0, "shape": "normal"}, {"card_name": "Trollsbane Punk", "number": 0, "shape": "normal"}, {"card_name": "Nippy Shoalsteer", "number": 0, "shape": "leveler"}, {"card_name": "Blighted Hunt", "number": 16, "shape": "normal"}, {"card_name": "Human", "number": 2, "shape": "token"}, {"card_name": "Nunieve's Aspirant", "number": 0, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Grandfather's Blade", "number": 48, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->23S", {"card_name": "Motley Wayfinder", "number": 19, "shape": "normal"}, {"card_name": "Glint in the Depths", "number": 32, "shape": "transform double faced"}, {"card_name": "Scarwood Pilferer", "number": 35, "shape": "normal"}, {"card_name": "Rainfall", "number": 14, "shape": "normal"}, {"card_name": "Tardy Grayson", "number": 43, "shape": "planeswalker"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->22W", {"card_name": "Ora, Unbridled", "number": 26, "shape": "leveler"}, {"card_name": "Husk of Cinder", "number": 17, "shape": "normal"}, {"card_name": "Cinder's Prophecy", "number": 37, "shape": "saga"}, {"card_name": "Simul, the Veil-Cursed", "number": 40, "shape": "modal double faced"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->22S", {"card_name": "Back", "number": 44, "shape": "fuse split"}, {"card_name": "Autumnal Vale", "number": 46, "shape": "normal"}, {"card_name": "Harvest Sentinel", "number": 7, "shape": "normal"}, {"card_name": "Earnest Vassal", "number": 24, "shape": "normal"}, {"card_name": "Delving Nixie", "number": 30, "shape": "normal"}, {"card_name": "Ouphe", "number": 1, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Chase the Shifting Moon",
+        "number": 10,
+        "shape": "saga",
+        "set": "SS"
+    },
+    {
+        "card_name": "Eyes Agape",
+        "number": 38,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Surge Protector",
+        "number": 45,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Dryad of Dusk's Whisper",
+        "number": 31,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Pierce the Cosmos",
+        "number": 27,
+        "shape": "saga",
+        "set": "SS"
+    },
+    {
+        "card_name": "Legion's Echo",
+        "number": 18,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Gentle Jackalope",
+        "number": 5,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Chevalier Ros\u00e9",
+        "number": 3,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Chase the Blinding Sun",
+        "number": 2,
+        "shape": "saga",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Crawling from the Drink",
+        "number": 47,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->24W",
+    {
+        "card_name": "Day's End Rest",
+        "number": 29,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Eternities' Wake",
+        "number": 12,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Kin & Kiln",
+        "number": 39,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Gracious Mycologist",
+        "number": 6,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Cloak in Rime",
+        "number": 4,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Blackwings' Blessing",
+        "number": 15,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Blaithi Armsmaster",
+        "number": 36,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->24S",
+    {
+        "card_name": "WITCHING",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Audana",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Clow Cards, Reclaimed",
+        "number": 11,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "Coffee Medium",
+        "number": 23,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "Record Spill",
+        "number": 20,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "Lift the Veil",
+        "number": 1,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Familiar's Friend",
+        "number": 25,
+        "shape": "adventure",
+        "set": "SS"
+    },
+    {
+        "card_name": "Pumpkin Farmers",
+        "number": 34,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Speeding Ticket",
+        "number": 9,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "Cat",
+        "number": 3,
+        "shape": "token",
+        "set": "SS"
+    },
+    {
+        "card_name": "Kaede, Dayspring Snoop",
+        "number": 33,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "Manamorphose",
+        "number": 41,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Tobi's Heart-Splinter",
+        "number": 22,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Take Another Breath",
+        "number": 42,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Lorelei No Longer",
+        "number": 13,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->23W",
+    {
+        "card_name": "Observance of the Sacred",
+        "number": 8,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Parry",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Moment of Privacy",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Carrion Peddler",
+        "number": 28,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Ritual Warden",
+        "number": 21,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Scarlet Crucible",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Soldier Devout",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Trollsbane Punk",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Nippy Shoalsteer",
+        "number": 0,
+        "shape": "leveler",
+        "set": "SS"
+    },
+    {
+        "card_name": "Blighted Hunt",
+        "number": 16,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Human",
+        "number": 2,
+        "shape": "token",
+        "set": "SS"
+    },
+    {
+        "card_name": "Nunieve's Aspirant",
+        "number": 0,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Grandfather's Blade",
+        "number": 48,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->23S",
+    {
+        "card_name": "Motley Wayfinder",
+        "number": 19,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Glint in the Depths",
+        "number": 32,
+        "shape": "transform double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "Scarwood Pilferer",
+        "number": 35,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Rainfall",
+        "number": 14,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Tardy Grayson",
+        "number": 43,
+        "shape": "planeswalker",
+        "set": "SS"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->22W",
+    {
+        "card_name": "Ora, Unbridled",
+        "number": 26,
+        "shape": "leveler",
+        "set": "SS"
+    },
+    {
+        "card_name": "Husk of Cinder",
+        "number": 17,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Cinder's Prophecy",
+        "number": 37,
+        "shape": "saga",
+        "set": "SS"
+    },
+    {
+        "card_name": "Simul, the Veil-Cursed",
+        "number": 40,
+        "shape": "modal double faced",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->22S",
+    {
+        "card_name": "Back",
+        "number": 44,
+        "shape": "fuse split",
+        "set": "SS"
+    },
+    {
+        "card_name": "Autumnal Vale",
+        "number": 46,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Harvest Sentinel",
+        "number": 7,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Earnest Vassal",
+        "number": 24,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Delving Nixie",
+        "number": 30,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
+        "card_name": "Ouphe",
+        "number": 1,
+        "shape": "token",
+        "set": "SS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

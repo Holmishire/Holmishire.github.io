@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>SV visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -82,7 +86,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -118,36 +122,49 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -173,178 +190,179 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="CC"><img src="/sets/CC-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="SS"><img src="/sets/SS-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="SV"><img src="/sets/SV-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="TP"><img src="/sets/TP-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="SV"><img src="/sets/SV-files/icon.png">MSE Survivor</a>
+	
+		<a class="set-bar inactive" href="CC"><img src="/sets/CC-files/icon.png">Card Coliseum</a>
+	
+		<a class="set-bar inactive" href="SS"><img src="/sets/SS-files/icon.png">Secret Santa</a>
+	
+		<a class="set-bar inactive" href="TP"><img src="/sets/TP-files/icon.png">Telephone</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/SV-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/sets\SV-files\img\33_Aqueduct Ancient.png" id="33_Aqueduct Ancient" data-flag="@X" onclick="openSidebar('33_Aqueduct Ancient',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\18_Ubea, Sixth's Appraiser.png" id="18_Ubea, Sixths Appraiser" data-flag="@X" onclick="openSidebar('18_Ubea, Sixths Appraiser',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\47_Rhythm.png" id="47_Rhythm" data-flag="@X" onclick="openSidebar('47_Rhythm',true)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\11_Stormcoil Tribute.png" id="11_Stormcoil Tribute" data-flag="@X" onclick="openSidebar('11_Stormcoil Tribute',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\27_Hymn of Renewal.png" id="27_Hymn of Renewal" data-flag="@X" onclick="openSidebar('27_Hymn of Renewal',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\44_Inquisitorial Prospect.png" id="44_Inquisitorial Prospect" data-flag="@X" onclick="openSidebar('44_Inquisitorial Prospect',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\49_Oona's Reversal.png" id="49_Oonas Reversal" data-flag="@X" onclick="openSidebar('49_Oonas Reversal',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\48_Wilt-Leaf Paladin.png" id="48_Wilt-Leaf Paladin" data-flag="@X" onclick="openSidebar('48_Wilt-Leaf Paladin',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\50_Last Sunrise.png" id="50_Last Sunrise" data-flag="@X" onclick="openSidebar('50_Last Sunrise',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\37_Kikue, Souls Ablaze.png" id="37_Kikue, Souls Ablaze" data-flag="@X" onclick="openSidebar('37_Kikue, Souls Ablaze',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\43_Inaya of Lost Promise.png" id="43_Inaya of Lost Promise" data-flag="@X" onclick="openSidebar('43_Inaya of Lost Promise',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\13_Crack in the Archives.png" id="13_Crack in the Archives" data-flag="@X" onclick="openSidebar('13_Crack in the Archives',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\26_Fallow Fields Warden.png" id="26_Fallow Fields Warden" data-flag="@X" onclick="openSidebar('26_Fallow Fields Warden',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\35_Cootie Courier.png" id="35_Cootie Courier" data-flag="@X" onclick="openSidebar('35_Cootie Courier',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\17_Stewardship of Murk.png" id="17_Stewardship of Murk" data-flag="@X" onclick="openSidebar('17_Stewardship of Murk',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\28_Ickle Inchhiker.png" id="28_Ickle Inchhiker" data-flag="@X" onclick="openSidebar('28_Ickle Inchhiker',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\40_Runic Awakening.png" id="40_Runic Awakening" data-flag="@X" onclick="openSidebar('40_Runic Awakening',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="s5" class="anchor"></div>
-			<div class="container"><img alt="/sets\SV-files\img\5_Sibelle of Sacred Horn.png" id="5_Sibelle of Sacred Horn" data-flag="@X" onclick="openSidebar('5_Sibelle of Sacred Horn',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\41_Sibelle's Coaxing Hex.png" id="41_Sibelles Coaxing Hex" data-flag="@X" onclick="openSidebar('41_Sibelles Coaxing Hex',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\7_Vengeful Brutis.png" id="7_Vengeful Brutis" data-flag="@X" onclick="openSidebar('7_Vengeful Brutis',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\0_HINTERLANDS.png" id="0_HINTERLANDS" data-flag="@X" onclick="openSidebar('0_HINTERLANDS',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\38_Nesting Furie.png" id="38_Nesting Furie" data-flag="@X" onclick="openSidebar('38_Nesting Furie',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\8_Chortle of Selkies.png" id="8_Chortle of Selkies" data-flag="@X" onclick="openSidebar('8_Chortle of Selkies',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\6_Thrice-horned Forerunner.png" id="6_Thrice-horned Forerunner" data-flag="@X" onclick="openSidebar('6_Thrice-horned Forerunner',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="s4" class="anchor"></div>
-			<div class="container"><img alt="/sets\SV-files\img\20_Alight.png" id="20_Alight" data-flag="@X" onclick="openSidebar('20_Alight',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\10_Shrinking Lily.png" id="10_Shrinking Lily" data-flag="@X" onclick="openSidebar('10_Shrinking Lily',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\29_Immersion.png" id="29_Immersion" data-flag="@X" onclick="openSidebar('29_Immersion',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\1_Adnascentia.png" id="1_Adnascentia" data-flag="@X" onclick="openSidebar('1_Adnascentia',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\21_Dawnherald.png" id="21_Dawnherald" data-flag="@X" onclick="openSidebar('21_Dawnherald',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\19_Unseen Hand.png" id="19_Unseen Hand" data-flag="@X" onclick="openSidebar('19_Unseen Hand',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\12_Asphodel's Sentinel.png" id="12_Asphodels Sentinel" data-flag="@X" onclick="openSidebar('12_Asphodels Sentinel',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\16_Stalking Draugr.png" id="16_Stalking Draugr" data-flag="@X" onclick="openSidebar('16_Stalking Draugr',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\15_Lambholt Recreant.png" id="15_Lambholt Recreant" data-flag="@X" onclick="openSidebar('15_Lambholt Recreant',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\2_Imperial Stalwart.png" id="2_Imperial Stalwart" data-flag="@X" onclick="openSidebar('2_Imperial Stalwart',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\23_Mistress of the Hunt.png" id="23_Mistress of the Hunt" data-flag="@X" onclick="openSidebar('23_Mistress of the Hunt',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\42_Vicious Pursuit.png" id="42_Vicious Pursuit" data-flag="@X" onclick="openSidebar('42_Vicious Pursuit',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="s3" class="anchor"></div>
-			<div class="container"><img alt="/sets\SV-files\img\46_Sulking Recluse.png" id="46_Sulking Recluse" data-flag="@X" onclick="openSidebar('46_Sulking Recluse',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\25_Borrowed Shelter.png" id="25_Borrowed Shelter" data-flag="@X" onclick="openSidebar('25_Borrowed Shelter',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\39_Nima, Free-Spirited.png" id="39_Nima, Free-Spirited" data-flag="@X" onclick="openSidebar('39_Nima, Free-Spirited',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\36_Dreaded Needle.png" id="36_Dreaded Needle" data-flag="@X" onclick="openSidebar('36_Dreaded Needle',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\34_Chérie the Untethered.png" id="34_Chérie the Untethered" data-flag="@X" onclick="openSidebar('34_Chérie the Untethered',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\14_Dusk Harvest.png" id="14_Dusk Harvest" data-flag="@X" onclick="openSidebar('14_Dusk Harvest',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\32_Amberheart Pod.png" id="32_Amberheart Pod" data-flag="@X" onclick="openSidebar('32_Amberheart Pod',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\22_Fiery Reprieve.png" id="22_Fiery Reprieve" data-flag="@X" onclick="openSidebar('22_Fiery Reprieve',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\3_Petal Collector.png" id="3_Petal Collector" data-flag="@X" onclick="openSidebar('3_Petal Collector',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="bonus" class="anchor"></div>
-			<div class="container"><img alt="/sets\SV-files\img\24_Autumn Court Mediator.png" id="24_Autumn Court Mediator" data-flag="@X" onclick="openSidebar('24_Autumn Court Mediator',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\30_Razortusk Challenger.png" id="30_Razortusk Challenger" data-flag="@X" onclick="openSidebar('30_Razortusk Challenger',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\31_Seeping Slime.png" id="31_Seeping Slime" data-flag="@X" onclick="openSidebar('31_Seeping Slime',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\9_Declaw.png" id="9_Declaw" data-flag="@X" onclick="openSidebar('9_Declaw',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\45_Maeve of Nine Lives.png" id="45_Maeve of Nine Lives" data-flag="@X" onclick="openSidebar('45_Maeve of Nine Lives',false)"></div>
-			<div class="container"><img alt="/sets\SV-files\img\4_Sentenced.png" id="4_Sentenced" data-flag="@X" onclick="openSidebar('4_Sentenced',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img alt="/sets\SV-files\img\33_Aqueduct Ancient.png" id="33_Aqueduct Ancient" data-flag="@X" onclick="openSidebar('33_Aqueduct Ancient',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\18_Ubea, Sixth's Appraiser.png" id="18_Ubea, Sixths Appraiser" data-flag="@X" onclick="openSidebar('18_Ubea, Sixths Appraiser',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\47_Rhythm.png" id="47_Rhythm" data-flag="@X" onclick="openSidebar('47_Rhythm',true)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\11_Stormcoil Tribute.png" id="11_Stormcoil Tribute" data-flag="@X" onclick="openSidebar('11_Stormcoil Tribute',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\27_Hymn of Renewal.png" id="27_Hymn of Renewal" data-flag="@X" onclick="openSidebar('27_Hymn of Renewal',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\44_Inquisitorial Prospect.png" id="44_Inquisitorial Prospect" data-flag="@X" onclick="openSidebar('44_Inquisitorial Prospect',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\49_Oona's Reversal.png" id="49_Oonas Reversal" data-flag="@X" onclick="openSidebar('49_Oonas Reversal',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\48_Wilt-Leaf Paladin.png" id="48_Wilt-Leaf Paladin" data-flag="@X" onclick="openSidebar('48_Wilt-Leaf Paladin',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\50_Last Sunrise.png" id="50_Last Sunrise" data-flag="@X" onclick="openSidebar('50_Last Sunrise',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\37_Kikue, Souls Ablaze.png" id="37_Kikue, Souls Ablaze" data-flag="@X" onclick="openSidebar('37_Kikue, Souls Ablaze',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\43_Inaya of Lost Promise.png" id="43_Inaya of Lost Promise" data-flag="@X" onclick="openSidebar('43_Inaya of Lost Promise',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\13_Crack in the Archives.png" id="13_Crack in the Archives" data-flag="@X" onclick="openSidebar('13_Crack in the Archives',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\26_Fallow Fields Warden.png" id="26_Fallow Fields Warden" data-flag="@X" onclick="openSidebar('26_Fallow Fields Warden',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\35_Cootie Courier.png" id="35_Cootie Courier" data-flag="@X" onclick="openSidebar('35_Cootie Courier',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\17_Stewardship of Murk.png" id="17_Stewardship of Murk" data-flag="@X" onclick="openSidebar('17_Stewardship of Murk',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\28_Ickle Inchhiker.png" id="28_Ickle Inchhiker" data-flag="@X" onclick="openSidebar('28_Ickle Inchhiker',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\40_Runic Awakening.png" id="40_Runic Awakening" data-flag="@X" onclick="openSidebar('40_Runic Awakening',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="s5" class="anchor"></div>
+				<div class="container"><img alt="/sets\SV-files\img\5_Sibelle of Sacred Horn.png" id="5_Sibelle of Sacred Horn" data-flag="@X" onclick="openSidebar('5_Sibelle of Sacred Horn',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\41_Sibelle's Coaxing Hex.png" id="41_Sibelles Coaxing Hex" data-flag="@X" onclick="openSidebar('41_Sibelles Coaxing Hex',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\7_Vengeful Brutis.png" id="7_Vengeful Brutis" data-flag="@X" onclick="openSidebar('7_Vengeful Brutis',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\0_HINTERLANDS.png" id="0_HINTERLANDS" data-flag="@X" onclick="openSidebar('0_HINTERLANDS',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\38_Nesting Furie.png" id="38_Nesting Furie" data-flag="@X" onclick="openSidebar('38_Nesting Furie',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\8_Chortle of Selkies.png" id="8_Chortle of Selkies" data-flag="@X" onclick="openSidebar('8_Chortle of Selkies',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\6_Thrice-horned Forerunner.png" id="6_Thrice-horned Forerunner" data-flag="@X" onclick="openSidebar('6_Thrice-horned Forerunner',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="s4" class="anchor"></div>
+				<div class="container"><img alt="/sets\SV-files\img\20_Alight.png" id="20_Alight" data-flag="@X" onclick="openSidebar('20_Alight',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\10_Shrinking Lily.png" id="10_Shrinking Lily" data-flag="@X" onclick="openSidebar('10_Shrinking Lily',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\29_Immersion.png" id="29_Immersion" data-flag="@X" onclick="openSidebar('29_Immersion',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\1_Adnascentia.png" id="1_Adnascentia" data-flag="@X" onclick="openSidebar('1_Adnascentia',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\21_Dawnherald.png" id="21_Dawnherald" data-flag="@X" onclick="openSidebar('21_Dawnherald',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\19_Unseen Hand.png" id="19_Unseen Hand" data-flag="@X" onclick="openSidebar('19_Unseen Hand',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\12_Asphodel's Sentinel.png" id="12_Asphodels Sentinel" data-flag="@X" onclick="openSidebar('12_Asphodels Sentinel',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\16_Stalking Draugr.png" id="16_Stalking Draugr" data-flag="@X" onclick="openSidebar('16_Stalking Draugr',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\15_Lambholt Recreant.png" id="15_Lambholt Recreant" data-flag="@X" onclick="openSidebar('15_Lambholt Recreant',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\2_Imperial Stalwart.png" id="2_Imperial Stalwart" data-flag="@X" onclick="openSidebar('2_Imperial Stalwart',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\23_Mistress of the Hunt.png" id="23_Mistress of the Hunt" data-flag="@X" onclick="openSidebar('23_Mistress of the Hunt',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\42_Vicious Pursuit.png" id="42_Vicious Pursuit" data-flag="@X" onclick="openSidebar('42_Vicious Pursuit',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="s3" class="anchor"></div>
+				<div class="container"><img alt="/sets\SV-files\img\46_Sulking Recluse.png" id="46_Sulking Recluse" data-flag="@X" onclick="openSidebar('46_Sulking Recluse',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\25_Borrowed Shelter.png" id="25_Borrowed Shelter" data-flag="@X" onclick="openSidebar('25_Borrowed Shelter',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\39_Nima, Free-Spirited.png" id="39_Nima, Free-Spirited" data-flag="@X" onclick="openSidebar('39_Nima, Free-Spirited',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\36_Dreaded Needle.png" id="36_Dreaded Needle" data-flag="@X" onclick="openSidebar('36_Dreaded Needle',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\34_Chérie the Untethered.png" id="34_Chérie the Untethered" data-flag="@X" onclick="openSidebar('34_Chérie the Untethered',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\14_Dusk Harvest.png" id="14_Dusk Harvest" data-flag="@X" onclick="openSidebar('14_Dusk Harvest',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\32_Amberheart Pod.png" id="32_Amberheart Pod" data-flag="@X" onclick="openSidebar('32_Amberheart Pod',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\22_Fiery Reprieve.png" id="22_Fiery Reprieve" data-flag="@X" onclick="openSidebar('22_Fiery Reprieve',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\3_Petal Collector.png" id="3_Petal Collector" data-flag="@X" onclick="openSidebar('3_Petal Collector',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="bonus" class="anchor"></div>
+				<div class="container"><img alt="/sets\SV-files\img\24_Autumn Court Mediator.png" id="24_Autumn Court Mediator" data-flag="@X" onclick="openSidebar('24_Autumn Court Mediator',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\30_Razortusk Challenger.png" id="30_Razortusk Challenger" data-flag="@X" onclick="openSidebar('30_Razortusk Challenger',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\31_Seeping Slime.png" id="31_Seeping Slime" data-flag="@X" onclick="openSidebar('31_Seeping Slime',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\9_Declaw.png" id="9_Declaw" data-flag="@X" onclick="openSidebar('9_Declaw',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\45_Maeve of Nine Lives.png" id="45_Maeve of Nine Lives" data-flag="@X" onclick="openSidebar('45_Maeve of Nine Lives',false)"></div>
+				<div class="container"><img alt="/sets\SV-files\img\4_Sentenced.png" id="4_Sentenced" data-flag="@X" onclick="openSidebar('4_Sentenced',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
 			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
@@ -375,7 +393,7 @@
 				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -465,7 +483,7 @@
 	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
@@ -496,7 +514,7 @@
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -507,10 +525,28 @@
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {

@@ -1,1 +1,24 @@
-﻿{"sets": [{"set_code": "CC", "set_name": "Card Coliseum", "formats": "legacy"}, {"set_code": "SS", "set_name": "Secret Santa", "formats": "legacy"}, {"set_code": "SV", "set_name": "MSE Survivor", "formats": "legacy"}, {"set_code": "TP", "set_name": "Telephone", "formats": "legacy"}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "CC",
+            "set_name": "Card Coliseum",
+            "formats": "legacy"
+        },
+        {
+            "set_code": "SS",
+            "set_name": "Secret Santa",
+            "formats": "legacy"
+        },
+        {
+            "set_code": "SV",
+            "set_name": "MSE Survivor",
+            "formats": "legacy"
+        },
+        {
+            "set_code": "TP",
+            "set_name": "Telephone",
+            "formats": "legacy"
+        }
+    ]
+}

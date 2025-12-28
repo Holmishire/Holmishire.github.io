@@ -1,4 +1,98 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Spectramorphosis added.
+Mossback Elk added.
+Sacred Starseeker added.
+Obsession Crown added.
+Obviation Crown added.
+Obligation Crown added.
+Obtention Crown added.
+Harmonious Migration added.
+
+
+Blaithi Armsmaster
+
+Blackwings' Blessing
+
+Day's End Rest
+
+Kin & Kiln
+
+Eternities' Wake
+
+Cinder's Prophecy
+
+Husk of Cinder
+
+Ora, Unbridled
+
+Simul, the Veil-Cursed
+
+Autumnal Vale
+
+Back
+
+Delving Nixie
+
+Earnest Vassal
+
+Carrion Peddler
+
+Blighted Hunt
+
+Ritual Warden
+
+Glint in the Depths
+
+Motley Wayfinder
+
+Rainfall
+
+Scarwood Pilferer
+
+Tardy Grayson
+
+Grandfather's Blade
+
+Clow Cards, Reclaimed
+
+Coffee Medium
+
+Record Spill
+
+Familiar's Friend
+
+Pumpkin Farmers
+
+Speeding Ticket
+
+Kaede, Dayspring Snoop
+
+Manamorphose
+
+Tobi's Heart-Splinter
+
+Take Another Breath
+
+Lorelei No Longer
+
+Chase the Shifting Moon
+
+Eyes Agape
+
+Surge Protector
+
+Dryad of Dusk's Whisper
+
+Pierce the Cosmos
+
+Legion's Echo
+
+Crawling from the Drink
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

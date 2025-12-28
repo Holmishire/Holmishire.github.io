@@ -1,37 +1,37 @@
 ﻿[
     {
         "card_name": "Chase the Shifting Moon",
-        "number": 10,
+        "number": 12,
         "shape": "saga",
         "set": "SS"
     },
     {
         "card_name": "Eyes Agape",
-        "number": 38,
-        "shape": "normal",
-        "set": "SS"
-    },
-    {
-        "card_name": "Surge Protector",
         "number": 45,
         "shape": "normal",
         "set": "SS"
     },
     {
+        "card_name": "Surge Protector",
+        "number": 53,
+        "shape": "normal",
+        "set": "SS"
+    },
+    {
         "card_name": "Dryad of Dusk's Whisper",
-        "number": 31,
+        "number": 36,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Pierce the Cosmos",
-        "number": 27,
+        "number": 32,
         "shape": "saga",
         "set": "SS"
     },
     {
         "card_name": "Legion's Echo",
-        "number": 18,
+        "number": 21,
         "shape": "normal",
         "set": "SS"
     },
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Crawling from the Drink",
-        "number": 47,
+        "number": 55,
         "shape": "normal",
         "set": "SS"
     },
@@ -104,19 +104,19 @@
     "a->24W",
     {
         "card_name": "Day's End Rest",
-        "number": 29,
+        "number": 34,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Eternities' Wake",
-        "number": 12,
+        "number": 14,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Kin & Kiln",
-        "number": 39,
+        "number": 47,
         "shape": "normal",
         "set": "SS"
     },
@@ -134,13 +134,13 @@
     },
     {
         "card_name": "Blackwings' Blessing",
-        "number": 15,
+        "number": 18,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Blaithi Armsmaster",
-        "number": 36,
+        "number": 43,
         "shape": "normal",
         "set": "SS"
     },
@@ -204,19 +204,19 @@
     },
     {
         "card_name": "Clow Cards, Reclaimed",
-        "number": 11,
+        "number": 13,
         "shape": "modal double faced",
         "set": "SS"
     },
     {
         "card_name": "Coffee Medium",
-        "number": 23,
+        "number": 27,
         "shape": "modal double faced",
         "set": "SS"
     },
     {
         "card_name": "Record Spill",
-        "number": 20,
+        "number": 23,
         "shape": "modal double faced",
         "set": "SS"
     },
@@ -228,19 +228,19 @@
     },
     {
         "card_name": "Familiar's Friend",
-        "number": 25,
+        "number": 29,
         "shape": "adventure",
         "set": "SS"
     },
     {
         "card_name": "Pumpkin Farmers",
-        "number": 34,
+        "number": 41,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Speeding Ticket",
-        "number": 9,
+        "number": 11,
         "shape": "modal double faced",
         "set": "SS"
     },
@@ -252,31 +252,31 @@
     },
     {
         "card_name": "Kaede, Dayspring Snoop",
-        "number": 33,
+        "number": 38,
         "shape": "modal double faced",
         "set": "SS"
     },
     {
         "card_name": "Manamorphose",
-        "number": 41,
+        "number": 49,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Tobi's Heart-Splinter",
-        "number": 22,
+        "number": 26,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Take Another Breath",
-        "number": 42,
+        "number": 50,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Lorelei No Longer",
-        "number": 13,
+        "number": 15,
         "shape": "modal double faced",
         "set": "SS"
     },
@@ -319,13 +319,13 @@
     },
     {
         "card_name": "Carrion Peddler",
-        "number": 28,
+        "number": 33,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Ritual Warden",
-        "number": 21,
+        "number": 24,
         "shape": "normal",
         "set": "SS"
     },
@@ -355,7 +355,7 @@
     },
     {
         "card_name": "Blighted Hunt",
-        "number": 16,
+        "number": 19,
         "shape": "normal",
         "set": "SS"
     },
@@ -397,7 +397,7 @@
     },
     {
         "card_name": "Grandfather's Blade",
-        "number": 48,
+        "number": 56,
         "shape": "normal",
         "set": "SS"
     },
@@ -428,31 +428,31 @@
     "a->23S",
     {
         "card_name": "Motley Wayfinder",
-        "number": 19,
+        "number": 22,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Glint in the Depths",
-        "number": 32,
+        "number": 37,
         "shape": "transform double faced",
         "set": "SS"
     },
     {
         "card_name": "Scarwood Pilferer",
-        "number": 35,
+        "number": 42,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Rainfall",
-        "number": 14,
+        "number": 17,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Tardy Grayson",
-        "number": 43,
+        "number": 51,
         "shape": "planeswalker",
         "set": "SS"
     },
@@ -471,25 +471,25 @@
     "a->22W",
     {
         "card_name": "Ora, Unbridled",
-        "number": 26,
+        "number": 31,
         "shape": "leveler",
         "set": "SS"
     },
     {
         "card_name": "Husk of Cinder",
-        "number": 17,
+        "number": 20,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Cinder's Prophecy",
-        "number": 37,
+        "number": 44,
         "shape": "saga",
         "set": "SS"
     },
     {
         "card_name": "Simul, the Veil-Cursed",
-        "number": 40,
+        "number": 48,
         "shape": "modal double faced",
         "set": "SS"
     },
@@ -511,13 +511,13 @@
     "a->22S",
     {
         "card_name": "Back",
-        "number": 44,
+        "number": 52,
         "shape": "fuse split",
         "set": "SS"
     },
     {
         "card_name": "Autumnal Vale",
-        "number": 46,
+        "number": 54,
         "shape": "normal",
         "set": "SS"
     },
@@ -529,13 +529,13 @@
     },
     {
         "card_name": "Earnest Vassal",
-        "number": 24,
+        "number": 28,
         "shape": "normal",
         "set": "SS"
     },
     {
         "card_name": "Delving Nixie",
-        "number": 30,
+        "number": 35,
         "shape": "normal",
         "set": "SS"
     },

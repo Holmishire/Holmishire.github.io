@@ -3,7 +3,8 @@
         "card_name": "Megni's Fervent Plea",
         "number": 1,
         "shape": "transform double faced",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -15,19 +16,22 @@
         "card_name": "Smokeshawl Penitent",
         "number": 5,
         "shape": "normal",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "Oth'teva Conservationist",
         "number": 6,
         "shape": "normal",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "Tender Goatress",
         "number": 2,
         "shape": "transform double faced",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -39,7 +43,8 @@
         "card_name": "Hand In Hand",
         "number": 4,
         "shape": "normal",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -57,7 +62,8 @@
         "card_name": "Grudge Scavenge",
         "number": 3,
         "shape": "normal",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -90,7 +96,8 @@
         "card_name": "Treachery Unveiled",
         "number": 7,
         "shape": "normal",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -112,7 +119,8 @@
         "card_name": "Dewdrop Strawman",
         "number": 8,
         "shape": "normal",
-        "set": "CC"
+        "set": "CC",
+        "position": ""
     },
     {
         "card_name": "e"

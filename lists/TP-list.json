@@ -12,7 +12,8 @@
         "card_name": "Thaumaturgy Savant",
         "number": 1,
         "shape": "normal",
-        "set": "TP"
+        "set": "TP",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -34,7 +35,8 @@
         "card_name": "Marrow-Mask Mendicant",
         "number": 2,
         "shape": "normal",
-        "set": "TP"
+        "set": "TP",
+        "position": ""
     },
     {
         "card_name": "e"

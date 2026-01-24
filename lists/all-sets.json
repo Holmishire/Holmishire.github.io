@@ -6,6 +6,11 @@
             "formats": "legacy"
         },
         {
+            "set_code": "EX",
+            "set_name": "External Feature",
+            "formats": "legacy"
+        },
+        {
             "set_code": "SS",
             "set_name": "Secret Santa",
             "formats": "legacy"

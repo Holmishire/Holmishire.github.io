@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TP</name>
+			<longname>Telephone</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Marrow-Mask Mendicant</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Whenever Marrow-Mask Mendicant deals combat damage to a player, choose a creature that player controls. Marrow-Mask Mendicant becomes a copy of that creature, except it has this ability and &quot;This creature has protection from creatures with the same name.&quot;</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/TP-files/img/2_Marrow-Mask Mendicant.png" num="2">TP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thaumaturgy Savant</name>
+			<text>You may look at the top card of your library at any time.
+You may cast instant and sorcery spells from the top of your library. Spend only mana produced by Treasures to cast spells this way.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/TP-files/img/1_Thaumaturgy Savant.png" num="1">TP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

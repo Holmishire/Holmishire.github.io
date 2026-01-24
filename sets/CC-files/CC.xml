@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CC</name>
+			<longname>Card Coliseum</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Tender Goatress</name>
+			<text>Flash
+Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
+---
+(Back): Effalen Tinderwolf</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/2_Tender Goatress_front.png" num="2a">CC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Effalen Tinderwolf</related>
+		</card>
+		<card>
+			<name>Effalen Tinderwolf</name>
+			<text>If a spell would resolve, instead counter it unless its controller pays two life for each other spell they&apos;ve cast this turn. 
+Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
+---
+(Front): Tender Goatress</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/2_Tender Goatress_back.png" num="2b">CC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Tender Goatress</related>
+		</card>
+		<card>
+			<name>Hand In Hand</name>
+			<text>Creatures you control have soulbond. (Unpaired creatures may pair as either enters the battlefield. They remain paired for as long as you control both of them.)
+Whenever you cast a spell that targets a creature you control and could target another creature paired with it, copy that spell. The copy targets the other creature.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/4_Hand In Hand.png" num="4">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dewdrop Strawman</name>
+			<text>At the beginning of your end step, you lose 1 life and create a 1/1 blue Bird Illusion creature token with flying.
+When Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illusion token you control. You gain 1 life for each token sacrificed this way.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/8_Dewdrop Strawman.png" num="8">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grudge Scavenge</name>
+			<text>Exile any number of target artifacts with total mana value twice X or less. For each artifact exiled this way, create a 0/1 red Alien Beast creature token with prowess and &quot;This creature can&apos;t block alone.&quot;</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/3_Grudge Scavenge.png" num="3">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oth&apos;teva Conservationist</name>
+			<text>When this creature enters or dies, return target permanent card with mana value 2 or less from your graveyard to your hand.
+Reprocess (If this dies, shuffle it from its owner&apos;s graveyard into their library. Look at the top two cards, then put one into their graveyard.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/6_Oth&apos;teva Conservationist.png" num="6">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treachery Unveiled</name>
+			<text>Target player separates the attacking creatures they control into two piles. Choose one of those piles. Untap each creature in that pile and gain control of those creatures until end of turn.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/7_Treachery Unveiled.png" num="7">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RRWW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smokeshawl Penitent</name>
+			<text>Menace, reach
+Whenever this creature deals combat damage to a player, put an echo counter on it. (For each echo counter this dies with, you may choose an ability that would trigger to trigger an additional time.)
+When this creature dies, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/5_Smokeshawl Penitent.png" num="5">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Megni&apos;s Fervent Plea</name>
+			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
+Choose X—
+• This spell can&apos;t be countered.
+• Exile target attacking creature.
+• Target player can&apos;t lose life this turn.
+• Put this spell onto the battlefield transformed and attached to target creature you control.
+---
+(Back): Megnificient, the Witchblade</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/1_Megni&apos;s Fervent Plea_front.png" num="1a">CC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XWW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Megnificient, the Witchblade</related>
+		</card>
+		<card>
+			<name>Megnificient, the Witchblade</name>
+			<text>Equipped creature has first strike, lifelink, and &quot;Whenever this creature deals damage to a permanent, that permanent loses indestructible until end of turn.&quot;
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
+---
+(Front): Megni&apos;s Fervent Plea</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/1_Megni&apos;s Fervent Plea_back.png" num="1b">CC</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Megni&apos;s Fervent Plea</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

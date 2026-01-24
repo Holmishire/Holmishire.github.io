@@ -1,4 +1,36 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Seclude
+
+Veintapped Relic
+
+Hale-Breasted Phoenix
+
+Twinhaft Challenger
+
+Looming Sentinels
+
+Drifter in Distress
+
+Lord of the Labyrinths
+
+Glacial Wanderings
+
+Hypothermia
+
+Glacial Fracture
+
+Bitter Chill Bravery
+
+Gone Astray
+
+Snowstorm Searcher
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

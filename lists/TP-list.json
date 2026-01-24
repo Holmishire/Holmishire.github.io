@@ -13,6 +13,7 @@
         "number": 1,
         "shape": "normal",
         "set": "TP",
+        "rotated": false,
         "position": ""
     },
     {
@@ -36,6 +37,7 @@
         "number": 2,
         "shape": "normal",
         "set": "TP",
+        "rotated": false,
         "position": ""
     },
     {

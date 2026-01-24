@@ -1,0 +1,1372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SS</name>
+			<longname>Secret Santa</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Blaithi Armsmaster</name>
+			<text>Double strike
+This creature can&apos;t block alone.
+Whenever an opponent is dealt damage by a source you control for the first time each turn, this creature pillages. (Put a +1/+1 counter on it. Whenever it deals combat damage to a player this turn, you may remove one to draw a card.)</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/43_Blaithi Armsmaster.png" num="43">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloak in Rime</name>
+			<text>Enchant creature
+Enchanted creature has protection from mana value 2 or greater. (This permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything with mana value 2 or greater..)
+When enchanted creature deals damage, sacrifice this Aura.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/4_Cloak in Rime.png" num="4">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blackwings&apos; Blessing</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-2, can&apos;t block, and can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/18_Blackwings&apos; Blessing.png" num="18">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Day&apos;s End Rest</name>
+			<text>Choose one or both—
+• Counter all abilities.
+• Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/34_Day&apos;s End Rest.png" num="34">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gracious Mycologist</name>
+			<text>When this creature enters and at the beginning of your upkeep, put a spore counter on it.
+Remove two spore counters from this creature: Choose one—
+• Create a 1/1 white Saproling creature token.
+• Return a creature or artifact card with mana value 1 from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/6_Gracious Mycologist.png" num="6">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kin &amp; Kiln</name>
+			<text>Put a +1/+1 counter on each creature you control, then remove any number of counters from among creatures you control. For each counter removed this way, add {R} and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/47_Kin &amp; Kiln.png" num="47">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eternities&apos; Wake</name>
+			<text>Whenever a creature you control attacks and isn&apos;t blocked, you may prevent all damage that creature would deal this turn.
+At the beginning of your postcombat main phase, if damage was prevented this turn, add that much {C} and draw a card. You can cast only one more spell this turn.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/14_Eternities&apos; Wake.png" num="14">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cinder&apos;s Prophecy</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/44_Cinder&apos;s Prophecy.png" num="44">SS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WBB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Husk of Cinder</name>
+			<text></text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/20_Husk of Cinder.png" num="20">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nightmare Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ora, Unbridled</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/31_Ora, Unbridled.png" num="31">SS</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Simul, the Veil-Cursed</name>
+			<text>---
+(Back): In Search of a Spark</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/48_Simul, the Veil-Cursed_front.png" num="48a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Simul</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UBG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">In Search of a Spark</related>
+		</card>
+		<card>
+			<name>In Search of a Spark</name>
+			<text>Put a -1/-1 counter on each of up to X target creatures, where X is your legacy. (Your legacy is the number of legendary permanents you control plus legends in your graveyard.)
+Proliferate.
+---
+(Front): Simul, the Veil-Cursed</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/48_Simul, the Veil-Cursed_back.png" num="48b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Simul, the Veil-Cursed</related>
+		</card>
+		<card>
+			<name>Autumnal Vale</name>
+			<text>Autumnal Vale enters the battlefield tapped unless you control another Plains.
+{T}: Add {W}.
+{2}, {T}, Sacrifice Autumnal Vale: Search your library for a basic Mountain card and a basic Forest card. Reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/54_Autumnal Vale.png" num="54">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Back // Forth</name>
+			<text>Untap each permanent you control.
+If {VG}{VG} or {VW}{VW} was spent to cast this spell, draw a card. ({VG} is mana from basic forests.)
+
+---
+
+After this main phase, there is an additional combat phase.
+If {VR} or {VW} was spent to cast this spell, each creature can&apos;t 
+block more than once this turn.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/52_Back.png" num="52">SS</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GW // RW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Delving Nixie</name>
+			<text>Trample, haste
+Whenever Delving Nixie deals combat damage to a player, you may pay {1}{VG}. If you do, create a token that&apos;s a copy of Delving Nixie. Otherwise, create a 3/1 green Ouphe creature token with trample and haste.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/35_Delving Nixie.png" num="35">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Earnest Vassal</name>
+			<text>Earnest Vassal must be blocked if able.
+{2}{R}: Earnest Vassal gets +3/+0 until end of turn. If {VR} was spent to activate this ability, it also gains menace until end of turn. ({VR} is mana from basic mountains.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/28_Earnest Vassal.png" num="28">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harvest Sentinel</name>
+			<text>Harvest Sentinel costs {1} less to cast for each {VW} spent to cast it. ({VW} is mana from basic plains.)
+Harvest Sentinel&apos;s power and toughness are each equal to the number of plains you control.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/7_Harvest Sentinel.png" num="7">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ouphe SS</name>
+			<text>Trample, haste</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/1t_Ouphe.png" num="1">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Ouphe</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human SS</name>
+			<text></text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/2t_Human.png" num="2">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Observance of the Sacred</name>
+			<text>Whenever a player attacks, for each favor counter you have, you may choose an attacking creature. Untap that creature and remove it from combat unless its controller pays {2}.
+At the beginning of your end step, if you have no favor counters, pray.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/8_Observance of the Sacred.png" num="8">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soldier Devout</name>
+			<text>Whenever Soldier Devout attacks, pray, then Soldier Devout deals damage to target creature an opponent controls equal to the number of favor counters you have. (You get a favor counter. Spend six as a sorcery to create a 4/4 white Angel creature token with flying.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Soldier Devout.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parry</name>
+			<text>Target creature you control gains first strike until end of turn. Then for each other instant spell, sorcery spell, or ability that targets only that creature, choose one.
+• Choose new targets for that spell or ability.
+• Copy that spell or ability.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Parry.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trollsbane Punk</name>
+			<text>Convicted — Whenever you cast your second spell each turn, until end of turn, Trollsbane Punk has base power and toughness 3/3, gains hexproof, and becomes a Giant in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Trollsbane Punk.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moment of Privacy</name>
+			<text>Spend only blue mana on X.
+X target creatures you control phase out. If X is 2, first put a +1/+1 counter on each of those creatures. (Treat those creatures and anything attached to them as though they don&apos;t exist until your next turn.)</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Moment of Privacy.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nippy Shoalsteer</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Nippy Shoalsteer.png" num="0">SS</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrion Peddler</name>
+			<text>Whenever a creature you control scavenges for +1/+1 counters, create half that many 0/1 white Human creature tokens, rounded down.
+{2}, Sacrifice another Human: Carrion Peddler gains trample until end of turn. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/33_Carrion Peddler.png" num="33">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blighted Hunt</name>
+			<text>Deathtouch
+When a creature scavenges Blighted Hunt, it gains deathtouch and haste. Sacrifice it at the beginning of the next end step.
+Scavenge {BG} ({BG}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/19_Blighted Hunt.png" num="19">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual Warden</name>
+			<text>{2}{B}, Sacrifice a permanent: Look at the top X cards of your library, where X is the sacrificed permanent&apos;s mana value. Put one of those cards into your hand, then shuffle.
+Minimalist — Whenever another nontoken permanent is put into your graveyard from the battlefield, Ritual Warden gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/24_Ritual Warden.png" num="24">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Crucible</name>
+			<text>Minimalist — Whenever a nontoken permanent is put into your graveyard from the battlefield, you gain 1 life. If Scarlet Crucible was that permanent, return a permanent card with lesser mana value from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Scarlet Crucible.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nunieve&apos;s Aspirant</name>
+			<text>Whenever Nunieve&apos;s Aspirant deals combat damage to a player, you may draw that many cards. If you do, put that many cards minus one from your hand on top of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Nunieve&apos;s Aspirant.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glint in the Depths</name>
+			<text>---
+(Back): Celestial Sphere</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/37_Glint in the Depths_front.png" num="37a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Mystery</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Celestial Sphere</related>
+		</card>
+		<card>
+			<name>Celestial Sphere</name>
+			<text>When this transforms into Celestial Sphere, exile target instant or sorcery card from your graveyard.
+If you would draw a card, you may instead cast a copy of the exiled card. (You still pay its costs.)
+---
+(Front): Glint in the Depths</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/37_Glint in the Depths_back.png" num="37b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Glint in the Depths</related>
+		</card>
+		<card>
+			<name>Motley Wayfinder</name>
+			<text>When Motley Wayfinder enters the battlefield, surveil 1. If you lost life since your last turn, Motley Wayfinder explores instead.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/22_Motley Wayfinder.png" num="22">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rebel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rainfall</name>
+			<text>Creatures have base power 0 until end of turn. You may put a stun counter on each attacking creature.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/17_Rainfall.png" num="17">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scarwood Pilferer</name>
+			<text>Whenever Scarwood Pilferer attacks, gain control of up to one target artifact. It loses all abilities.
+{2}{U}: Exile target Equipment you control. Return it to the battlefield under your control and attached to Scarwood Pilferer.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/42_Scarwood Pilferer.png" num="42">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Rebel Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tardy Grayson</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/51_Tardy Grayson.png" num="51">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Planeswalker — Grayson</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>G/U</manacost>
+				<cmc>1</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>1</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grandfather&apos;s Blade</name>
+			<text>Equipped creature gets +1/+0 and has haste.
+Whenever a creature enters the battlefield from your graveyard, you may attach this to it. If Grandfather&apos;s Blade is in your graveyard, instead return it to the battlefield and attach it to that creature.</text>
+			<set rarity="special" picurl="https://Holmishire.github.io/sets/SS-files/img/56_Grandfather&apos;s Blade.png" num="56">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clow Cards, Reclaimed</name>
+			<text>Shuffle your hand into your library. For each card shuffled this way, you may reveal an instant or sorcery card you own from outside the game and put it into your hand. End the turn.
+---
+(Back): Tomoyo&apos;s Claim</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/13_Clow Cards, Reclaimed_front.png" num="13a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Tomoyo&apos;s Claim</related>
+		</card>
+		<card>
+			<name>Tomoyo&apos;s Claim</name>
+			<text>---
+(Front): Clow Cards, Reclaimed</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/13_Clow Cards, Reclaimed_back.png" num="13b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Aura Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Clow Cards, Reclaimed</related>
+		</card>
+		<card>
+			<name>WITCHING</name>
+			<text></text>
+			<set rarity="special" picurl="https://Holmishire.github.io/sets/SS-files/img/0_WITCHING.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Booster</type>
+				<maintype>Booster</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coffee Medium</name>
+			<text>When Coffee Medium enters, exile the top three cards of your library. Until end of turn, you may play one of the exiled cards for each color of mana spent to cast this spell.
+---
+(Back): Coven Café</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/27_Coffee Medium_front.png" num="27a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Coven Café</related>
+		</card>
+		<card>
+			<name>Coven Café</name>
+			<text>{T}, Pay 1 life: Add {R}.
+{2}, {T}, Discard a card: Return Coven Café to its owner&apos;s hand. Activate only as a sorcery.
+---
+(Front): Coffee Medium</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/27_Coffee Medium_back.png" num="27b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Coffee Medium</related>
+		</card>
+		<card>
+			<name>Record Spill</name>
+			<text>Target opponent discards two cards. Then if that player discarded fewer cards than colors of mana spent to cast this spell, you draw cards and gain life equal to the difference.
+---
+(Back): Cult&apos;s Corner Shop</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/23_Record Spill_front.png" num="23a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Cult&apos;s Corner Shop</related>
+		</card>
+		<card>
+			<name>Cult&apos;s Corner Shop</name>
+			<text>{T}, Pay 1 life: Add {B}.
+{2}, {T}, Discard a card: Return Cult&apos;s Corner Shop to its owner&apos;s hand. Activate only as a sorcery.
+---
+(Front): Record Spill</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/23_Record Spill_back.png" num="23b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Record Spill</related>
+		</card>
+		<card>
+			<name>Lift the Veil</name>
+			<text>Return target permanent you control to its owner&apos;s hand.
+You may spend mana as though it were mana of any color to cast the next spell you cast if it shares a color with the card returned this way.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/1_Lift the Veil.png" num="1">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Familiar&apos;s Friend // Why Pick One?</name>
+			<text>Menace
+Esteem 2 (Whenever this untaps, you may put a +1/+1 counter on it. As you do, if it has two or more, it becomes legendary and loses this ability.)
+
+---
+
+Create two 1/1 black Cat creature tokens for each counter among creatures you control. (Cast a copy of this spell once, only while you control this creature and a legend.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/29_Familiar&apos;s Friend.png" num="29">SS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock // Legendary Sorcery — Tale</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // 5G</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pumpkin Farmers</name>
+			<text>Defender, vigilance
+Sacrifice a Food: Add {G}.
+{1}, {T}: Create a Food token.
+Esteem 2 (Whenever this untaps, you may put a +1/+1 counter on it. As you do, if it has two or more, it becomes legendary and loses this ability.)
+When Pumpkin Farmers becomes legendary, it loses defender.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/41_Pumpkin Farmers.png" num="41">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speeding Ticket</name>
+			<text>Enchant creature or artifact
+Enchanted permanent can&apos;t attack or block unless its controller pays {3}.
+If one or more counters would be put on enchanted permanent, put that many stun counters on it instead.
+---
+(Back): Taking It Slow</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/11_Speeding Ticket_front.png" num="11a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Taking It Slow</related>
+		</card>
+		<card>
+			<name>Taking It Slow</name>
+			<text>Creatures your opponents control get -4/-0 until end of turn. Scry 1.
+---
+(Front): Speeding Ticket</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/11_Speeding Ticket_back.png" num="11b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Speeding Ticket</related>
+		</card>
+		<card>
+			<name>Audana</name>
+			<text></text>
+			<set rarity="special" picurl="https://Holmishire.github.io/sets/SS-files/img/0_Audana.png" num="0">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Booster</type>
+				<maintype>Booster</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kaede, Dayspring Snoop</name>
+			<text>Whenever you cast an instant, sorcery, or artifact spell, choose one—
+• You gain 2 life and mill 2.
+• Create a 1/1 red Elemental creature token with &quot;This creature can&apos;t block.&quot;
+---
+(Back): Sunkissed Kaede</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/38_Kaede, Dayspring Snoop_front.png" num="38a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sunkissed Kaede</related>
+		</card>
+		<card>
+			<name>Sunkissed Kaede</name>
+			<text>Flying, trample
+At the beginning of your postcombat main phase, choose any number of target instant, sorcery, and/or artifact cards in your graveyard with total mana value X or less, where X is the combat damage dealt to players this turn. You may cast those cards without paying their mana costs.
+---
+(Front): Kaede, Dayspring Snoop</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/38_Kaede, Dayspring Snoop_back.png" num="38b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Kaede, Dayspring Snoop</related>
+		</card>
+		<card>
+			<name>Manamorphose</name>
+			<text>Add two mana in any combination of colors.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/49_Manamorphose.png" num="49">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tobi&apos;s Heart-Splinter</name>
+			<text>Whenever an enchantment card is put into your graveyard from anywhere, each opponent loses 1 life and you gain 1 life.
+{2}: Surveil 1, then sacrifice Tobi&apos;s Heart-Splinter. When you do, draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/26_Tobi&apos;s Heart-Splinter.png" num="26">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Take Another Breath</name>
+			<text>Target nonland, nonartifact permanent gains indestructible. You gain 2 life.
+At the beginning of your next turn&apos;s end step, that permanent&apos;s controller sacrifices it. When they do, that player draws a card.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/50_Take Another Breath.png" num="50">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lorelei No Longer</name>
+			<text>At the beginning of combat on each opponent&apos;s turn, you may exert Lorelei. When you do, target creature attacks this combat if able. (An exerted creature won&apos;t untap during your next untap step.)
+{1}{U}, {T}: Create a token copy of each creature Lorelei blocked this turn.
+---
+(Back): Lorelei&apos;s Unraveling</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/15_Lorelei No Longer_front.png" num="15a">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2UUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lorelei&apos;s Unraveling</related>
+		</card>
+		<card>
+			<name>Lorelei&apos;s Unraveling</name>
+			<text>Exile target creature. For as long as it remains exiled, its owner may cast it. At the beginning of your next main phase, add mana equal to its mana cost.
+---
+(Front): Lorelei No Longer</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/15_Lorelei No Longer_back.png" num="15b">SS</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Lorelei No Longer</related>
+		</card>
+		<card>
+			<name>Cat SS</name>
+			<text></text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/3t_Cat.png" num="3">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Chase the Shifting Moon</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/12_Chase the Shifting Moon.png" num="12">SS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eyes Agape</name>
+			<text>({UP} can be paid with either {U} or 2 life. {BP} can be paid with either {B} or 2 life.)
+Draw a card for each color of mana spent to cast this spell, then discard a card unless you lost life this turn.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/45_Eyes Agape.png" num="45">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/PB/P</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surge Protector</name>
+			<text>Whenever you expend 5, untap this artifact and it becomes a 5/5 Golem creature until end of turn. (You expend 5 as you spend your fifth total mana to cast spells during a turn.)
+{1}, {T}: Add {C}{U}.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/53_Surge Protector.png" num="53">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Construct</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dryad of Dusk&apos;s Whisper</name>
+			<text>Eclipse (As this enters, phase it out, or phase out another creature you control until it leaves the battlefield. It gains that creature&apos;s abilities.)
+If a triggered ability of this permanent would trigger, that ability triggers an additional time.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/36_Dryad of Dusk&apos;s Whisper.png" num="36">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Nymph Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pierce the Cosmos</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/32_Pierce the Cosmos.png" num="32">SS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Legion&apos;s Echo</name>
+			<text>Deathtouch
+Inspired — Whenever this creature becomes untapped, search your library for a card with the same name, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/21_Legion&apos;s Echo.png" num="21">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gentle Jackalope</name>
+			<text>Lifelink, ward {1}
+If a creature you control with mana value 1 would leave the battlefield, you may instead phase it out until this creature leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/5_Gentle Jackalope.png" num="5">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Rabbit Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chevalier Rosé</name>
+			<text>Vigilance
+Noncreature spells cost {WP} more to cast. ({WP} can be paid with either {W} or 2 life.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/3_Chevalier Rosé.png" num="3">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel Knight Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chase the Blinding Sun</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/2_Chase the Blinding Sun.png" num="2">SS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crawling from the Drink</name>
+			<text>At the beginning of each combat, you may put a stun counter on target land you control. If you do, until end of turn, it becomes a 3/2 Horror creature with vigilance that is still a land.
+Sacrifice this enchantment: Return up to three target land cards from your graveyard to your hand.</text>
+			<set rarity="special" picurl="https://Holmishire.github.io/sets/SS-files/img/55_Crawling from the Drink.png" num="55">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spectramorphosis</name>
+			<text>This spell costs {1}{B} less to cast if it targets a creature you control.
+Choose target nontoken creature, then create a token that&apos;s a copy of it except it&apos;s a 1/1 Insect Spirit and has flying. Exile the chosen creature until the token leaves the battlefield.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/25_Spectramorphosis.png" num="25">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mossback Elk</name>
+			<text>Whenever a creature card leaves your graveyard or is put into your graveyard from anywhere other than the battlefield for the first time each turn, put a vigor counter on this creature. (When a creature attacks, remove its vigor counters. It gets +2/+2 until end of turn for each.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SS-files/img/39_Mossback Elk.png" num="39">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacred Starseeker</name>
+			<text>Flying
+Whenever a creature you control leaves the battlefield, you gain 1 life.
+Shuffle this card from your graveyard into your library: Draw a card. Activate only if you gained 5 or more life this turn.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/10_Sacred Starseeker.png" num="10">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obsession Crown</name>
+			<text>Flash
+Enchant creature
+Enchanted creature has trample and &quot;Discard a card: This creature deals 1 damage to each creature blocking it.&quot;</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/30_Obsession Crown.png" num="30">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Obviation Crown</name>
+			<text>Flash
+Enchant creature
+Enchanted creature has &quot;Discard a card: This creature phases out.&quot; (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/9_Obviation Crown.png" num="9">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Obligation Crown</name>
+			<text>Flash
+Enchant creature
+Discard a card: Gain control of enchanted creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/16_Obligation Crown.png" num="16">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Obtention Crown</name>
+			<text>Flash
+Enchant creature
+Enchanted creature has reach and &quot;Discard a card: Untap this creature.&quot;</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SS-files/img/40_Obtention Crown.png" num="40">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harmonious Migration</name>
+			<text>Whenever a creature entering causes a triggered ability to trigger, if that ability targets exactly one creature you control, you may copy that ability for each other creature you control that ability could target. Each copy targets a different one of those creatures.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SS-files/img/46_Harmonious Migration.png" num="46">SS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -188,8 +188,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Yun Ling",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag highlight\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Veintapped Relic",
@@ -207,8 +211,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Jared Shears",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "http://jaredshear.com/portfolio/digital/#jp-carousel-851\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hale-Breasted Phoenix",
@@ -226,8 +234,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "mobius-9",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "https://www.deviantart.com/mobius-9/art/White-dragon-596282983\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twinhaft Challenger",
@@ -245,8 +257,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Step\u00e1n Kapko",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/48E8k8\n\n!tag underhalls\n\n!group underhalls",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Looming Sentinels",
@@ -264,8 +280,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Robin Boer",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "https://www.deviantart.com/robin-boer/art/Minotaur-579160839\n\n!tag underhalls\n\n!group underhalls",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drifter in Distress",
@@ -283,8 +303,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Michael MacRae",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nQe9Ke\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lord of the Labyrinths",
@@ -302,8 +326,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Drawing_Sofa",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "https://www.furaffinity.net/view/55306037/\n\n!tag underhalls\n\n!group underhalls",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glacial Wanderings",
@@ -321,8 +349,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Andreas Rocha",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oAq6gk\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hypothermia",
@@ -340,8 +372,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Michael MacRae",
-            "notes": "https://www.artstation.com/artwork/kD5wln",
-            "image_type": "png"
+            "alias": "",
+            "position": "8",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/kD5wln\n\n!tag godspine\n\n!group godspine",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glacial Fracture",
@@ -359,8 +395,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Nightblue-art",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "https://www.deviantart.com/nightblue-art/art/Avalanche-207538773\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bitter Chill Bravery",
@@ -378,8 +418,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "ZAI007",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag highlight\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gone Astray",
@@ -397,8 +441,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Jef \"Endtour\" Wu",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/e0rda6\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Snowstorm Searcher",
@@ -416,8 +464,12 @@
             "set": "EX",
             "loyalty": "",
             "artist": "Philippe Lozinski",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "https://www.behance.net/gallery/30697687/Trapped-in-a-snowstorm/modules/196838467\n\n!tag godspine\n\n!group godspine",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blaithi Armsmaster",

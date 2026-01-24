@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>EX</name>
+			<longname>External Feature</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-23</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Seclude</name>
+			<text>Target player reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. If you don&apos;t, put two stun counters on a creature or land they control.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/EX-files/img/0.png" num="8">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veintapped Relic</name>
+			<text>Whenever this creature deals excess damage to a permanent, you may draw that many cards. If you do, discard that many cards.
+{2}, Exile this card from your graveyard: Create a Splinter token for each card yoyu&apos;ve discarded this turn. (It&apos;s a snow artifact with &quot;{T}, Sacrifice this token: Add {C}.&quot;)</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/EX-files/img/1.png" num="13">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hale-Breasted Phoenix</name>
+			<text>Flying, lifelink
+Scavenge {4}{R}{W} ({4}{R}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)
+When a creature scavenges this card, put it into your hand. You gain 2 life.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/EX-files/img/2.png" num="12">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twinhaft Challenger</name>
+			<text>Menace
+Whenever a battle you control is defeated or an attacking creature you control dies, the defending player loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/EX-files/img/3.png" num="9">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Looming Sentinels</name>
+			<text>Menace
+When this creature enters, create an Encounter token. (It&apos;s a colorless battle with 2 defense and &quot;When this is defeated, draw a card and create a Treasure token.&quot;)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/EX-files/img/4.png" num="6">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drifter in Distress</name>
+			<text>Whenever this creature deals combat damage to a player, gain 1 life, then you may put a stun counter on it. If you do, that player discards a card.
+{2}{B}, Discard a card: This creature can&apos;t be blocked except by Horrors this turn.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/EX-files/img/5.png" num="3">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord of the Labyrinths</name>
+			<text>Menace, deathtouch
+Whenever a creature blocks a creature you control, the blocking creature&apos;s controller loses 1 life and you gain 1 life.
+{2}{R}: Target Minotaur must be blocked this turn if able.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/EX-files/img/6.png" num="7">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glacial Wanderings</name>
+			<text>At end of combat on each player&apos;s turn, that player loses 1 life for each untapped creature they control. 
+Whenever a creature you control deals combat damage to a player, you may put a stun counter on it. If you do, each player discards a card, then you draw a card.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/EX-files/img/7.png" num="4">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hypothermia</name>
+			<text>Exile target creature. You gain life equal to its toughness.
+When this card is put into a graveyard from anywhere, shuffle it into its owner&apos;s library, then each player loses 1 life.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/EX-files/img/8.png" num="5">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glacial Fracture</name>
+			<text>As an additional cost to cast this spell, tap an untapped creature you control and put a stun counter on it.
+Choose one —
+• Glacial Fracture deals damage equal to the tapped creature&apos;s power to any target.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/EX-files/img/9.png" num="10">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bitter Chill Bravery</name>
+			<text>Target creature gets +3/+3 until end of turn. If {S} was spent to cast this spell, put three +1/+1 counters on that creature instead. ({S} is mana from a snow source.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/EX-files/img/10.png" num="11">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gone Astray</name>
+			<text>When this enchantment enters, target nonland permanent an opponent controls phases out until this enchantment leaves the battlefield. (Treat it and anything attached to it as though they don&apos;t exist.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/EX-files/img/11.png" num="1">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Snowstorm Searcher</name>
+			<text>Tapped creatures you control have ward {1}. (Tapping a creature doesn&apos;t cause ward to trigger on anything already targeting it.)
+{1}{W}, {T}: Target creature gets +1/+0 gains lifelink until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/EX-files/img/12.png" num="2">EX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

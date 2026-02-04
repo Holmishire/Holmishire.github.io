@@ -5,7 +5,7 @@
 			<name>CC</name>
 			<longname>Card Coliseum</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-23</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -15,7 +15,7 @@
 Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 ---
 (Back): Effalen Tinderwolf</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/2_Tender Goatress_front.png" num="2a">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/0_front.png" num="2a">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -36,7 +36,7 @@ Daybound (If a player casts no spells during their own turn, it becomes night ne
 Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 ---
 (Front): Tender Goatress</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/2_Tender Goatress_back.png" num="2b">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/0_back.png" num="2b">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -55,7 +55,7 @@ Nightbound (If a player casts at least two spells during their own turn, it beco
 			<name>Hand In Hand</name>
 			<text>Creatures you control have soulbond. (Unpaired creatures may pair as either enters the battlefield. They remain paired for as long as you control both of them.)
 Whenever you cast a spell that targets a creature you control and could target another creature paired with it, copy that spell. The copy targets the other creature.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/4_Hand In Hand.png" num="4">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/1.png" num="5">CC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -72,7 +72,7 @@ Whenever you cast a spell that targets a creature you control and could target a
 			<name>Dewdrop Strawman</name>
 			<text>At the beginning of your end step, you lose 1 life and create a 1/1 blue Bird Illusion creature token with flying.
 When Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illusion token you control. You gain 1 life for each token sacrificed this way.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/8_Dewdrop Strawman.png" num="8">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/2.png" num="11">CC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -86,7 +86,7 @@ When Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illus
 		<card>
 			<name>Grudge Scavenge</name>
 			<text>Exile any number of target artifacts with total mana value twice X or less. For each artifact exiled this way, create a 0/1 red Alien Beast creature token with prowess and &quot;This creature can&apos;t block alone.&quot;</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/3_Grudge Scavenge.png" num="3">CC</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/3.png" num="4">CC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -103,7 +103,7 @@ When Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illus
 			<name>Oth&apos;teva Conservationist</name>
 			<text>When this creature enters or dies, return target permanent card with mana value 2 or less from your graveyard to your hand.
 Reprocess (If this dies, shuffle it from its owner&apos;s graveyard into their library. Look at the top two cards, then put one into their graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/6_Oth&apos;teva Conservationist.png" num="6">CC</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/4.png" num="9">CC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ Reprocess (If this dies, shuffle it from its owner&apos;s graveyard into their l
 		<card>
 			<name>Treachery Unveiled</name>
 			<text>Target player separates the attacking creatures they control into two piles. Choose one of those piles. Untap each creature in that pile and gain control of those creatures until end of turn.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/7_Treachery Unveiled.png" num="7">CC</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/5.png" num="10">CC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -138,7 +138,7 @@ Reprocess (If this dies, shuffle it from its owner&apos;s graveyard into their l
 			<text>Menace, reach
 Whenever this creature deals combat damage to a player, put an echo counter on it. (For each echo counter this dies with, you may choose an ability that would trigger to trigger an additional time.)
 When this creature dies, exile the top card of your library. You may play that card until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/5_Smokeshawl Penitent.png" num="5">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/6.png" num="7">CC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -162,7 +162,7 @@ Choose X—
 • Put this spell onto the battlefield transformed and attached to target creature you control.
 ---
 (Back): Megnificient, the Witchblade</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/1_Megni&apos;s Fervent Plea_front.png" num="1a">CC</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/7_front.png" num="1a">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -182,7 +182,7 @@ Choose X—
 Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 (Front): Megni&apos;s Fervent Plea</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/1_Megni&apos;s Fervent Plea_back.png" num="1b">CC</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/7_back.png" num="1b">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -195,6 +195,57 @@ Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">Megni&apos;s Fervent Plea</related>
+		</card>
+		<card>
+			<name>Aenin&apos;s Journaling</name>
+			<text>At the beginning of each main phase during your turn, you may exile a permanent card from your graveyard. If you do, add {C} or one mana of any of the exiled card&apos;s colors. Otherwise, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/8.png" num="8">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crippling Snare</name>
+			<text>Put two stun counters on target creature. For as long as that creature has a stun counter on it, it has &quot;When this creature is dealt damage, destroy it.&quot; (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/9.png" num="3">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Regisaur Packmate</name>
+			<text>Trample, haste
+Enrage — Whenever this creature is dealt damage, create a 3/2 green Dinosaur creature token that can&apos;t block.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/10.png" num="6">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

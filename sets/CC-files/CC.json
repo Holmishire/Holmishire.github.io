@@ -1,9 +1,11 @@
 ﻿{
     "name": "Card Coliseum",
     "formats": "legacy",
-    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "none",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Tender Goatress",
@@ -21,6 +23,8 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Hans Dahl",
+            "alias": "",
+            "position": "0",
             "card_name2": "Effalen Tinderwolf",
             "color2": "R",
             "type2": "Creature \u2014 Werewolf",
@@ -31,14 +35,17 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Wavyrr",
-            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag innistrad\n!tag highlight\n\n!sort 99"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n!tag highlight\n\n!sort 99"
         },
         {
             "card_name": "Hand In Hand",
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 4,
+            "number": 5,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Creatures you control have soulbond. [i](Unpaired creatures may pair as either enters the battlefield. They remain paired for as long as you control both of them.)[/i]\nWhenever you cast a spell that targets a creature you control and could target another creature paired with it, copy that spell. The copy targets the other creature.",
@@ -49,14 +56,17 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Deb Lee",
-            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag innistrad\n\n!sort 98"
+            "alias": "",
+            "position": "1",
+            "rotated": false,
+            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag<plane> innistrad\n\n!sort 98"
         },
         {
             "card_name": "Dewdrop Strawman",
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 8,
+            "number": 11,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "At the beginning of your end step, you lose 1 life and create a 1/1 blue Bird Illusion creature token with flying.\nWhen Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illusion token you control. You gain 1 life for each token sacrificed this way.",
@@ -67,6 +77,9 @@
             "set": "CC",
             "loyalty": "",
             "artist": "\u3082\u306e\u4e45\u4fdd aka MonoKubo",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "https://twitter.com/13033303/status/1182650243831103490\n\n!sort 97"
         },
         {
@@ -74,7 +87,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 3,
+            "number": 4,
             "color_identity": "R",
             "cost": "{X}{1}{R}",
             "rules_text": "Exile any number of target artifacts with total mana value twice X or less. For each artifact exiled this way, create a 0/1 red Alien Beast creature token with prowess and \u201cThis creature can't block alone.\u201d",
@@ -85,6 +98,9 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Jake Parker",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3\n\n!sort 96"
         },
         {
@@ -92,7 +108,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Artificer Druid",
-            "number": 6,
+            "number": 9,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "When this creature enters or dies, return target permanent card with mana value 2 or less from your graveyard to your hand.\nReprocess [i](If this dies, shuffle it from its owner's graveyard into their library. Look at the top two cards, then put one into their graveyard.)[/i]",
@@ -103,14 +119,17 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Alex Konstad",
-            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!sort 95"
+            "alias": "",
+            "position": "4",
+            "rotated": false,
+            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!tag<character> shahar\n!tag<otag> mechanic-holmi\n\n!sort 95"
         },
         {
             "card_name": "Treachery Unveiled",
             "color": "WR",
             "rarity": "mythic",
             "type": "Instant",
-            "number": 7,
+            "number": 10,
             "color_identity": "WR",
             "cost": "{2}{R}{R}{W}{W}",
             "rules_text": "Target player separates the attacking creatures they control into two piles. Choose one of those piles. Untap each creature in that pile and gain control of those creatures until end of turn.",
@@ -121,6 +140,9 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Mingchen Shen",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!sort 94"
         },
         {
@@ -128,7 +150,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Human Ranger Shaman",
-            "number": 5,
+            "number": 7,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Menace, reach\nWhenever this creature deals combat damage to a player, put an echo counter on it. [i](For each echo counter this dies with, you may choose an ability that would trigger to trigger an additional time.)[/i]\nWhen this creature dies, exile the top card of your library. You may play that card until the end of your next turn.",
@@ -139,7 +161,10 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Lei Min",
-            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag workshop\n\n!sort 93"
+            "alias": "",
+            "position": "6",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<otag> mechanic-holmi\n!tag workshop\n\n!sort 93"
         },
         {
             "card_name": "Megni's Fervent Plea",
@@ -157,6 +182,8 @@
             "set": "CC",
             "loyalty": "",
             "artist": "Vicki Sigh",
+            "alias": "",
+            "position": "7",
             "card_name2": "Megnificient, the Witchblade",
             "color2": "W",
             "type2": "Legendary Artifact \u2014 Equipment",
@@ -167,8 +194,74 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Tolrone (edited)",
-            "notes": "https://x.com/vickisigh/status/1852398192564023439\nhttps://sunanooshiro.tumblr.com/post/163958646390/theartofanimation-tolrone\n\n!sort 92"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://x.com/vickisigh/status/1852398192564023439\nhttps://sunanooshiro.tumblr.com/post/163958646390/theartofanimation-tolrone\n\n!tag<character> megni\n\n!sort 92"
+        },
+        {
+            "card_name": "Aenin's Journaling",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Legendary Enchantment",
+            "number": 8,
+            "color_identity": "G",
+            "cost": "{2}{G}",
+            "rules_text": "At the beginning of each main phase during your turn, you may exile a permanent card from your graveyard. If you do, add {C} or one mana of any of the exiled card's colors. Otherwise, you gain 1 life.",
+            "flavor_text": "[i]\u201cSurvival demands more of me than food and shelter. The mind, too, is a constant hunger.\u201d\n\u2014Aenin's journal, entry LMXXXIV[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CC",
+            "loyalty": "",
+            "artist": "Lei Min",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/Gar06a\n\n!tag<plane> primja\n!tag<character> aenin\n\n!sort 89"
+        },
+        {
+            "card_name": "Crippling Snare",
+            "color": "B",
+            "rarity": "common",
+            "type": "Sorcery",
+            "number": 3,
+            "color_identity": "B",
+            "cost": "{1}{B}",
+            "rules_text": "Put two stun counters on target creature. For as long as that creature has a stun counter on it, it has \u201cWhen this creature is dealt damage, destroy it.\u201d [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]\nSurveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CC",
+            "loyalty": "",
+            "artist": "Mingchen Shen & Lei Min (edited)",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/GXAmBd\nhttps://www.artstation.com/artwork/Aq0qJm\n\n!tag<plane> primja\n!tag<otag> color-break\n!tag<character> aenin\n\n!sort 90"
+        },
+        {
+            "card_name": "Regisaur Packmate",
+            "color": "R",
+            "rarity": "rare",
+            "type": "Creature \u2014 Dinosaur",
+            "number": 6,
+            "color_identity": "R",
+            "cost": "{4}{R}{R}",
+            "rules_text": "Trample, haste\n[i]Enrage[/i] \u2014 Whenever this creature is dealt damage, create a 3/2 green Dinosaur creature token that can't block.",
+            "flavor_text": "[i]\u201cMother had always warned me to \u2018pick my battles.' After today\u2026 I get it.\u201d\n\u2014Aenin's journal, entry XLII[/i]",
+            "pt": "4/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "CC",
+            "loyalty": "",
+            "artist": "Alex Vede",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
+            "notes": "https://www.instagram.com/alexvede96/p/CYChM0iqvmE/?hl=en\n\n!tag<plane> primja\n!tag<character> aenin\n\n!sort 91"
         }
     ],
-    "version": 2
+    "version": 3
 }

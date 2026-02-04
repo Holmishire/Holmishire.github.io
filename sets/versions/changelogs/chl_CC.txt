@@ -1,4 +1,29 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Aenin's Journaling added.
+Crippling Snare added.
+Regisaur Packmate added.
+
+
+Tender Goatress
+
+Hand In Hand
+
+Dewdrop Strawman
+
+Grudge Scavenge
+
+Oth'teva Conservationist
+
+Treachery Unveiled
+
+Smokeshawl Penitent
+
+Megni's Fervent Plea
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Smokeshawl Penitent added.

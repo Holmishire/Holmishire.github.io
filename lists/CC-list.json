@@ -5,7 +5,42 @@
         "shape": "transform double faced",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Crippling Snare",
+        "number": 3,
+        "shape": "normal",
+        "set": "CC",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Regisaur Packmate",
+        "number": 6,
+        "shape": "normal",
+        "set": "CC",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Aenin's Journaling",
+        "number": 8,
+        "shape": "normal",
+        "set": "CC",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Tender Goatress",
+        "number": 2,
+        "shape": "transform double faced",
+        "set": "CC",
+        "rotated": false,
+        "position": "0"
     },
     {
         "card_name": "e"
@@ -15,27 +50,22 @@
     },
     {
         "card_name": "Smokeshawl Penitent",
-        "number": 5,
+        "number": 7,
         "shape": "normal",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "Oth'teva Conservationist",
-        "number": 6,
+        "number": 9,
         "shape": "normal",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
-        "card_name": "Tender Goatress",
-        "number": 2,
-        "shape": "transform double faced",
-        "set": "CC",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -45,11 +75,11 @@
     },
     {
         "card_name": "Hand In Hand",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "e"
@@ -65,11 +95,11 @@
     },
     {
         "card_name": "Grudge Scavenge",
-        "number": 3,
+        "number": 4,
         "shape": "normal",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "e"
@@ -100,11 +130,11 @@
     },
     {
         "card_name": "Treachery Unveiled",
-        "number": 7,
+        "number": 10,
         "shape": "normal",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
         "card_name": "e"
@@ -124,11 +154,11 @@
     "a->colorless",
     {
         "card_name": "Dewdrop Strawman",
-        "number": 8,
+        "number": 11,
         "shape": "normal",
         "set": "CC",
         "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
         "card_name": "e"

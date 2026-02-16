@@ -315,7 +315,7 @@ Revolt — At the beginning of your end step, if a permanent you controlled left
 		</card>
 		<card>
 			<name>Outrider of the Lysian Mists</name>
-			<text>Reach, protection from creatures with flying (This creature can&apos;t be blocked, targeted or dealt damage by creatures with flying.) 2GG — 4/3 (This creature can&apos;t be blocked, targeted or dealt damage by creatures with flying.)</text>
+			<text>2GG —</text>
 			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/15.png" num="13">CC</set>
 			<prop>
 				<layout>normal</layout>
@@ -332,8 +332,7 @@ Revolt — At the beginning of your end step, if a permanent you controlled left
 		</card>
 		<card>
 			<name>Quarry-Quarry Huntress</name>
-			<text>Reach
-When this creature enters or rides, it deals damage equal to its power to target player. 5RR — 4/5</text>
+			<text>5RR —</text>
 			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/16.png" num="8">CC</set>
 			<prop>
 				<layout>normal</layout>

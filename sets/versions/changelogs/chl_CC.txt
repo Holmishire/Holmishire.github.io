@@ -1,4 +1,50 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Tender Goatress
+
+Hand In Hand
+
+Dewdrop Strawman
+
+Grudge Scavenge
+
+Oth'teva Conservationist
+
+Treachery Unveiled
+
+Smokeshawl Penitent
+
+Megni's Fervent Plea
+
+Aenin's Journaling
+
+Crippling Snare
+
+Regisaur Packmate
+
+Cryptosleep Reliquary
+
+Efface
+
+Ramshackle Renegade
+
+Clouds' Dominion
+
+Outrider of the Lysian Mists
+rules_text: Reach, protection from creatures with flying [i](This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i] 2GG — 4/3 (This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i] => 2GG —
+special_text: Reach, protection from creatures with flying [i](This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i] 2GG — 4/3 (This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i] => 2GG —
+
+Quarry-Quarry Huntress
+rules_text: Reach
+When this creature enters or rides, it deals damage equal to its power to target player. 5RR — 4/5 => 5RR —
+special_text: Reach
+When this creature enters or rides, it deals damage equal to its power to target player. 5RR — 4/5 => 5RR —
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Cryptosleep Reliquary added.

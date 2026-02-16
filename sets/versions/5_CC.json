@@ -38,7 +38,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n!tag highlight\n\n!sort 99"
+            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n!tag highlight\n\n!group first\n!sort 99"
         },
         {
             "card_name": "Hand In Hand",
@@ -59,7 +59,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag<plane> innistrad\n\n!sort 98"
+            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag<plane> innistrad\n\n!group first\n!sort 98"
         },
         {
             "card_name": "Dewdrop Strawman",
@@ -80,7 +80,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "https://twitter.com/13033303/status/1182650243831103490\n\n!sort 97"
+            "notes": "https://twitter.com/13033303/status/1182650243831103490\n\n!group first\n!sort 97"
         },
         {
             "card_name": "Grudge Scavenge",
@@ -101,7 +101,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3\n\n!sort 96"
+            "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3\n\n!group first\n!sort 96"
         },
         {
             "card_name": "Oth'teva Conservationist",
@@ -122,7 +122,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!tag<character> shahar\n!tag<mechanic> holmishire\n\n!sort 95"
+            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!tag<character> shahar\n!tag<mechanic> holmishire\n\n!group first\n!sort 95"
         },
         {
             "card_name": "Treachery Unveiled",
@@ -143,7 +143,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!sort 94"
+            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!group first\n!sort 94"
         },
         {
             "card_name": "Smokeshawl Penitent",
@@ -164,7 +164,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n!tag workshop\n\n!sort 93"
+            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n!tag workshop\n\n!group first\n!sort 93"
         },
         {
             "card_name": "Megni's Fervent Plea",
@@ -197,7 +197,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://x.com/vickisigh/status/1852398192564023439\nhttps://sunanooshiro.tumblr.com/post/163958646390/theartofanimation-tolrone\n\n!tag<character> megni\n!tag color-bend\n\n!sort 92"
+            "notes": "https://x.com/vickisigh/status/1852398192564023439\nhttps://sunanooshiro.tumblr.com/post/163958646390/theartofanimation-tolrone\n\n!tag<character> megni\n!tag color-bend\n\n!group first\n!sort 92"
         },
         {
             "card_name": "Aenin's Journaling",
@@ -218,7 +218,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Gar06a\n\n!tag<plane> primja\n!tag<character> aenin\n\n!sort 91"
+            "notes": "https://www.artstation.com/artwork/Gar06a\n\n!tag<plane> primja\n!tag<character> aenin\n\n!group part01\n!sort 91"
         },
         {
             "card_name": "Crippling Snare",
@@ -239,7 +239,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/GXAmBd\nhttps://www.artstation.com/artwork/Aq0qJm\n\n!tag<plane> primja\n!tag<character> aenin\n!tag color-bend\n\n!sort 90"
+            "notes": "https://www.artstation.com/artwork/GXAmBd\nhttps://www.artstation.com/artwork/Aq0qJm\n\n!tag<plane> primja\n!tag<character> aenin\n!tag color-bend\n\n!group part01\n!sort 90"
         },
         {
             "card_name": "Regisaur Packmate",
@@ -260,7 +260,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://www.instagram.com/alexvede96/p/CYChM0iqvmE/?hl=en\n\n!tag<plane> primja\n!tag<character> aenin\n\n!sort 89"
+            "notes": "https://www.instagram.com/alexvede96/p/CYChM0iqvmE/?hl=en\n\n!tag<plane> primja\n!tag<character> aenin\n\n!group part01\n!sort 89"
         },
         {
             "card_name": "Cryptosleep Reliquary",
@@ -281,7 +281,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "https://chingyeh.artstation.com/projects/2xgqWK\n\n!sort 88"
+            "notes": "https://chingyeh.artstation.com/projects/2xgqWK\n\n!group part02\n!sort 88"
         },
         {
             "card_name": "Efface",
@@ -302,7 +302,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag alt-frame\n!tag highlight\n\n!sort 86"
+            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag alt-frame\n!tag highlight\n\n!group part02\n!sort 86"
         },
         {
             "card_name": "Ramshackle Renegade",
@@ -323,7 +323,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "https://www.kickstarter.com/projects/1192053011/mutant-mechatron-rise-of-the-robots-roleplaying\n\n!sort 87"
+            "notes": "https://www.kickstarter.com/projects/1192053011/mutant-mechatron-rise-of-the-robots-roleplaying\n\n!group part02\n!sort 87"
         },
         {
             "card_name": "Clouds' Dominion",
@@ -344,7 +344,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "https://fanhuang.artstation.com/projects/OEGYK\n\n\n!sort 85"
+            "notes": "https://fanhuang.artstation.com/projects/OEGYK\n\n\n!group part03\n!sort 85"
         },
         {
             "card_name": "Outrider of the Lysian Mists",
@@ -354,10 +354,10 @@
             "number": 13,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Reach, protection from creatures with flying [i](This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i] 2GG \u2014 4/3 (This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i]",
+            "rules_text": "2GG \u2014",
             "flavor_text": "[i]Sheltered by fog and spire, the people of Lys live in defiance of the draconic Consortium.[/i]",
             "pt": "2/3",
-            "special_text": "Reach, protection from creatures with flying [i](This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i] 2GG \u2014 4/3 (This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i]",
+            "special_text": "2GG \u2014",
             "shape": "normal",
             "set": "CC",
             "loyalty": "",
@@ -365,7 +365,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/RYk0wm\n\n!sort 84"
+            "notes": "https://www.artstation.com/artwork/RYk0wm\n\n!tag<mechanic> holmishire\n\n!group part03\n!sort 84"
         },
         {
             "card_name": "Quarry-Quarry Huntress",
@@ -375,10 +375,10 @@
             "number": 8,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Reach\nWhen this creature enters or rides, it deals damage equal to its power to target player. 5RR \u2014 4/5",
+            "rules_text": "5RR \u2014",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
-            "special_text": "Reach\nWhen this creature enters or rides, it deals damage equal to its power to target player. 5RR \u2014 4/5",
+            "special_text": "5RR \u2014",
             "shape": "normal",
             "set": "CC",
             "loyalty": "",
@@ -386,7 +386,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "https://www.deviantart.com/kangjason/art/The-Big-Game-Huntress-440864185\n\n!sort 83"
+            "notes": "https://www.deviantart.com/kangjason/art/The-Big-Game-Huntress-440864185\n\n!tag<mechanic> holmishire\n\n!group part03\n!sort 83"
         }
     ]
 }

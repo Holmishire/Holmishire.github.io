@@ -1,4 +1,28 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Cryptosleep Reliquary added.
+Efface added.
+Ramshackle Renegade added.
+Clouds' Dominion added.
+Outrider of the Lysian Mists added.
+Quarry-Quarry Huntress added.
+
+
+Oth'teva Conservationist
+
+Smokeshawl Penitent
+
+Megni's Fervent Plea
+
+Aenin's Journaling
+
+Crippling Snare
+
+Regisaur Packmate
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Aenin's Journaling added.

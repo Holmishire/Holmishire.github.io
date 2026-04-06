@@ -1,4 +1,131 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Borrowed Mettle added.
+Phantom Chupacabra added.
+Wildflower Guardian added.
+Sympath en-Vec added.
+Mantle of the Meek added.
+Kaiso's Absolution added.
+Found Lacking added.
+Syr Belladora, Witchslayer added.
+To Stoke the Embers added.
+Gloriless Death added.
+Pathfinder Solemn added.
+Scavenger Errant added.
+Shadar-kai Sanctifier added.
+
+
+Dusk Harvest
+
+Fiery Reprieve
+
+Amberheart Pod
+
+Declaw
+
+Petal Collector
+
+Dreaded Needle
+
+Chérie the Untethered
+
+Borrowed Shelter
+
+Nima, Free-Spirited
+
+Sulking Recluse
+
+Mistress of the Hunt
+
+Imperial Stalwart
+
+Vicious Pursuit
+
+Asphodel's Sentinel
+
+Stalking Draugr
+
+Lambholt Recreant
+
+Adnascentia
+
+Unseen Hand
+
+Dawnherald
+
+Alight
+
+Immersion
+
+Shrinking Lily
+
+Sentenced
+
+Maeve of Nine Lives
+
+HINTERLANDS
+
+Nesting Furie
+
+Chortle of Selkies
+
+Thrice-horned Forerunner
+
+Sibelle's Coaxing Hex
+
+Sibelle of Sacred Horn
+
+Vengeful Brutis
+
+Cootie Courier
+
+Stewardship of Murk
+
+Ickle Inchhiker
+
+Runic Awakening
+
+Inaya of Lost Promise
+
+Fallow Fields Warden
+
+Crack in the Archives
+
+Kikue, Souls Ablaze
+
+Last Sunrise
+
+Oona's Reversal
+
+Wilt-Leaf Paladin
+
+Seeping Slime
+
+Razortusk Challenger
+
+Autumn Court Mediator
+
+Hymn of Renewal
+
+Inquisitorial Prospect
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+During your turn, this creature has first strike.
+{2}{WB}: Cleric
+You gain 5 life.
+{2}{W}{B}: Assassin
+This creature gains deathtouch and double strike until end of turn.
+
+Stormcoil Tribute
+
+Aqueduct Ancient
+
+Rhythm
+
+Ubea, Sixth's Appraiser
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

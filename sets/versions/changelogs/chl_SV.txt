@@ -1,4 +1,82 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Fiery Reprieve
+
+Amberheart Pod
+
+Petal Collector
+
+Dreaded Needle
+
+Chérie the Untethered
+
+Borrowed Shelter
+
+Mistress of the Hunt
+
+Unseen Hand
+
+Alight
+
+Shrinking Lily
+
+Sentenced
+
+Nesting Furie
+
+Chortle of Selkies
+
+Sibelle of Sacred Horn
+
+Cootie Courier
+
+Runic Awakening
+
+Crack in the Archives
+
+Kikue, Souls Ablaze
+
+Oona's Reversal
+
+Wilt-Leaf Paladin
+
+Razortusk Challenger
+
+Inquisitorial Prospect
+
+Stormcoil Tribute
+
+Aqueduct Ancient
+
+Rhythm
+
+Borrowed Mettle
+
+Phantom Chupacabra
+
+Sympath en-Vec
+
+Mantle of the Meek
+
+Kaiso's Absolution
+
+Found Lacking
+
+Syr Belladora, Witchslayer
+
+To Stoke the Embers
+
+Gloriless Death
+
+Pathfinder Solemn
+
+Shadar-kai Sanctifier
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

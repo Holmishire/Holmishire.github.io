@@ -1,4 +1,42 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Seclude
+
+Veintapped Relic
+rules_text: Whenever this creature deals excess damage to a permanent, you may draw that many cards. If you do, discard that many cards.
+{2}, Exile this card from your graveyard: Create a Splinter token for each card yoyu've discarded this turn. [i](It's a snow artifact with “{T}, Sacrifice this token: Add {C}.”)[/i] => Whenever this creature deals excess damage to a permanent, you may draw that many cards. If you do, discard that many cards.
+{2}, Exile this card from your graveyard: Create a Splinter token for each card you've discarded this turn. [i](It's a snow artifact with “{T}, Sacrifice this token: Add {C}.”)[/i]
+
+Hale-Breasted Phoenix
+
+Twinhaft Challenger
+
+Looming Sentinels
+
+Drifter in Distress
+
+Lord of the Labyrinths
+
+Glacial Wanderings
+
+Hypothermia
+
+Glacial Fracture
+
+Bitter Chill Bravery
+
+Gone Astray
+
+Snowstorm Searcher
+rules_text: Tapped creatures you control have ward {1}. [i](Tapping a creature doesn't cause ward to trigger on anything already targeting it.)[/i]
+{1}{W}, {T}: Target creature gets +1/+0 gains lifelink until end of turn. Activate only as a sorcery. => Tapped creatures you control have ward {1}. [i](Tapping a creature doesn't cause ward to trigger on anything already targeting it.)[/i]
+{1}{W}, {T}: Target creature gets +1/+0 and gains lifelink until end of turn. Activate only as a sorcery.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

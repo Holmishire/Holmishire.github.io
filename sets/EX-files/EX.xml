@@ -5,7 +5,7 @@
 			<name>EX</name>
 			<longname>External Feature</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-23</releasedate>
+			<releasedate>2026-04-06</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -28,7 +28,7 @@
 		<card>
 			<name>Veintapped Relic</name>
 			<text>Whenever this creature deals excess damage to a permanent, you may draw that many cards. If you do, discard that many cards.
-{2}, Exile this card from your graveyard: Create a Splinter token for each card yoyu&apos;ve discarded this turn. (It&apos;s a snow artifact with &quot;{T}, Sacrifice this token: Add {C}.&quot;)</text>
+{2}, Exile this card from your graveyard: Create a Splinter token for each card you&apos;ve discarded this turn. (It&apos;s a snow artifact with &quot;{T}, Sacrifice this token: Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://Holmishire.github.io/sets/EX-files/img/1.png" num="13">EX</set>
 			<prop>
 				<layout>normal</layout>
@@ -221,7 +221,7 @@ Choose one —
 		<card>
 			<name>Snowstorm Searcher</name>
 			<text>Tapped creatures you control have ward {1}. (Tapping a creature doesn&apos;t cause ward to trigger on anything already targeting it.)
-{1}{W}, {T}: Target creature gets +1/+0 gains lifelink until end of turn. Activate only as a sorcery.</text>
+{1}{W}, {T}: Target creature gets +1/+0 and gains lifelink until end of turn. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/EX-files/img/12.png" num="2">EX</set>
 			<prop>
 				<layout>normal</layout>

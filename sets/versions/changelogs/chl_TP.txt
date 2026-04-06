@@ -1,4 +1,14 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Marrow-Mask Mendicant
+
+Thaumaturgy Savant
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

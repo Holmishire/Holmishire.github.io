@@ -14,7 +14,7 @@
         "shape": "normal",
         "set": "TP",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "e"
@@ -38,7 +38,7 @@
         "shape": "normal",
         "set": "TP",
         "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "e"

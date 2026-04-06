@@ -1,4 +1,201 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Blaithi Armsmaster
+
+Cloak in Rime
+
+Blackwings' Blessing
+
+Day's End Rest
+
+Gracious Mycologist
+
+Kin & Kiln
+
+Eternities' Wake
+
+Cinder's Prophecy
+rules_text:  => 
+I — Remove a counter from a permanent you control. You lose 1 life, then draw a card.
+II — Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control.
+
+Husk of Cinder
+
+Ora, Unbridled
+rules_text:  => If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.
+Whenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.
+
+[level -2] Creatures you control get +1/+0 until end of turn.
+
+Simul, the Veil-Cursed
+rules_text:  => Whenever another planeswalker dies, you may have Simul, the Veil-Cursed copy one of its loyalty abilities by paying its costs. [i](This does not count towards her loyalty ability turn limit.)[/i]
+[+X]: Sacrifice any number of planeswalkers with total loyalty X or greater.
+[0]: Scry 2. You gain 2 life.
+
+Autumnal Vale
+
+Back
+
+Delving Nixie
+
+Earnest Vassal
+
+Harvest Sentinel
+
+Ouphe
+
+Human
+
+Observance of the Sacred
+
+Soldier Devout
+
+Parry
+
+Trollsbane Punk
+
+Moment of Privacy
+
+Nippy Shoalsteer
+rules_text:  => Tidal [i](At the beginning of your upkeep, choose high or low tide. Each player tracks tide separately.)[/i]
+High tide — Whenever Nippy Shoalsteer becomes blocked, distribute its +1/+1 counters among any number of attacking creatures you control.
+Low tide — {T}: Add {GU}. When you spend this mana on a Fish, Leviathan, or Merfolk spell, put
+a +1/+1 counter on Nippy Shoalsteer.
+
+Carrion Peddler
+
+Blighted Hunt
+
+Ritual Warden
+
+Scarlet Crucible
+
+Nunieve's Aspirant
+
+Glint in the Depths
+rules_text:  => [i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]
+When Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.
+A card is put into your graveyard from your library.
+III — An Island or Swamp enters the battlefield under your control.
+
+Motley Wayfinder
+
+Rainfall
+
+Scarwood Pilferer
+
+Tardy Grayson
+rules_text:  => [+X]: Shuffle X target cards from your graveyard into your library.
+[0]: Tardy Grayson phases out.
+[-X]: Each of X target creatures must be blocked this turn if able.
+[i]Second of God's most creatures.[/i]
+
+Grandfather's Blade
+
+Clow Cards, Reclaimed
+
+WITCHING
+
+Coffee Medium
+
+Record Spill
+
+Lift the Veil
+
+Familiar's Friend
+
+Pumpkin Farmers
+
+Speeding Ticket
+
+Audana
+
+Kaede, Dayspring Snoop
+
+Manamorphose
+
+Tobi's Heart-Splinter
+
+Take Another Breath
+
+Lorelei No Longer
+
+Cat
+
+Chase the Shifting Moon
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target nonland permanent phases out until this Saga leaves the battlefield.
+II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
+IV — Until your next turn, permanents phase in under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Target nonland permanent phases out until this Saga leaves the battlefield.
+Once this turn, if a creature you control would die, you may have it phase out instead.
+Until your next turn, permanents phase in under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target nonland permanent phases out until this Saga leaves the battlefield.
+II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
+IV — Until your next turn, permanents phase in under your control.
+
+Eyes Agape
+
+Surge Protector
+
+Dryad of Dusk's Whisper
+
+Pierce the Cosmos
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​
+
+Legion's Echo
+
+Gentle Jackalope
+
+Chevalier Rosé
+
+Chase the Blinding Sun
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — At the end of combat this turn, untap each creature you control.
+III — Destroy all tapped creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Tap target creature and put three stun counters on it.
+At the end of combat this turn, untap each creature you control.
+Destroy all tapped creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — At the end of combat this turn, untap each creature you control.
+III — Destroy all tapped creatures.
+
+Crawling from the Drink
+
+Spectramorphosis
+
+Mossback Elk
+
+Sacred Starseeker
+
+Obsession Crown
+
+Obviation Crown
+
+Obligation Crown
+
+Obtention Crown
+
+Harmonious Migration
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Spectramorphosis added.

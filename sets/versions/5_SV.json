@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag underdark\n!tag workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S3R1\n!sort 02"
+            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag underdark\n!tag workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S3R1\n!sort 02"
         },
         {
             "card_name": "Amberheart Pod",
@@ -68,7 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/aRq1J0\n\n!tag<with> flavortext\n\n!tag<token> creature\n!tag<token> Faerie\n!tag<token> flying\n\n!group S3R1\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/aRq1J0\n\n!tag<with> flavortext\n\n!tag<token> creature\n!tag<token> Faerie\n!tag<token> flying\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 01"
         },
         {
             "card_name": "Declaw",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R1\n!sort 03"
+            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 03"
         },
         {
             "card_name": "Dreaded Needle",
@@ -131,7 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.deviantart.com/nanomortis/art/Twisted-Happiness-552948120\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S3R2\n!sort 01"
+            "notes": "https://www.deviantart.com/nanomortis/art/Twisted-Happiness-552948120\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S3R2\n!sort 01"
         },
         {
             "card_name": "Ch\u00e9rie the Untethered",
@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.deviantart.com/yuka-soemy/art/Moon-752096109\n\n!tag<character> cherie\n!tag<character> ollie\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S3R2\n!sort 02"
+            "notes": "https://www.deviantart.com/yuka-soemy/art/Moon-752096109\n\n!tag<character> cherie\n!tag<character> ollie\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R2\n!sort 02"
         },
         {
             "card_name": "Borrowed Shelter",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n\n!group S3R3\n!sort 02"
+            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!group S3R3\n!sort 02"
         },
         {
             "card_name": "Nima, Free-Spirited",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S4R1\n!sort 02"
+            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R1\n!sort 02"
         },
         {
             "card_name": "Imperial Stalwart",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "https://www.celialowenthal.com/?pgid=lu01lq4r-dfa61c72-9391-40bf-a70a-9426da286e4b\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> dawnherald\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R3\n!sort 03"
+            "notes": "https://www.celialowenthal.com/?pgid=lu01lq4r-dfa61c72-9391-40bf-a70a-9426da286e4b\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> dawnherald\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S4R3\n!sort 03"
         },
         {
             "card_name": "Dawnherald",
@@ -425,7 +425,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/yJe5W9\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S4R4\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/yJe5W9\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S4R4\n!sort 01"
         },
         {
             "card_name": "Immersion",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/nXLXE\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S4R4\n!sort 02"
+            "notes": "https://www.artstation.com/artwork/nXLXE\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R4\n!sort 02"
         },
         {
             "card_name": "Sentenced",
@@ -500,7 +500,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.deviantart.com/kvx/art/Paladins-Fanart-True-Lex-675705552\n\n!tag<character> maeve\n!tag<character> lex\n\n!tag universes-beyond\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<frame> aftermath\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4\u00bdR2\n!sort 03"
+            "notes": "https://www.deviantart.com/kvx/art/Paladins-Fanart-True-Lex-675705552\n\n!tag<character> maeve\n!tag<character> lex\n\n!tag universes-beyond\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<frame> aftermath\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> removal\n!tag<otag> symmetrical\n\n!group S4\u00bdR2\n!sort 03"
         },
         {
             "card_name": "Maeve of Nine Lives",
@@ -563,7 +563,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!group S5R1\n!sort 02"
+            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 02"
         },
         {
             "card_name": "Chortle of Selkies",
@@ -584,7 +584,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!group S5R1\n!sort 03"
+            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 03"
         },
         {
             "card_name": "Thrice-horned Forerunner",
@@ -647,7 +647,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "https://www.furaffinity.net/view/41921572/\n\n!tag<character> sibelle\n\n!tag<atag> female\n\n!group S5R2\n!sort 01"
+            "notes": "https://www.furaffinity.net/view/41921572/\n\n!tag<character> sibelle\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S5R2\n!sort 01"
         },
         {
             "card_name": "Vengeful Brutis",
@@ -689,7 +689,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6R1\n!sort 01"
+            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> typal-coupling\n\n!group S6R1\n!sort 01"
         },
         {
             "card_name": "Stewardship of Murk",
@@ -752,7 +752,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/x0PZE\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!group S6R1\n!sort 04"
+            "notes": "https://www.artstation.com/artwork/x0PZE\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<otag> evasion\n\n!group S6R1\n!sort 04"
         },
         {
             "card_name": "Inaya of Lost Promise",
@@ -815,7 +815,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S6R2\n!sort 03"
+            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group S6R2\n!sort 03"
         },
         {
             "card_name": "Kikue, Souls Ablaze",
@@ -836,7 +836,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "https://kheleksul.tumblr.com/post/40105121216/this-pic-was-inspired-by-abbys-style-the\n\n!tag<character> kikue\n\n!tag<atag> female\n\n!group S6R2\n!sort 01"
+            "notes": "https://kheleksul.tumblr.com/post/40105121216/this-pic-was-inspired-by-abbys-style-the\n\n!tag<character> kikue\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S6R2\n!sort 01"
         },
         {
             "card_name": "Last Sunrise",
@@ -878,7 +878,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "https://u-tad.com/catalogos/U-tad_Grado_Animacion.pdf\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S6R6\u00bd\n!sort 01"
+            "notes": "https://u-tad.com/catalogos/U-tad_Grado_Animacion.pdf\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n\n!group S6R6\u00bd\n!sort 01"
         },
         {
             "card_name": "Wilt-Leaf Paladin",
@@ -899,7 +899,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/DLldgo\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n!tag<plane> innistrad\n\n!tag<with> flavortext\n!tag<frame> promo\n!tag<counter> PP\n\n!tag<atag> female\n\n!group S6R6\u00bd\n!sort 02"
+            "notes": "https://www.artstation.com/artwork/DLldgo\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n!tag<plane> innistrad\n\n!tag<with> flavortext\n!tag<frame> promo\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> typal-coupling\n\n!group S6R6\u00bd\n!sort 02"
         },
         {
             "card_name": "Seeping Slime",
@@ -941,7 +941,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S6\u00bdR1\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> removal\n!tag<otag> typal-coupling\n\n!group S6\u00bdR1\n!sort 01"
         },
         {
             "card_name": "Autumn Court Mediator",
@@ -1004,7 +1004,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!group S6R7\n!sort 05"
+            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite effect\n\n!group S6R7\n!sort 05"
         },
         {
             "card_name": "Stormcoil Tribute",
@@ -1025,7 +1025,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3dN6RB\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!group S6R7\n!sort 03"
+            "notes": "https://www.artstation.com/artwork/3dN6RB\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!group S6R7\n!sort 03"
         },
         {
             "card_name": "Aqueduct Ancient",
@@ -1046,7 +1046,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/QzP5oL\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!group S6R7\n!sort 06"
+            "notes": "https://www.artstation.com/artwork/QzP5oL\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!tag<otag> alt-cost\n\n!group S6R7\n!sort 06"
         },
         {
             "card_name": "Rhythm",
@@ -1079,7 +1079,7 @@
             "alias2": "",
             "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
             "rotated": true,
-            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!group S6R7\n!sort 02"
+            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> removal\n\n!group S6R7\n!sort 02"
         },
         {
             "card_name": "Ubea, Sixth's Appraiser",
@@ -1121,7 +1121,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/x3XB6X\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S7R1\n!sort 03"
+            "notes": "https://www.artstation.com/artwork/x3XB6X\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 03"
         },
         {
             "card_name": "Phantom Chupacabra",
@@ -1142,7 +1142,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!group S7R1\n!sort 02"
+            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 02"
         },
         {
             "card_name": "Wildflower Guardian",
@@ -1184,7 +1184,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R2\n!sort 01"
+            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!group S7R2\n!sort 01"
         },
         {
             "card_name": "Mantle of the Meek",
@@ -1205,7 +1205,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "https://www.tumblr.com/vanessagillings/724194482383372288/just-a-little-heads-up-that-my-print-store-is\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S7R2\n!sort 02"
+            "notes": "https://www.tumblr.com/vanessagillings/724194482383372288/just-a-little-heads-up-that-my-print-store-is\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> symmetrical\n\n!group S7R2\n!sort 02"
         },
         {
             "card_name": "Kaiso's Absolution",
@@ -1226,7 +1226,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "https://toniinfante.artstation.com/projects/Ka4bKr\n\n!tag<plane> kamigawa\n!tag<character> kaiso\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S7R2\n!sort 03"
+            "notes": "https://toniinfante.artstation.com/projects/Ka4bKr\n\n!tag<plane> kamigawa\n!tag<character> kaiso\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> fog\n\n!group S7R2\n!sort 03"
         },
         {
             "card_name": "Found Lacking",
@@ -1247,7 +1247,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/vJqm8a\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> stun\n\n!tag<atag> male\n!tag<atag> female\n\n!group S7R3\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/vJqm8a\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> stun\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n\n!group S7R3\n!sort 01"
         },
         {
             "card_name": "Syr Belladora, Witchslayer",
@@ -1268,7 +1268,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/DFDvElIMERV\n\n!tag<plane> eldraine\n!tag<character> belladora\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> female\n\n!group S7R3\n!sort 03"
+            "notes": "https://www.instagram.com/p/DFDvElIMERV\n\n!tag<plane> eldraine\n!tag<character> belladora\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S7R3\n!sort 03"
         },
         {
             "card_name": "To Stoke the Embers",
@@ -1289,7 +1289,7 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "https://www.webtoons.com/en/fantasy/the-dark-lords-confession/\n\n!tag<plane> eldraine\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> embereth\n\n!tag<atag> male\n\n!group S7R3\n!sort 02"
+            "notes": "https://www.webtoons.com/en/fantasy/the-dark-lords-confession/\n\n!tag<plane> eldraine\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> embereth\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group S7R3\n!sort 02"
         },
         {
             "card_name": "Gloriless Death",
@@ -1310,7 +1310,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/DLSmz-PBXiq/\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R4\n!sort 01"
+            "notes": "https://www.instagram.com/p/DLSmz-PBXiq/\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R4\n!sort 01"
         },
         {
             "card_name": "Pathfinder Solemn",
@@ -1331,7 +1331,7 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/ImaginaryArchers/comments/k0qug0/archer_by_taras_susak/\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R4\n!sort 01"
+            "notes": "https://www.reddit.com/r/ImaginaryArchers/comments/k0qug0/archer_by_taras_susak/\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> noncanon-creature-type\n\n!group S7R4\n!sort 01"
         },
         {
             "card_name": "Scavenger Errant",
@@ -1373,7 +1373,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "https://ca.pinterest.com/larrikin99/the-art-of-symbaroum/folks/\nhttps://hellequin.net/oldRoot/Player's%20Handbook.pdf\n\n!tag<plane> forgotten realms\n!tag<character> Raven Queen\n\n!tag universes-beyond\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> ravenqueen\n\n!tag<atag> male\n\n!group S7R4\n!sort 01"
+            "notes": "https://ca.pinterest.com/larrikin99/the-art-of-symbaroum/folks/\nhttps://hellequin.net/oldRoot/Player's%20Handbook.pdf\n\n!tag<plane> forgotten-realms\n!tag<character> raven-queen\n\n!tag universes-beyond\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> ravenqueen\n\n!tag<atag> male\n\n!tag<otag> symmetrical\n\n!group S7R4\n!sort 01"
         }
     ]
 }

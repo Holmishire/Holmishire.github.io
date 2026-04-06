@@ -31,7 +31,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n!tag highlight\n\n!group first\n!sort 99",
+            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group first\n!sort 99",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54,7 +54,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag<plane> innistrad\n\n!group first\n!sort 98",
+            "notes": "https://www.debutart.com/artist/deb-jj-lee/best-of-luck-you\n\n!tag<plane> innistrad\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!group first\n!sort 98",
             "image_type": "png",
             "v_mana": ""
         },
@@ -77,7 +77,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "https://twitter.com/13033303/status/1182650243831103490\n\n!group first\n!sort 97",
+            "notes": "https://twitter.com/13033303/status/1182650243831103490\n\n!tag<token> creature\n!tag<token> Bird\n!tag<token> Illusion\n!tag<token> flying\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group first\n!sort 97",
             "image_type": "png",
             "v_mana": ""
         },
@@ -100,7 +100,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3\n\n!group first\n!sort 96",
+            "notes": "https://www.mrjakeparker.com/illustration-1/ct6mf1o33xmnwizrwaavglwjxbzht3\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Alien\n!tag<token> Beast\n!tag<token> prowess\n!tag<token> cant-block\n\n!tag<otag> removal\n\n!group first\n!sort 96",
             "image_type": "png",
             "v_mana": ""
         },
@@ -123,7 +123,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!tag<character> shahar\n!tag<mechanic> holmishire\n\n!group first\n!sort 95",
+            "notes": "https://www.reddit.com/r/ImaginaryArtisans/comments/ghm77f/obliskura_the_poisonry_by_alex_konstad/\n\n!tag<character> shahar\n!tag<mechanic> holmishire\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> othteva\n\n!tag<atag> female\n\n!group first\n!sort 95",
             "image_type": "png",
             "v_mana": ""
         },
@@ -146,7 +146,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!group first\n!sort 94",
+            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> removal\n\n!group first\n!sort 94",
             "image_type": "png",
             "v_mana": ""
         },
@@ -169,7 +169,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n!tag workshop\n\n!group first\n!sort 93",
+            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n\n!tag workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> echo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group first\n!sort 93",
             "image_type": "png",
             "v_mana": ""
         },
@@ -204,7 +204,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://x.com/vickisigh/status/1852398192564023439\nhttps://sunanooshiro.tumblr.com/post/163958646390/theartofanimation-tolrone\n\n!tag<character> megni\n!tag color-bend\n\n!group first\n!sort 92",
+            "notes": "https://x.com/vickisigh/status/1852398192564023439\nhttps://sunanooshiro.tumblr.com/post/163958646390/theartofanimation-tolrone\n\n!tag<character> megni\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> removal\n\n!group first\n!sort 92",
             "image_type": "png",
             "v_mana": ""
         },
@@ -227,7 +227,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Gar06a\n\n!tag<plane> primja\n!tag<character> aenin\n\n!group part01\n!sort 91",
+            "notes": "https://www.artstation.com/artwork/Gar06a\n\n!tag<plane> primja\n!tag<character> aenin\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!tag<atag> female\n\n!group part01\n!sort 91",
             "image_type": "png",
             "v_mana": ""
         },
@@ -250,7 +250,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/GXAmBd\nhttps://www.artstation.com/artwork/Aq0qJm\n\n!tag<plane> primja\n!tag<character> aenin\n!tag color-bend\n\n!group part01\n!sort 90",
+            "notes": "https://www.artstation.com/artwork/GXAmBd\nhttps://www.artstation.com/artwork/Aq0qJm\n\n!tag<plane> primja\n!tag<character> aenin\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> stun\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group part01\n!sort 90",
             "image_type": "png",
             "v_mana": ""
         },
@@ -273,7 +273,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://www.instagram.com/alexvede96/p/CYChM0iqvmE/?hl=en\n\n!tag<plane> primja\n!tag<character> aenin\n\n!group part01\n!sort 89",
+            "notes": "https://www.instagram.com/alexvede96/p/CYChM0iqvmE/?hl=en\n\n!tag<plane> primja\n!tag<character> aenin\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<token> creature\n!tag<token> Dinosaur\n!tag<token> cant-block\n\n!tag<atag> female\n\n!group part01\n!sort 89",
             "image_type": "png",
             "v_mana": ""
         },
@@ -296,7 +296,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "https://chingyeh.artstation.com/projects/2xgqWK\n\n!group part02\n!sort 88",
+            "notes": "https://chingyeh.artstation.com/projects/2xgqWK\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group part02\n!sort 88",
             "image_type": "png",
             "v_mana": ""
         },
@@ -319,7 +319,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag alt-frame\n!tag highlight\n\n!group part02\n!sort 86",
+            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group part02\n!sort 86",
             "image_type": "png",
             "v_mana": ""
         },
@@ -342,7 +342,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "https://www.kickstarter.com/projects/1192053011/mutant-mechatron-rise-of-the-robots-roleplaying\n\n!group part02\n!sort 87",
+            "notes": "https://www.kickstarter.com/projects/1192053011/mutant-mechatron-rise-of-the-robots-roleplaying\n\n!tag<counter> PP\n\n!tag<atag> nonbinary\n\n!group part02\n!sort 87",
             "image_type": "png",
             "v_mana": ""
         },
@@ -365,7 +365,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "https://fanhuang.artstation.com/projects/OEGYK\n\n\n!group part03\n!sort 85",
+            "notes": "https://fanhuang.artstation.com/projects/OEGYK\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group part03\n!sort 85",
             "image_type": "png",
             "v_mana": ""
         },
@@ -388,7 +388,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/RYk0wm\n\n!tag<mechanic> holmishire\n\n!group part03\n!sort 84",
+            "notes": "https://www.artstation.com/artwork/RYk0wm\n\n!tag<mechanic> holmishire\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> prototype\n\n!tag<art> female\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!group part03\n!sort 84",
             "image_type": "png",
             "v_mana": ""
         },
@@ -411,7 +411,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "https://www.deviantart.com/kangjason/art/The-Big-Game-Huntress-440864185\n\n!tag<mechanic> holmishire\n\n!group part03\n!sort 83",
+            "notes": "https://www.deviantart.com/kangjason/art/The-Big-Game-Huntress-440864185\n\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<frame> prototype\n\n!tag<art> female\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!group part03\n!sort 83",
             "image_type": "png",
             "v_mana": ""
         },
@@ -434,7 +434,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag highlight\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<art> female\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -446,7 +446,7 @@
             "number": 13,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Whenever this creature deals excess damage to a permanent, you may draw that many cards. If you do, discard that many cards.\n{2}, Exile this card from your graveyard: Create a Splinter token for each card yoyu've discarded this turn. [i](It's a snow artifact with \u201c{T}, Sacrifice this token: Add {C}.\u201d)[/i]",
+            "rules_text": "Whenever this creature deals excess damage to a permanent, you may draw that many cards. If you do, discard that many cards.\n{2}, Exile this card from your graveyard: Create a Splinter token for each card you've discarded this turn. [i](It's a snow artifact with \u201c{T}, Sacrifice this token: Add {C}.\u201d)[/i]",
             "flavor_text": "[i]The best Volkyr find their tools onsite.[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -457,7 +457,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "http://jaredshear.com/portfolio/digital/#jp-carousel-851\n\n!tag godspine\n\n!group godspine",
+            "notes": "http://jaredshear.com/portfolio/digital/#jp-carousel-851\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<token> snow\n!tag<token> artifact\n!tag<token> Splinter\n\n!tag<atag> male\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -480,7 +480,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "https://www.deviantart.com/mobius-9/art/White-dragon-596282983\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.deviantart.com/mobius-9/art/White-dragon-596282983\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -503,7 +503,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/48E8k8\n\n!tag underhalls\n\n!group underhalls",
+            "notes": "https://www.artstation.com/artwork/48E8k8\n\n!tag<plane> underhalls\n!tag<plane> lanzaroth\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> evasion\n\n!group underhalls",
             "image_type": "png",
             "v_mana": ""
         },
@@ -526,7 +526,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.deviantart.com/robin-boer/art/Minotaur-579160839\n\n!tag underhalls\n\n!group underhalls",
+            "notes": "https://www.deviantart.com/robin-boer/art/Minotaur-579160839\n\n!tag<plane> underhalls\n!tag<plane> lanzaroth\n!tag<character> isthaen\n!tag<mechanic> grapplecore\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<token> battle\n!tag<token> Encounter\n!tag<token> artifact\n!tag<token> Treasure\n!tag<counter> defense\n\n!tag<art> male\n\n!tag<otag> evasion\n\n!group underhalls",
             "image_type": "png",
             "v_mana": ""
         },
@@ -549,7 +549,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/nQe9Ke\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/nQe9Ke\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<atag> female\n!tag<atag> male\n\n!tag<otag> evasion\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -572,7 +572,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.furaffinity.net/view/55306037/\n\n!tag underhalls\n\n!group underhalls",
+            "notes": "https://www.furaffinity.net/view/55306037/\n\n!tag<plane> underhalls\n!tag<plane> lanzaroth\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!group underhalls",
             "image_type": "png",
             "v_mana": ""
         },
@@ -595,7 +595,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/oAq6gk\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/oAq6gk\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -618,7 +618,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/kD5wln\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/kD5wln\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> removal\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -641,7 +641,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "https://www.deviantart.com/nightblue-art/art/Avalanche-207538773\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.deviantart.com/nightblue-art/art/Avalanche-207538773\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<atag> male\n\n!tag<otag> removal\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -664,7 +664,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag highlight\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag highlight\n\n!tag<with> flavotext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -687,7 +687,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/e0rda6\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/e0rda6\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> banish\n!tag<otag> removal\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -699,7 +699,7 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Tapped creatures you control have ward {1}. [i](Tapping a creature doesn't cause ward to trigger on anything already targeting it.)[/i]\n{1}{W}, {T}: Target creature gets +1/+0 gains lifelink until end of turn. Activate only as a sorcery.",
+            "rules_text": "Tapped creatures you control have ward {1}. [i](Tapping a creature doesn't cause ward to trigger on anything already targeting it.)[/i]\n{1}{W}, {T}: Target creature gets +1/+0 and gains lifelink until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i]The Fonti do not abandon their lost.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -710,7 +710,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "https://www.behance.net/gallery/30697687/Trapped-in-a-snowstorm/modules/196838467\n\n!tag godspine\n\n!group godspine",
+            "notes": "https://www.behance.net/gallery/30697687/Trapped-in-a-snowstorm/modules/196838467\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<with> remindertext-unique\n\n!tag<atag> male\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -730,8 +730,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Pierre Raveneau",
-            "notes": "https://magazine.artstation.com/2021/01/syn-studio-concept-art-diploma-program-last-chance-to-apply-for-fall-2021-intake/\n\n!tag etros\n\n!group 24W\n!sort 07",
-            "image_type": "png"
+            "alias": "",
+            "position": "0",
+            "rotated": false,
+            "notes": "https://magazine.artstation.com/2021/01/syn-studio-concept-art-diploma-program-last-chance-to-apply-for-fall-2021-intake/\n\n!tag<plane> etros\n!tag<mechanic> cool_beens\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 07",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloak in Rime",
@@ -749,8 +753,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Megadon Zinare",
-            "notes": "twitter.com/MegadonZinare/status/1724461992323305642\n\n!tag highlight\n\n!group 24W\n!sort 05",
-            "image_type": "png"
+            "alias": "",
+            "position": "1",
+            "rotated": false,
+            "notes": "twitter.com/MegadonZinare/status/1724461992323305642\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n!tag<otag> mv1-matters\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blackwings' Blessing",
@@ -768,8 +776,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Sebastian Giacobino",
-            "notes": "https://www.artstation.com/artwork/dOr0BW\n\n!tag highlight\n\n!group 24W\n!sort 06",
-            "image_type": "png"
+            "alias": "",
+            "position": "2",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/dOr0BW\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 06",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Day's End Rest",
@@ -787,8 +799,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Sansagua",
-            "notes": "https://www.artstation.com/artwork/Ar0qmN\n\n!group 24W\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "3",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/Ar0qmN\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gracious Mycologist",
@@ -806,8 +822,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Yvette Chua",
-            "notes": "https://www.artstation.com/artwork/3drKAv\n\n!group 24W\n!sort 04",
-            "image_type": "png"
+            "alias": "",
+            "position": "4",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/3drKAv\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Saproling\n!tag<counter> spore\n\n!tag<atag> female\n\n!tag<otag> mv1-matters\n!tag<otag> typal-coupling\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kin & Kiln",
@@ -825,8 +845,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Robin Pieterse",
-            "notes": "https://robinpieterse.nl/collections/winter-dreams/products/winter-baking-20-x-25-print?_pos=2&_fid=25cccb4b3&_ss=c\n\n!group 24W\n!sort 03",
-            "image_type": "png"
+            "alias": "",
+            "position": "5",
+            "rotated": false,
+            "notes": "https://robinpieterse.nl/collections/winter-dreams/products/winter-baking-20-x-25-print?_pos=2&_fid=25cccb4b3&_ss=c\n\n!tag<with> flavortext\n!tag<counter> PP\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eternities' Wake",
@@ -844,8 +868,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Kano Chihiro",
-            "notes": "https://www.byzhihuo.com/thread-72427-1-1.html\n\n!tag underdark\n\n!group 24W\n!sort 02",
-            "image_type": "png"
+            "alias": "",
+            "position": "6",
+            "rotated": false,
+            "notes": "https://www.byzhihuo.com/thread-72427-1-1.html\n\n!tag underdark\n!tag color-bend\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cinder's Prophecy",
@@ -855,7 +883,7 @@
             "number": 44,
             "color_identity": "WB",
             "cost": "{1}{W}{B}{B}",
-            "rules_text": "",
+            "rules_text": "\nI \u2013 Remove a counter from a permanent you control. You lose 1 life, then draw a card.\nII \u2013 Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2013 Remove a counter from a permanent you control. You lose 1 life, then draw a card.\nII \u2013 Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control.",
@@ -863,8 +891,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "F3LC4T",
-            "notes": "https://www.artstation.com/artwork/48woXl\n\n!tag underdark\n\n!group 22W\n!sort 03",
-            "image_type": "png"
+            "alias": "",
+            "position": "7",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/48woXl\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<frame> promo\n!tag<frame> saga\n!tag<counter> lore\n!tag<counter> keyword\n!tag<counter> lifelink\n!tag<counter> indestructible\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Husk of Cinder",
@@ -882,8 +914,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "MB Mikkesch",
-            "notes": "https://www.reddit.com/r/ImaginaryDemons/comments/5atrxx/forest_demon_by_mb_mikkesch/\n\n!group 22W\n!sort 02",
-            "image_type": "png"
+            "alias": "",
+            "position": "8",
+            "rotated": false,
+            "notes": "https://www.reddit.com/r/ImaginaryDemons/comments/5atrxx/forest_demon_by_mb_mikkesch/\n\n!tag<character> simul\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ora, Unbridled",
@@ -893,7 +929,7 @@
             "number": 31,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "",
+            "rules_text": "If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.\nWhenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.\n\n[level -2] Creatures you control get +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.\nWhenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.\n\n[level -2] Creatures you control get +1/+0 until end of turn.",
@@ -901,8 +937,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "McPtato",
-            "notes": "https://www.deviantart.com/mcptato/art/071-Soul-Ablaze-611725254\n\n!tag highlight\n\n!group 22W\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "9",
+            "rotated": false,
+            "notes": "https://www.deviantart.com/mcptato/art/071-Soul-Ablaze-611725254\n\n!tag<character> ora\n\n!tag highlight\n\n!tag<frame> leveler\n!tag<counter> loyalty\n\n!tag<atag> female\n\n!tag<otag> holmwalker\n!tag<otag> indefinite-effect\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Simul, the Veil-Cursed",
@@ -912,7 +952,7 @@
             "number": 48,
             "color_identity": "UBG",
             "cost": "{1}{G}{U}",
-            "rules_text": "",
+            "rules_text": "Whenever another planeswalker dies, you may have Simul, the Veil-Cursed copy one of its loyalty abilities by paying its costs. [i](This does not count towards her loyalty ability turn limit.)[/i]\n[+X]: Sacrifice any number of planeswalkers with total loyalty X or greater.\n[0]: Scry 2. You gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever another planeswalker dies, you may have Simul, the Veil-Cursed copy one of its loyalty abilities by paying its costs. [i](This does not count towards her loyalty ability turn limit.)[/i]\n[+X]: Sacrifice any number of planeswalkers with total loyalty X or greater.\n[0]: Scry 2. You gain 2 life.",
@@ -920,6 +960,8 @@
             "set": "SS",
             "loyalty": "2",
             "artist": "Le Vuong",
+            "alias": "",
+            "position": "10",
             "card_name2": "In Search of a Spark",
             "color2": "B",
             "type2": "Legendary Sorcery",
@@ -930,8 +972,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Mikandii",
-            "notes": "https://www.artstation.com/artwork/Bzeql (edited)\nhttps://twitter.com/mikandii/status/767104245141307392\n\n!tag underdark\n\n!group 22W\n!sort 04",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/Bzeql (edited)\nhttps://twitter.com/mikandii/status/767104245141307392\n\n!tag<character> simul\n!tag<mechanic> dravosargentium\n\n!tag underdark\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<with> remindertext-unique\n!tag<frame> dfc\n!tag<counter> MM\n!tag<counter> loyalty\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Autumnal Vale",
@@ -949,8 +995,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Bastien Grivet",
-            "notes": "https://www.artstation.com/artwork/2ZnGB\n\n!group 22S\n!sort 02",
-            "image_type": "png"
+            "alias": "",
+            "position": "11",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/2ZnGB\n\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Back",
@@ -968,6 +1018,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Andreas RochA",
+            "alias": "",
+            "position": "12",
             "card_name2": "Forth",
             "color2": "WR",
             "type2": "Sorcery",
@@ -978,8 +1030,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "JaeCheol Park",
-            "notes": "https://www.deviantart.com/andreasrocha/art/Silent-Shadows-186683945\nhttps://www.artstation.com/artwork/L2RXow\n\n!tag underdark\n\n!group 22S\n!sort 01",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
+            "rotated": true,
+            "notes": "https://www.deviantart.com/andreasrocha/art/Silent-Shadows-186683945\nhttps://www.artstation.com/artwork/L2RXow\n\n!tag<mechanic> holmishire\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Delving Nixie",
@@ -997,8 +1053,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Marcel Hampel",
-            "notes": "https://www.artstation.com/artwork/489RJY?album_id=2474449\n\n!tag highlight\n!tag workshop\n\n!group 22S\n!sort 05",
-            "image_type": "png"
+            "alias": "",
+            "position": "13",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/489RJY?album_id=2474449\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n\n!tag<token> creature\n!tag<token> Ouphe\n!tag<token> Scout\n!tag<token> copy\n!tag<token> trample\n!tag<token> haste\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Earnest Vassal",
@@ -1016,8 +1076,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Daniel Lieske",
-            "notes": "https://www.artstation.com/artwork/mDvYPY\n\n!tag highlight\n!tag workshop\n\n!group 22S\n!sort 04",
-            "image_type": "png"
+            "alias": "",
+            "position": "14",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/mDvYPY\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvest Sentinel",
@@ -1035,8 +1099,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "InkYami",
-            "notes": "https://www.deviantart.com/inkyami/art/Midday-811743033\n\n!tag workshop\n\n!group 22S\n!sort 03",
-            "image_type": "png"
+            "alias": "",
+            "position": "15",
+            "rotated": false,
+            "notes": "https://www.deviantart.com/inkyami/art/Midday-811743033\n\n!tag<mechanic> holmishire\n\n!tag workshop\n\n!tag<with> remindertext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ouphe",
@@ -1054,8 +1122,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Marcel Hampel",
-            "notes": "https://www.artstation.com/artwork/Ooozyw\n\n!group 22S\n!sort 06",
-            "image_type": "png"
+            "alias": "",
+            "position": "16",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/Ooozyw\n\n!tag<atag> male\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 06",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Human",
@@ -1073,8 +1145,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Julia Zhuravleva",
-            "notes": "https://www.reddit.com/user/OkamiGrey/comments/10da900/julia_zhuravleva/\n\n!tag deorum\n\n!group 23W0\n!sort 11",
-            "image_type": "png"
+            "alias": "",
+            "position": "17",
+            "rotated": false,
+            "notes": "https://www.reddit.com/user/OkamiGrey/comments/10da900/julia_zhuravleva/\n\n!tag<plane> deorum\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 11",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Observance of the Sacred",
@@ -1092,8 +1168,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Armando Ayala",
-            "notes": "https://www.artstation.com/artwork/lxbLb5\n\n!tag deorum\n!tag workshop\n\n!group 23W0\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "18",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/lxbLb5\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag workshop\n\n!tag<token> creature\n!tag<token> Angel\n!tag<token> flying\n!tag<counter> favor\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soldier Devout",
@@ -1111,8 +1191,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Bryan Sola",
-            "notes": "https://www.artstation.com/artwork/lGWk5\n\n!tag deorum\n\n!group 23W0\n!sort 07",
-            "image_type": "png"
+            "alias": "",
+            "position": "19",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/lGWk5\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<token> creature\n!tag<token> Angel\n!tag<token> flying\n!tag<counter> favor\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 07",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Parry",
@@ -1130,8 +1214,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Simba Tian",
-            "notes": "https://www.artstation.com/artwork/4XLLk\n\n!tag deorum\n!tag workshop\n\n!group 23W0\n!sort 02",
-            "image_type": "png"
+            "alias": "",
+            "position": "20",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/4XLLk\n\n!tag<plane> deorum\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trollsbane Punk",
@@ -1149,8 +1237,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Even Mehl Amundsen (edited)",
-            "notes": "https://ladywarriorsunite.tumblr.com/post/105742637343/art-by-even-mehl-amundsen\nhttps://mischeviouslittleelf.tumblr.com/\n\n!tag deorum\n!tag highlight\n\n!group 23W0\n!sort 08",
-            "image_type": "png"
+            "alias": "",
+            "position": "21",
+            "rotated": false,
+            "notes": "https://ladywarriorsunite.tumblr.com/post/105742637343/art-by-even-mehl-amundsen\nhttps://mischeviouslittleelf.tumblr.com/\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 08",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Moment of Privacy",
@@ -1168,8 +1260,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "January Sun",
-            "notes": "https://jayessart.tumblr.com/post/688233569486864384/kelp-forest-spirit-and-mr-shark-instagram\n\n!tag deorum\n!tag highlight\n\n!group 23W0\n!sort 03",
-            "image_type": "png"
+            "alias": "",
+            "position": "22",
+            "rotated": false,
+            "notes": "https://jayessart.tumblr.com/post/688233569486864384/kelp-forest-spirit-and-mr-shark-instagram\n\n!tag<plane> deorum\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n!tag<atag> yaoi\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nippy Shoalsteer",
@@ -1179,7 +1275,7 @@
             "number": 0,
             "color_identity": "UG",
             "cost": "{2}{G}",
-            "rules_text": "",
+            "rules_text": "Tidal [i](At the beginning of your upkeep, choose high or low tide. Each player tracks tide separately.)[/i]\nHigh tide \u2013 Whenever Nippy Shoalsteer becomes blocked, distribute its +1/+1 counters among any number of attacking creatures you control.\nLow tide \u2013 {T}: Add {GU}. When you spend this mana on a Fish, Leviathan, or Merfolk spell, put\na +1/+1 counter on Nippy Shoalsteer.",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "Tidal [i](At the beginning of your upkeep, choose high or low tide. Each player tracks tide separately.)[/i]\nHigh tide \u2013 Whenever Nippy Shoalsteer becomes blocked, distribute its +1/+1 counters among any number of attacking creatures you control.\nLow tide \u2013 {T}: Add {GU}. When you spend this mana on a Fish, Leviathan, or Merfolk spell, put\na +1/+1 counter on Nippy Shoalsteer.",
@@ -1187,8 +1283,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Axel Sauerwald",
-            "notes": "https://www.artstation.com/artwork/lxvrRO\n\n!tag deorum\n!tag highlight\n!tag workshop\n\n!group 23W0\n!sort 09",
-            "image_type": "png"
+            "alias": "",
+            "position": "23",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/lxvrRO\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag highlight\n!tag workshop\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> typal-coupling\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 09",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Carrion Peddler",
@@ -1206,8 +1306,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Jana Heidersdorf",
-            "notes": "https://twitter.com/Checanty/status/1485128896395755520/photo/4\n\n!tag deorum\n!tag highlight\n\n!group 23W0\n!sort 04",
-            "image_type": "png"
+            "alias": "",
+            "position": "24",
+            "rotated": false,
+            "notes": "https://twitter.com/Checanty/status/1485128896395755520/photo/4\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag highlight\n\n!tag<token> creature\n!tag<token> Human\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blighted Hunt",
@@ -1225,8 +1329,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Worasak Suwannarach",
-            "notes": "https://www.artstation.com/artwork/mDb1bY\n\n!tag deorum\n!tag highlight\n\n!group 23W0\n!sort 10",
-            "image_type": "png"
+            "alias": "",
+            "position": "25",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/mDb1bY\n\n!tag<plane> deorum\n\n!tag highlight\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<otag> alt-cost\n\n!group 23W0\n!sort 10",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ritual Warden",
@@ -1244,8 +1352,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Janna Sophia",
-            "notes": "https://www.artstation.com/artwork/KKWlB\n\n!tag deorum\n\n!group 23W0\n!sort 05",
-            "image_type": "png"
+            "alias": "",
+            "position": "26",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/KKWlB\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarlet Crucible",
@@ -1263,8 +1375,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
-            "notes": "https://www.artstation.com/artwork/NWw9D\n\n!tag deorum\n\n!group 23W0\n!sort 06",
-            "image_type": "png"
+            "alias": "",
+            "position": "27",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/NWw9D\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 06",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nunieve's Aspirant",
@@ -1282,8 +1398,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Andrew Mar",
-            "notes": "https://andrewkmar.tumblr.com/post/174402354809/last-mermay-hi-res-on\n\n!tag dominaria\n\n!group 23W0\n!sort 12",
-            "image_type": "png"
+            "alias": "",
+            "position": "28",
+            "rotated": false,
+            "notes": "https://andrewkmar.tumblr.com/post/174402354809/last-mermay-hi-res-on\n\n!tag<plane> dominaria\n!tag<character> nunieve\n!tag<character> bo-levar\n!tag<character> crucias\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 12",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glint in the Depths",
@@ -1293,7 +1413,7 @@
             "number": 37,
             "color_identity": "UBG",
             "cost": "{2}{G}",
-            "rules_text": "",
+            "rules_text": "[i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]\nWhen Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.\nA card is put into your graveyard from your library.\nIII \u2013 An Island or Swamp enters the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]\nWhen Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.\nA card is put into your graveyard from your library.\nIII \u2013 An Island or Swamp enters the battlefield under your control.",
@@ -1301,6 +1421,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Robyn Hyzy",
+            "alias": "",
+            "position": "29",
             "card_name2": "Celestial Sphere",
             "color2": "",
             "type2": "Artifact",
@@ -1311,8 +1433,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Edmund Dulac",
-            "notes": "https://www.blogger.com/profile/02523754746301434807\nhttps://society6.com/a/products/the-frog-prince-and-the-golden-ball-by-edmund-dulac_poster\n\n!tag mere\n!tag underdark\n\n!group 23S\n!sort 02",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.blogger.com/profile/02523754746301434807\nhttps://society6.com/a/products/the-frog-prince-and-the-golden-ball-by-edmund-dulac_poster\n\n!tag<plane> mere\n!tag<mechanic> squidpizza\n\n!tag underdark\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n!tag<frame> saga\n!tag<token> creature\n!tag<token> Frog\n!tag<token> Noble\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Motley Wayfinder",
@@ -1330,8 +1456,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "RedSlug",
-            "notes": "https://redslug.tumblr.com/post/186772706359/a-moon-worship-ritual\n\n!tag highlight\n!tag mere\n\n!group 23S\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "30",
+            "rotated": false,
+            "notes": "https://redslug.tumblr.com/post/186772706359/a-moon-worship-ritual\n\n!tag<plane> mere\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<counter> PP\n\n!tag<male>\n!tag<female>\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rainfall",
@@ -1349,8 +1479,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Jakejk",
-            "notes": "https://www.deviantart.com/jakejk/art/Rain-forest-392536418\n\n!tag mere\n!tag highlight\n\n!group 23S\n!sort 04",
-            "image_type": "png"
+            "alias": "",
+            "position": "31",
+            "rotated": false,
+            "notes": "https://www.deviantart.com/jakejk/art/Rain-forest-392536418\n\n!tag<plane> mere\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarwood Pilferer",
@@ -1368,8 +1502,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "l-aciel",
-            "notes": "https://www.tumblr.com/roll-to-seduce-eldritch-horror/189821029959/l-aciel-the-moths-hour-is-midnight-it-is\n\n!tag mere\n\n!group 23S\n!sort 03",
-            "image_type": "png"
+            "alias": "",
+            "position": "32",
+            "rotated": false,
+            "notes": "https://www.tumblr.com/roll-to-seduce-eldritch-horror/189821029959/l-aciel-the-moths-hour-is-midnight-it-is\n\n!tag<plane> mere\n\n!tag color-bend\n\n!tag<atag> male\n\n!tag<otag> removal\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tardy Grayson",
@@ -1379,7 +1517,7 @@
             "number": 51,
             "color_identity": "UG",
             "cost": "{GU}",
-            "rules_text": "",
+            "rules_text": "[+X]: Shuffle X target cards from your graveyard into your library.\n[0]: Tardy Grayson phases out.\n[-X]: Each of X target creatures must be blocked this turn if able.\n[i]Second of God's most creatures.[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+X]: Shuffle X target cards from your graveyard into your library.\n[0]: Tardy Grayson phases out.\n[-X]: Each of X target creatures must be blocked this turn if able.\n[i]Second of God's most creatures.[/i]",
@@ -1387,8 +1525,12 @@
             "set": "SS",
             "loyalty": "1",
             "artist": "A.L. Ashbaugh",
-            "notes": "https://alashbaugh.com/tardigrade\n\n!tag mere\n\n!group 23S\n!sort 05",
-            "image_type": "png"
+            "alias": "",
+            "position": "33",
+            "rotated": false,
+            "notes": "https://alashbaugh.com/tardigrade\n\n!tag<plane> mere\n!tag<character> tardy-grayson\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<counter> loyalty\n\n!tag<atag> male\n\n!tag<otag> removal\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grandfather's Blade",
@@ -1406,8 +1548,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Taras Susak",
-            "notes": "https://www.artstation.com/artwork/W2omKv\n\n!tag workshop\n\n!group 23W\u00bd\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "34",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/W2omKv\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<giftee> flaredirector\n!group 23W\u00bd\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clow Cards, Reclaimed",
@@ -1425,18 +1571,24 @@
             "set": "SS",
             "loyalty": "",
             "artist": "\u5504\u8336Utacha",
+            "alias": "",
+            "position": "35",
             "card_name2": "Tomoyo's Claim",
             "color2": "W",
             "type2": "Enchantment \u2013 Aura Saga",
             "cost2": "{1}{W}",
-            "rules_text2": "",
+            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nFlash\nEnchant creature\nEnchanted creature gains indestructible until end of turn.\nEnchanted creature gains lifelink and prowess until end of turn. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nFlash\nEnchant creature\nEnchanted creature gains indestructible until end of turn.\nEnchanted creature gains lifelink and prowess until end of turn. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]",
             "loyalty2": "",
             "artist2": "Edoya Inuhachi",
-            "notes": "https://www.pixiv.net/en/artworks/117823888\nhttps://www.pixiv.net/en/artworks/46700762\n\n!group 24S2\n!sort 01",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/117823888\nhttps://www.pixiv.net/en/artworks/46700762\n\n!tag<character> sakura\n!tag<character> tomoyo\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n!tag<frame> saga\n!tag<counter> lore\n\n!tag<atag> female\n!tag<atag> yuri\n\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "WITCHING",
@@ -1454,8 +1606,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Simz Art",
-            "notes": "https://twitter.com/SimzArts/status/1491573115146674177\n\n!tag highlight\n\n!group 24S1\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "36",
+            "rotated": false,
+            "notes": "https://twitter.com/SimzArts/status/1491573115146674177\n\n!tag highlight\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S1\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Coffee Medium",
@@ -1473,6 +1629,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Simz Art",
+            "alias": "",
+            "position": "37",
             "card_name2": "Coven Caf\u00e9",
             "color2": "",
             "type2": "Land",
@@ -1483,8 +1641,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Simz Art",
-            "notes": "https://www.instagram.com/p/C36Aa7iqveC/\nhttps://www.instagram.com/p/CanLxatqnm4/\n\n!tag workshop\n\n!group 24S2\n!sort 02",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.instagram.com/p/C36Aa7iqveC/\nhttps://www.instagram.com/p/CanLxatqnm4/\n\n!tag workshop\n\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<cycle> horizontal-dfc-witch-lands\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Record Spill",
@@ -1502,6 +1664,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Simz Art",
+            "alias": "",
+            "position": "38",
             "card_name2": "Cult's Corner Shop",
             "color2": "",
             "type2": "Land",
@@ -1512,8 +1676,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Simz Art",
-            "notes": "https://www.instagram.com/p/CWHM9kbKiBt/\nhttps://www.instagram.com/p/CZujIxtqWTG/\n\n!tag workshop\n\n!group 24S2\n!sort 03",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.instagram.com/p/CWHM9kbKiBt/\nhttps://www.instagram.com/p/CZujIxtqWTG/\n\n!tag workshop\n\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<cycle> horizontal-dfc-witch-lands\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 03",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lift the Veil",
@@ -1531,8 +1699,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Mengxuan Li",
-            "notes": "https://www.pixiv.net/en/artworks/120089694\n\n!tag underdark\n\n!group 24S2\n!sort 04",
-            "image_type": "png"
+            "alias": "",
+            "position": "39",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/120089694\n\n!tag underdark\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 04",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Familiar's Friend",
@@ -1550,6 +1722,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Mengxuan Li",
+            "alias": "",
+            "position": "40",
             "card_name2": "Why Pick One?",
             "color2": "G",
             "type2": "Legendary Sorcery \u2013 Tale",
@@ -1560,8 +1734,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "https://www.artstation.com/artwork/9EX0EO\n\n!group 24S2\n!sort 05",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/9EX0EO\n\n!tag<mechanic> holmishire\n!tag<mechanic> canterburyegg\n\n!tag<with> remindertext\n!tag<frame> adventure\n!tag<token> creature\n!tag<token> Cat\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 05",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pumpkin Farmers",
@@ -1579,8 +1757,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Woonyoung Jung",
-            "notes": "https://www.instagram.com/p/BKcHO-Nga48/\n\n!tag underdark\n\n!group 24S2\n!sort 06",
-            "image_type": "png"
+            "alias": "",
+            "position": "41",
+            "rotated": false,
+            "notes": "https://www.instagram.com/p/BKcHO-Nga48/\n\n!tag<mechanic> holmishire\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<token> artifact\n!tag<token> Food\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite-effect\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 06",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Speeding Ticket",
@@ -1598,6 +1780,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Woonyoung Jung",
+            "alias": "",
+            "position": "42",
             "card_name2": "Taking It Slow",
             "color2": "U",
             "type2": "Instant",
@@ -1608,8 +1792,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Woonyoung Jung",
-            "notes": "https://www.instagram.com/p/BJXjcc2AiXl/\nhttps://www.instagram.com/p/BPqDvvwAwN1/\n\n!group 24S2\n!sort 07",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.instagram.com/p/BJXjcc2AiXl/\nhttps://www.instagram.com/p/BPqDvvwAwN1/\n\n!tag<with> flavortext\n!tag<frame> dfc\n!tag<counter> stun\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> fog\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 07",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Audana",
@@ -1627,8 +1815,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Harukenharu",
-            "notes": "https://www.pixiv.net/en/artworks/110432525\n\n!tag audana\n!tag highlight\n\n!group 24S1\n!sort 02",
-            "image_type": "png"
+            "alias": "",
+            "position": "43",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/110432525\n\n!tag<plane> audana\n!tag<character> tobi\n!tag<character> kaede\n\n!tag highlight\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S1\n!sort 02",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kaede, Dayspring Snoop",
@@ -1646,6 +1838,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Tim Bougami",
+            "alias": "",
+            "position": "44",
             "card_name2": "Sunkissed Kaede",
             "color2": "R",
             "type2": "Legendary Creature \u2013 Human Wizard",
@@ -1656,8 +1850,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "\u4e03\u8485_ aka Seven",
-            "notes": "https://www.pixiv.net/en/artworks/69583380\nhttps://www.pixiv.net/en/artworks/119171821\n\n!tag audana\n\n!group 24S2\n!sort 09",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/69583380\nhttps://www.pixiv.net/en/artworks/119171821\n\n!tag<plane> audana\n!tag<character> kaede\n\n!tag<with> flavortext\n!tag<frame> dfc\n!tag<token> creature\n!tag<token> Elemental\n!tag<token> cant-block\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 09",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Manamorphose",
@@ -1675,8 +1873,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Evan Monteiro",
-            "notes": "https://www.kickstarter.com/projects/1170902627/saga-of-the-lost-spheres-fantasy-fiction-serial-se\n\n!tag audana\n!tag reprint\n\n!group 24S2\n!sort 10",
-            "image_type": "png"
+            "alias": "",
+            "position": "45",
+            "rotated": false,
+            "notes": "https://www.kickstarter.com/projects/1170902627/saga-of-the-lost-spheres-fantasy-fiction-serial-se\n\n!tag<plane> audana\n!tag<character> kaede\n!tag<character> kiyomi\n\n!tag reprint\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 10",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tobi's Heart-Splinter",
@@ -1694,8 +1896,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Homutan (edited)",
-            "notes": "https://www.pixiv.net/en/artworks/98872678\n\n!tag audana\n\n!group 24S2\n!sort 11",
-            "image_type": "png"
+            "alias": "",
+            "position": "46",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/98872678\n\n!tag<plane> audana\n!tag<character> tobi\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 11",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Take Another Breath",
@@ -1713,8 +1919,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "DMDS",
-            "notes": "https://www.pixiv.net/en/artworks/103692400\n\n!tag audana\n\n!group 24S2\n!sort 12",
-            "image_type": "png"
+            "alias": "",
+            "position": "47",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/103692400\n\n!tag<plane> audana\n!tag<character> tobi\n!tag<character> carmine\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 12",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lorelei No Longer",
@@ -1732,6 +1942,8 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Mk",
+            "alias": "",
+            "position": "48",
             "card_name2": "Lorelei's Unraveling",
             "color2": "WR",
             "type2": "Legendary Instant",
@@ -1742,8 +1954,12 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "NIRA (Edited)",
-            "notes": "https://www.pixiv.net/en/artworks/118910526\nhttps://www.pixiv.net/en/artworks/91737451\n\n!tag audana\n\n!group 24S2\n!sort 13",
-            "image_type": "png"
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "https://www.pixiv.net/en/artworks/118910526\nhttps://www.pixiv.net/en/artworks/91737451\n\n!tag<plane> audana\n!tag<character> lorelei\n!tag<character> sybelle\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 13",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cat",
@@ -1761,8 +1977,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Mengxuan Li",
-            "notes": "https://www.artstation.com/artwork/vDwkb3\n\n!group 24S2\n!sort 08",
-            "image_type": "png"
+            "alias": "",
+            "position": "49",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/vDwkb3\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 08",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chase the Shifting Moon",
@@ -1772,16 +1992,20 @@
             "number": 12,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Target nonland permanent phases out until this Saga leaves the battlefield.\nII, III \u2013 Once this turn, if a creature you control would die, you may have it phase out instead.\nIV \u2013 Until your next turn, permanents phase in under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nTarget nonland permanent phases out until this Saga leaves the battlefield.\nOnce this turn, if a creature you control would die, you may have it phase out instead.\nUntil your next turn, permanents phase in under your control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Target nonland permanent phases out until this Saga leaves the battlefield.\nII, III \u2013 Once this turn, if a creature you control would die, you may have it phase out instead.\nIV \u2013 Until your next turn, permanents phase in under your control.",
             "shape": "saga",
             "set": "SS",
             "loyalty": "",
             "artist": "Vetkhiy Barsuk",
-            "notes": "https://x.com/vetkhiy_barsuk/status/1847744272495444277\n\n!group 25S0\n!sort 1",
-            "image_type": "png"
+            "alias": "",
+            "position": "50",
+            "rotated": false,
+            "notes": "https://x.com/vetkhiy_barsuk/status/1847744272495444277\n\n!tag<with> remindertext\n!tag<frame> saga\n!tag<counter> lore\n\n!tag<cycle> horizontal-wolf-sagas\n!tag<otag> banish\n!tag<otag> removal\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 1",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eyes Agape",
@@ -1799,8 +2023,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Diana Franco",
-            "notes": "https://www.artstation.com/artwork/2q9Jya\n\n!tag phyrexia\n\n!group 25S0\n!sort 2",
-            "image_type": "png"
+            "alias": "",
+            "position": "51",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/2q9Jya\n\n!tag<plane> phyrexia\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 2",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Surge Protector",
@@ -1818,8 +2046,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Cosimo Galluzzi",
-            "notes": "https://cosimogalluzzi.artstation.com/projects/8l9vKR\n\n!group 25S0\n!sort 3",
-            "image_type": "png"
+            "alias": "",
+            "position": "52",
+            "rotated": false,
+            "notes": "https://cosimogalluzzi.artstation.com/projects/8l9vKR\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> nonbinary\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 3",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dryad of Dusk's Whisper",
@@ -1837,8 +2069,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "F3lc4t",
-            "notes": "https://www.artstation.com/artwork/xDDYx1\n\n!tag theros\n!tag highlight\n\n!group 25S0\n!sort 4",
-            "image_type": "png"
+            "alias": "",
+            "position": "53",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/xDDYx1\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 4",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pierce the Cosmos",
@@ -1848,16 +2084,20 @@
             "number": 32,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II \u2013 Search your library for three sorcery cards with mana value 3, exile them, then shuffle.\nIII, IV \u2013 Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nSearch your library for three sorcery cards with mana value 3, exile them, then shuffle.\nCast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II \u2013 Search your library for three sorcery cards with mana value 3, exile them, then shuffle.\nIII, IV \u2013 Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
             "shape": "saga",
             "set": "SS",
             "loyalty": "",
             "artist": "Vetkhiy Barsuk",
-            "notes": "https://x.com/vetkhiy_barsuk/status/1847744272495444277\n\n!group 25S0\n!sort 5",
-            "image_type": "png"
+            "alias": "",
+            "position": "54",
+            "rotated": false,
+            "notes": "https://x.com/vetkhiy_barsuk/status/1847744272495444277\n\n!tag<with> remindertext\n!tag<frame> saga\n!tag<counter> lore\n\n!tag<cycle> horizontal-wolf-sagas\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 5",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion's Echo",
@@ -1875,8 +2115,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Cosimo Galluzzi",
-            "notes": "https://cosimogalluzzi.artstation.com/projects/8l9vKR\n\n!tag theros\n\n!group 25S0\n!sort 6",
-            "image_type": "png"
+            "alias": "",
+            "position": "55",
+            "rotated": false,
+            "notes": "https://cosimogalluzzi.artstation.com/projects/8l9vKR\n\n!tag<plane> theros\n\n!tag<with> flavortext\n\n!tag<atag> nonbinary\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 6",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gentle Jackalope",
@@ -1894,8 +2138,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Nikolay Yeliseyev",
-            "notes": "https://nikyeliseyev.artstation.com/projects/6dzDn\n\n!tag highlight\n\n!group 25S0\n!sort 7",
-            "image_type": "png"
+            "alias": "",
+            "position": "56",
+            "rotated": false,
+            "notes": "https://nikyeliseyev.artstation.com/projects/6dzDn\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n!tag<otag> mv1-matters\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 7",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chevalier Ros\u00e9",
@@ -1913,8 +2161,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Nikolay Yeliseyev",
-            "notes": "https://nikyeliseyev.artstation.com/projects/nDyJe\n\n!tag mirrodin\n\n!group 25S0\n!sort 8",
-            "image_type": "png"
+            "alias": "",
+            "position": "57",
+            "rotated": false,
+            "notes": "https://nikyeliseyev.artstation.com/projects/nDyJe\n\n!tag<plane> mirrodin\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 8",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chase the Blinding Sun",
@@ -1924,16 +2176,20 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Tap target creature and put three stun counters on it.\nII \u2013 At the end of combat this turn, untap each creature you control.\nIII \u2013 Destroy all tapped creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nTap target creature and put three stun counters on it.\nAt the end of combat this turn, untap each creature you control.\nDestroy all tapped creatures.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Tap target creature and put three stun counters on it.\nII \u2013 At the end of combat this turn, untap each creature you control.\nIII \u2013 Destroy all tapped creatures.",
             "shape": "saga",
             "set": "SS",
             "loyalty": "",
             "artist": "Vetkhiy Barsuk",
-            "notes": "https://x.com/vetkhiy_barsuk/status/1847744272495444277\n\n!group 25S0\n!sort 9",
-            "image_type": "png"
+            "alias": "",
+            "position": "58",
+            "rotated": false,
+            "notes": "https://x.com/vetkhiy_barsuk/status/1847744272495444277\n\n!tag<with> remindertext\n!tag<frame> saga\n!tag<counter> lore\n!tag<counter> stun\n\n!tag<cycle> horizontal-wolf-sagas\n!tag<otag> removal\n!tag<otag> symmetrical\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 9",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crawling from the Drink",
@@ -1951,8 +2207,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Stefan Koidl",
-            "notes": "https://www.artstation.com/artwork/rAovDL\n\n!tag duncaster\n\n!group 25S\u00bd\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "59",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/rAovDL\n\n!tag<plane> duncaster\n\n!tag<counter> stun\n\n!tag<atag> nonbinary\n\n!tag<giftee> timespiraled\n!group 25S\u00bd\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spectramorphosis",
@@ -1970,8 +2230,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Kuri Huang",
-            "notes": "https://www.behance.net/gallery/40460865/Break\n\n!group 25W0\n!sort 1",
-            "image_type": "png"
+            "alias": "",
+            "position": "60",
+            "rotated": false,
+            "notes": "https://www.behance.net/gallery/40460865/Break\n\n!tag highlight\n!tag color-bend\n\n!tag<token> creature\n!tag<token> Insect\n!tag<token> Spirit\n!tag<token> copy\n!tag<token> flying\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> banish\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> crashington\n!group 25W0\n!sort 1",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mossback Elk",
@@ -1989,8 +2253,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Ulyssse",
-            "notes": "https://x.com/Ulyssse_/status/1407009101985505280/\n\n!group 25W0\n!sort 2",
-            "image_type": "png"
+            "alias": "",
+            "position": "61",
+            "rotated": false,
+            "notes": "https://x.com/Ulyssse_/status/1407009101985505280/\n\n!tag<mechanic> crashington\n\n!tag<with> remindertext\n!tag<counter> vigor\n\n!tag<giftee> crashington\n!group 25W0\n!sort 2",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sacred Starseeker",
@@ -2008,8 +2276,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Tukoni Tribe",
-            "notes": "https://www.instagram.com/p/CPFe9nwDdcj/\n\n!tag mere\n\n!group 25W0\n!sort 3",
-            "image_type": "png"
+            "alias": "",
+            "position": "62",
+            "rotated": false,
+            "notes": "https://www.instagram.com/p/CPFe9nwDdcj/\n\n!tag<plane> mere\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!tag<giftee> crashington\n!group 25W0\n!sort 3",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Obsession Crown",
@@ -2027,8 +2299,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Ajgiel",
-            "notes": "https://www.instagram.com/p/C4oH43BqS_7\n\n!group 25W0\n!sort 4",
-            "image_type": "png"
+            "alias": "",
+            "position": "63",
+            "rotated": false,
+            "notes": "https://www.instagram.com/p/C4oH43BqS_7\n\n!tag<with> flavortext\n\n!tag<cycle> horizontal-crowns\n!tag<otag> removal\n\n!tag<giftee> crashington\n!group 25W0\n!sort 4",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Obviation Crown",
@@ -2046,8 +2322,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Yaphleen",
-            "notes": "https://www.deviantart.com/yaphleen/art/Crown-352065445\n\n!group 25W0\n!sort 5",
-            "image_type": "png"
+            "alias": "",
+            "position": "64",
+            "rotated": false,
+            "notes": "https://www.deviantart.com/yaphleen/art/Crown-352065445\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<cycle> horizontal-crowns\n\n!tag<giftee> crashington\n!group 25W0\n!sort 5",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Obligation Crown",
@@ -2065,8 +2345,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Pin Ku",
-            "notes": "https://x.com/_Pin_Ku_/status/1933808215676031256\n\n!group 25W0\n!sort 6",
-            "image_type": "png"
+            "alias": "",
+            "position": "65",
+            "rotated": false,
+            "notes": "https://x.com/_Pin_Ku_/status/1933808215676031256\n\n!tag<with> flavortext\n\n!tag<cycle> horizontal-crowns\n\n!tag<giftee> crashington\n!group 25W0\n!sort 6",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Obtention Crown",
@@ -2084,8 +2368,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Aw Anqi",
-            "notes": "https://www.artstation.com/artwork/q9Ql2D\n\n!group 25W0\n!sort 7",
-            "image_type": "png"
+            "alias": "",
+            "position": "66",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/q9Ql2D\n\n!tag<with> flavortext\n\n!tag<cycle> horizontal-crowns\n\n!tag<giftee> crashington\n!group 25W0\n!sort 7",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harmonious Migration",
@@ -2103,8 +2391,12 @@
             "set": "SS",
             "loyalty": "",
             "artist": "Hou China",
-            "notes": "https://www.artstation.com/artwork/9EqBDO\n\n!tag duncaster\n\n!group 25W\u00bd\n!sort 01",
-            "image_type": "png"
+            "alias": "",
+            "position": "67",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/9EqBDO\n\n!tag<giftee> flaredirector\n!group 25W\u00bd\n!sort 01",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dusk Harvest",
@@ -2148,7 +2440,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag underdark\n!tag workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S3R1\n!sort 02",
+            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag underdark\n!tag workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S3R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2171,7 +2463,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/aRq1J0\n\n!tag<with> flavortext\n\n!tag<token> creature\n!tag<token> Faerie\n!tag<token> flying\n\n!group S3R1\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/aRq1J0\n\n!tag<with> flavortext\n\n!tag<token> creature\n!tag<token> Faerie\n!tag<token> flying\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2217,7 +2509,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R1\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2240,7 +2532,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.deviantart.com/nanomortis/art/Twisted-Happiness-552948120\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S3R2\n!sort 01",
+            "notes": "https://www.deviantart.com/nanomortis/art/Twisted-Happiness-552948120\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S3R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2263,7 +2555,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.deviantart.com/yuka-soemy/art/Moon-752096109\n\n!tag<character> cherie\n!tag<character> ollie\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S3R2\n!sort 02",
+            "notes": "https://www.deviantart.com/yuka-soemy/art/Moon-752096109\n\n!tag<character> cherie\n!tag<character> ollie\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R2\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2286,7 +2578,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n\n!group S3R3\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!group S3R3\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2355,7 +2647,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S4R1\n!sort 02",
+            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2516,7 +2808,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "https://www.celialowenthal.com/?pgid=lu01lq4r-dfa61c72-9391-40bf-a70a-9426da286e4b\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> dawnherald\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R3\n!sort 03",
+            "notes": "https://www.celialowenthal.com/?pgid=lu01lq4r-dfa61c72-9391-40bf-a70a-9426da286e4b\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> dawnherald\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S4R3\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2562,7 +2854,7 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/yJe5W9\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S4R4\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/yJe5W9\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S4R4\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2608,7 +2900,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/nXLXE\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S4R4\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/nXLXE\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R4\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2643,7 +2935,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.deviantart.com/kvx/art/Paladins-Fanart-True-Lex-675705552\n\n!tag<character> maeve\n!tag<character> lex\n\n!tag universes-beyond\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<frame> aftermath\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4\u00bdR2\n!sort 03",
+            "notes": "https://www.deviantart.com/kvx/art/Paladins-Fanart-True-Lex-675705552\n\n!tag<character> maeve\n!tag<character> lex\n\n!tag universes-beyond\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<frame> aftermath\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> removal\n!tag<otag> symmetrical\n\n!group S4\u00bdR2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2712,7 +3004,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!group S5R1\n!sort 02",
+            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2735,7 +3027,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!group S5R1\n!sort 03",
+            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2804,7 +3096,7 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "https://www.furaffinity.net/view/41921572/\n\n!tag<character> sibelle\n\n!tag<atag> female\n\n!group S5R2\n!sort 01",
+            "notes": "https://www.furaffinity.net/view/41921572/\n\n!tag<character> sibelle\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S5R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2850,7 +3142,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6R1\n!sort 01",
+            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> typal-coupling\n\n!group S6R1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2919,7 +3211,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/x0PZE\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!group S6R1\n!sort 04",
+            "notes": "https://www.artstation.com/artwork/x0PZE\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<otag> evasion\n\n!group S6R1\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2988,7 +3280,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S6R2\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group S6R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3011,7 +3303,7 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "https://kheleksul.tumblr.com/post/40105121216/this-pic-was-inspired-by-abbys-style-the\n\n!tag<character> kikue\n\n!tag<atag> female\n\n!group S6R2\n!sort 01",
+            "notes": "https://kheleksul.tumblr.com/post/40105121216/this-pic-was-inspired-by-abbys-style-the\n\n!tag<character> kikue\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group S6R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3057,7 +3349,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "https://u-tad.com/catalogos/U-tad_Grado_Animacion.pdf\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S6R6\u00bd\n!sort 01",
+            "notes": "https://u-tad.com/catalogos/U-tad_Grado_Animacion.pdf\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n\n!group S6R6\u00bd\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3080,7 +3372,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/DLldgo\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n!tag<plane> innistrad\n\n!tag<with> flavortext\n!tag<frame> promo\n!tag<counter> PP\n\n!tag<atag> female\n\n!group S6R6\u00bd\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/DLldgo\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n!tag<plane> innistrad\n\n!tag<with> flavortext\n!tag<frame> promo\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> typal-coupling\n\n!group S6R6\u00bd\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3126,7 +3418,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S6\u00bdR1\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> removal\n!tag<otag> typal-coupling\n\n!group S6\u00bdR1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3195,7 +3487,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!group S6R7\n!sort 05",
+            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite effect\n\n!group S6R7\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3218,7 +3510,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3dN6RB\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!group S6R7\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/3dN6RB\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!group S6R7\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3241,7 +3533,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/QzP5oL\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!group S6R7\n!sort 06",
+            "notes": "https://www.artstation.com/artwork/QzP5oL\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!tag<otag> alt-cost\n\n!group S6R7\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3276,7 +3568,7 @@
             "alias2": "",
             "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
             "rotated": true,
-            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!group S6R7\n!sort 02",
+            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> removal\n\n!group S6R7\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3322,7 +3614,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/x3XB6X\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S7R1\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/x3XB6X\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3345,7 +3637,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!group S7R1\n!sort 02",
+            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3391,7 +3683,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R2\n!sort 01",
+            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!group S7R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3414,7 +3706,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "https://www.tumblr.com/vanessagillings/724194482383372288/just-a-little-heads-up-that-my-print-store-is\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S7R2\n!sort 02",
+            "notes": "https://www.tumblr.com/vanessagillings/724194482383372288/just-a-little-heads-up-that-my-print-store-is\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> symmetrical\n\n!group S7R2\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3437,7 +3729,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "https://toniinfante.artstation.com/projects/Ka4bKr\n\n!tag<plane> kamigawa\n!tag<character> kaiso\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S7R2\n!sort 03",
+            "notes": "https://toniinfante.artstation.com/projects/Ka4bKr\n\n!tag<plane> kamigawa\n!tag<character> kaiso\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> fog\n\n!group S7R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3460,7 +3752,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/vJqm8a\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> stun\n\n!tag<atag> male\n!tag<atag> female\n\n!group S7R3\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/vJqm8a\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> stun\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n\n!group S7R3\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3483,7 +3775,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/DFDvElIMERV\n\n!tag<plane> eldraine\n!tag<character> belladora\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> female\n\n!group S7R3\n!sort 03",
+            "notes": "https://www.instagram.com/p/DFDvElIMERV\n\n!tag<plane> eldraine\n!tag<character> belladora\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S7R3\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3506,7 +3798,7 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "https://www.webtoons.com/en/fantasy/the-dark-lords-confession/\n\n!tag<plane> eldraine\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> embereth\n\n!tag<atag> male\n\n!group S7R3\n!sort 02",
+            "notes": "https://www.webtoons.com/en/fantasy/the-dark-lords-confession/\n\n!tag<plane> eldraine\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> embereth\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group S7R3\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3529,7 +3821,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/DLSmz-PBXiq/\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R4\n!sort 01",
+            "notes": "https://www.instagram.com/p/DLSmz-PBXiq/\n\n!tag<plane> eldraine\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R4\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3552,7 +3844,7 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/ImaginaryArchers/comments/k0qug0/archer_by_taras_susak/\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R4\n!sort 01",
+            "notes": "https://www.reddit.com/r/ImaginaryArchers/comments/k0qug0/archer_by_taras_susak/\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> noncanon-creature-type\n\n!group S7R4\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3598,7 +3890,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "https://ca.pinterest.com/larrikin99/the-art-of-symbaroum/folks/\nhttps://hellequin.net/oldRoot/Player's%20Handbook.pdf\n\n!tag<plane> forgotten realms\n!tag<character> Raven Queen\n\n!tag universes-beyond\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> ravenqueen\n\n!tag<atag> male\n\n!group S7R4\n!sort 01",
+            "notes": "https://ca.pinterest.com/larrikin99/the-art-of-symbaroum/folks/\nhttps://hellequin.net/oldRoot/Player's%20Handbook.pdf\n\n!tag<plane> forgotten-realms\n!tag<character> raven-queen\n\n!tag universes-beyond\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> ravenqueen\n\n!tag<atag> male\n\n!tag<otag> symmetrical\n\n!group S7R4\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3618,8 +3910,12 @@
             "set": "TP",
             "loyalty": "",
             "artist": "Felipe Castro",
-            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag highlight",
-            "image_type": "png"
+            "alias": "",
+            "position": "0",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag highlight\n\n!tag<with> remindertext\n\n!tag<atag> nonbinary\n\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!sort 04A\n",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thaumaturgy Savant",
@@ -3637,8 +3933,12 @@
             "set": "TP",
             "loyalty": "",
             "artist": "Leaf Aske",
-            "notes": "https://www.artstation.com/artwork/qXZ32",
-            "image_type": "png"
+            "alias": "",
+            "position": "1",
+            "rotated": false,
+            "notes": "https://www.artstation.com/artwork/qXZ32\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!sort 04C",
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }

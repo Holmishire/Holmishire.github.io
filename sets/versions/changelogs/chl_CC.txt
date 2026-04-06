@@ -1,4 +1,44 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Tender Goatress
+
+Hand In Hand
+
+Dewdrop Strawman
+
+Grudge Scavenge
+
+Oth'teva Conservationist
+
+Treachery Unveiled
+
+Smokeshawl Penitent
+
+Megni's Fervent Plea
+
+Aenin's Journaling
+
+Crippling Snare
+
+Regisaur Packmate
+
+Cryptosleep Reliquary
+
+Efface
+
+Ramshackle Renegade
+
+Clouds' Dominion
+
+Outrider of the Lysian Mists
+
+Quarry-Quarry Huntress
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

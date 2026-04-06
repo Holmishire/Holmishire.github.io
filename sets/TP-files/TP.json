@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag highlight\n\n!tag<with> remindertext\n\n!tag<atag> nonbinary\n\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!sort 04A\n"
+            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag Highlight\n\n!tag<with> remindertext\n\n!tag<atag> nonbinary\n\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!sort 04A"
         },
         {
             "card_name": "Thaumaturgy Savant",
@@ -50,5 +50,5 @@
             "notes": "https://www.artstation.com/artwork/qXZ32\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!sort 04C"
         }
     ],
-    "version": 2
+    "version": 3
 }

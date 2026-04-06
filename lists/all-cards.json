@@ -31,7 +31,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group first\n!sort 99",
+            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group first\n!sort 99",
             "image_type": "png",
             "v_mana": ""
         },
@@ -146,7 +146,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> removal\n\n!group first\n!sort 94",
+            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag Underdark\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> removal\n\n!group first\n!sort 94",
             "image_type": "png",
             "v_mana": ""
         },
@@ -169,7 +169,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n\n!tag workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> echo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group first\n!sort 93",
+            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n\n!tag Workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> echo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group first\n!sort 93",
             "image_type": "png",
             "v_mana": ""
         },
@@ -319,7 +319,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group part02\n!sort 86",
+            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group part02\n!sort 86",
             "image_type": "png",
             "v_mana": ""
         },
@@ -434,7 +434,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<art> female\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<art> female\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -664,7 +664,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag highlight\n\n!tag<with> flavotext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group godspine",
+            "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag Highlight\n\n!tag<with> flavotext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group godspine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -733,7 +733,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://magazine.artstation.com/2021/01/syn-studio-concept-art-diploma-program-last-chance-to-apply-for-fall-2021-intake/\n\n!tag<plane> etros\n!tag<mechanic> cool_beens\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 07",
+            "notes": "https://magazine.artstation.com/2021/01/syn-studio-concept-art-diploma-program-last-chance-to-apply-for-fall-2021-intake/\n\n!tag<plane> etros\n!tag<mechanic> cool_beens\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> blaithi\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 07",
             "image_type": "png",
             "v_mana": ""
         },
@@ -756,7 +756,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "twitter.com/MegadonZinare/status/1724461992323305642\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n!tag<otag> mv1-matters\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 05",
+            "notes": "twitter.com/MegadonZinare/status/1724461992323305642\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n!tag<otag> mv1-matters\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -779,7 +779,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/dOr0BW\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 06",
+            "notes": "https://www.artstation.com/artwork/dOr0BW\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -871,7 +871,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.byzhihuo.com/thread-72427-1-1.html\n\n!tag underdark\n!tag color-bend\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 02",
+            "notes": "https://www.byzhihuo.com/thread-72427-1-1.html\n\n!tag Underdark\n!tag color-bend\n\n!tag<giftee> cool_beens\n!group 24W\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -894,7 +894,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/48woXl\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<frame> promo\n!tag<frame> saga\n!tag<counter> lore\n!tag<counter> keyword\n!tag<counter> lifelink\n!tag<counter> indestructible\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/48woXl\n\n!tag Underdark\n\n!tag<with> remindertext\n!tag<frame> promo\n!tag<frame> saga\n!tag<counter> lore\n!tag<counter> keyword\n!tag<counter> lifelink\n!tag<counter> indestructible\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -940,7 +940,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "https://www.deviantart.com/mcptato/art/071-Soul-Ablaze-611725254\n\n!tag<character> ora\n\n!tag highlight\n\n!tag<frame> leveler\n!tag<counter> loyalty\n\n!tag<atag> female\n\n!tag<otag> holmwalker\n!tag<otag> indefinite-effect\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 01",
+            "notes": "https://www.deviantart.com/mcptato/art/071-Soul-Ablaze-611725254\n\n!tag<character> ora\n\n!tag Highlight\n\n!tag<frame> leveler\n!tag<counter> loyalty\n\n!tag<atag> female\n\n!tag<otag> holmwalker\n!tag<otag> indefinite-effect\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -975,7 +975,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Bzeql (edited)\nhttps://twitter.com/mikandii/status/767104245141307392\n\n!tag<character> simul\n!tag<mechanic> dravosargentium\n\n!tag underdark\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<with> remindertext-unique\n!tag<frame> dfc\n!tag<counter> MM\n!tag<counter> loyalty\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 04",
+            "notes": "https://www.artstation.com/artwork/Bzeql (edited)\nhttps://twitter.com/mikandii/status/767104245141307392\n\n!tag<character> simul\n!tag<mechanic> dravosargentium\n\n!tag Underdark\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<with> remindertext-unique\n!tag<frame> dfc\n!tag<counter> MM\n!tag<counter> loyalty\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!tag<giftee> dravosargentium\n!group 22W\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1033,7 +1033,7 @@
             "alias2": "",
             "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
             "rotated": true,
-            "notes": "https://www.deviantart.com/andreasrocha/art/Silent-Shadows-186683945\nhttps://www.artstation.com/artwork/L2RXow\n\n!tag<mechanic> holmishire\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 01",
+            "notes": "https://www.deviantart.com/andreasrocha/art/Silent-Shadows-186683945\nhttps://www.artstation.com/artwork/L2RXow\n\n!tag<mechanic> holmishire\n\n!tag Underdark\n\n!tag<with> remindertext\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1056,7 +1056,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/489RJY?album_id=2474449\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n\n!tag<token> creature\n!tag<token> Ouphe\n!tag<token> Scout\n!tag<token> copy\n!tag<token> trample\n!tag<token> haste\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 05",
+            "notes": "https://www.artstation.com/artwork/489RJY?album_id=2474449\n\n!tag<mechanic> holmishire\n\n!tag Highlight\n!tag Workshop\n\n!tag<token> creature\n!tag<token> Ouphe\n!tag<token> Scout\n!tag<token> copy\n!tag<token> trample\n!tag<token> haste\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1079,7 +1079,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/mDvYPY\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 04",
+            "notes": "https://www.artstation.com/artwork/mDvYPY\n\n!tag<mechanic> holmishire\n\n!tag Highlight\n!tag Workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1102,7 +1102,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "https://www.deviantart.com/inkyami/art/Midday-811743033\n\n!tag<mechanic> holmishire\n\n!tag workshop\n\n!tag<with> remindertext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 03",
+            "notes": "https://www.deviantart.com/inkyami/art/Midday-811743033\n\n!tag<mechanic> holmishire\n\n!tag Workshop\n\n!tag<with> remindertext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<giftee> infinitychef\n!group 22S\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1171,7 +1171,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/lxbLb5\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag workshop\n\n!tag<token> creature\n!tag<token> Angel\n!tag<token> flying\n!tag<counter> favor\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/lxbLb5\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag Workshop\n\n!tag<token> creature\n!tag<token> Angel\n!tag<token> flying\n!tag<counter> favor\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1217,7 +1217,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/4XLLk\n\n!tag<plane> deorum\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/4XLLk\n\n!tag<plane> deorum\n\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1240,7 +1240,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "https://ladywarriorsunite.tumblr.com/post/105742637343/art-by-even-mehl-amundsen\nhttps://mischeviouslittleelf.tumblr.com/\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 08",
+            "notes": "https://ladywarriorsunite.tumblr.com/post/105742637343/art-by-even-mehl-amundsen\nhttps://mischeviouslittleelf.tumblr.com/\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 08",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1263,7 +1263,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "https://jayessart.tumblr.com/post/688233569486864384/kelp-forest-spirit-and-mr-shark-instagram\n\n!tag<plane> deorum\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n!tag<atag> yaoi\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 03",
+            "notes": "https://jayessart.tumblr.com/post/688233569486864384/kelp-forest-spirit-and-mr-shark-instagram\n\n!tag<plane> deorum\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n!tag<atag> yaoi\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/lxvrRO\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag highlight\n!tag workshop\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> typal-coupling\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 09",
+            "notes": "https://www.artstation.com/artwork/lxvrRO\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag Highlight\n!tag Workshop\n\n!tag<with> remindertext\n!tag<frame> leveler\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> typal-coupling\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 09",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1309,7 +1309,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "https://twitter.com/Checanty/status/1485128896395755520/photo/4\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag highlight\n\n!tag<token> creature\n!tag<token> Human\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 04",
+            "notes": "https://twitter.com/Checanty/status/1485128896395755520/photo/4\n\n!tag<plane> deorum\n!tag<mechanic> n3onblue\n\n!tag Highlight\n\n!tag<token> creature\n!tag<token> Human\n\n!tag<atag> female\n\n!tag<giftee> n3onblue\n!group 23W0\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1332,7 +1332,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/mDb1bY\n\n!tag<plane> deorum\n\n!tag highlight\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<otag> alt-cost\n\n!group 23W0\n!sort 10",
+            "notes": "https://www.artstation.com/artwork/mDb1bY\n\n!tag<plane> deorum\n\n!tag Highlight\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<otag> alt-cost\n\n!group 23W0\n!sort 10",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1436,7 +1436,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.blogger.com/profile/02523754746301434807\nhttps://society6.com/a/products/the-frog-prince-and-the-golden-ball-by-edmund-dulac_poster\n\n!tag<plane> mere\n!tag<mechanic> squidpizza\n\n!tag underdark\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n!tag<frame> saga\n!tag<token> creature\n!tag<token> Frog\n!tag<token> Noble\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 02",
+            "notes": "https://www.blogger.com/profile/02523754746301434807\nhttps://society6.com/a/products/the-frog-prince-and-the-golden-ball-by-edmund-dulac_poster\n\n!tag<plane> mere\n!tag<mechanic> squidpizza\n\n!tag Underdark\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n!tag<frame> saga\n!tag<token> creature\n!tag<token> Frog\n!tag<token> Noble\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1459,7 +1459,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "https://redslug.tumblr.com/post/186772706359/a-moon-worship-ritual\n\n!tag<plane> mere\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<counter> PP\n\n!tag<male>\n!tag<female>\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 01",
+            "notes": "https://redslug.tumblr.com/post/186772706359/a-moon-worship-ritual\n\n!tag<plane> mere\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<counter> PP\n\n!tag<male>\n!tag<female>\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1482,7 +1482,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "https://www.deviantart.com/jakejk/art/Rain-forest-392536418\n\n!tag<plane> mere\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 04",
+            "notes": "https://www.deviantart.com/jakejk/art/Rain-forest-392536418\n\n!tag<plane> mere\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1551,7 +1551,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/W2omKv\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<giftee> flaredirector\n!group 23W\u00bd\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/W2omKv\n\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<giftee> flaredirector\n!group 23W\u00bd\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1609,7 +1609,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "https://twitter.com/SimzArts/status/1491573115146674177\n\n!tag highlight\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S1\n!sort 01",
+            "notes": "https://twitter.com/SimzArts/status/1491573115146674177\n\n!tag Highlight\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1644,7 +1644,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/C36Aa7iqveC/\nhttps://www.instagram.com/p/CanLxatqnm4/\n\n!tag workshop\n\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<cycle> horizontal-dfc-witch-lands\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 02",
+            "notes": "https://www.instagram.com/p/C36Aa7iqveC/\nhttps://www.instagram.com/p/CanLxatqnm4/\n\n!tag Workshop\n\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<cycle> horizontal-dfc-witch-lands\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1679,7 +1679,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CWHM9kbKiBt/\nhttps://www.instagram.com/p/CZujIxtqWTG/\n\n!tag workshop\n\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<cycle> horizontal-dfc-witch-lands\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 03",
+            "notes": "https://www.instagram.com/p/CWHM9kbKiBt/\nhttps://www.instagram.com/p/CZujIxtqWTG/\n\n!tag Workshop\n\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<cycle> horizontal-dfc-witch-lands\n!tag<otag> alt-cost\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1702,7 +1702,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "https://www.pixiv.net/en/artworks/120089694\n\n!tag underdark\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 04",
+            "notes": "https://www.pixiv.net/en/artworks/120089694\n\n!tag Underdark\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1760,7 +1760,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/BKcHO-Nga48/\n\n!tag<mechanic> holmishire\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<token> artifact\n!tag<token> Food\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite-effect\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 06",
+            "notes": "https://www.instagram.com/p/BKcHO-Nga48/\n\n!tag<mechanic> holmishire\n\n!tag Underdark\n\n!tag<with> remindertext\n!tag<token> artifact\n!tag<token> Food\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite-effect\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1818,7 +1818,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "https://www.pixiv.net/en/artworks/110432525\n\n!tag<plane> audana\n!tag<character> tobi\n!tag<character> kaede\n\n!tag highlight\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S1\n!sort 02",
+            "notes": "https://www.pixiv.net/en/artworks/110432525\n\n!tag<plane> audana\n!tag<character> tobi\n!tag<character> kaede\n\n!tag Highlight\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1876,7 +1876,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "https://www.kickstarter.com/projects/1170902627/saga-of-the-lost-spheres-fantasy-fiction-serial-se\n\n!tag<plane> audana\n!tag<character> kaede\n!tag<character> kiyomi\n\n!tag reprint\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 10",
+            "notes": "https://www.kickstarter.com/projects/1170902627/saga-of-the-lost-spheres-fantasy-fiction-serial-se\n\n!tag<plane> audana\n!tag<character> kaede\n!tag<character> kiyomi\n\n!tag reprint-canon\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 10",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1957,7 +1957,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.pixiv.net/en/artworks/118910526\nhttps://www.pixiv.net/en/artworks/91737451\n\n!tag<plane> audana\n!tag<character> lorelei\n!tag<character> sybelle\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 13",
+            "notes": "https://www.pixiv.net/en/artworks/118910526\nhttps://www.pixiv.net/en/artworks/91737451\n\n!tag<plane> audana\n!tag<character> lorelei\n!tag<character> sybelle\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<frame> dfc\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!tag<giftee> featherfall_\n!group 24S2\n!sort 13",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1992,10 +1992,10 @@
             "number": 12,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Target nonland permanent phases out until this Saga leaves the battlefield.\nII, III \u2013 Once this turn, if a creature you control would die, you may have it phase out instead.\nIV \u2013 Until your next turn, permanents phase in under your control.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nTarget nonland permanent phases out until this Saga leaves the battlefield.\nOnce this turn, if a creature you control would die, you may have it phase out instead.\nUntil your next turn, permanents phase in under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Target nonland permanent phases out until this Saga leaves the battlefield.\nII, III \u2013 Once this turn, if a creature you control would die, you may have it phase out instead.\nIV \u2013 Until your next turn, permanents phase in under your control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nTarget nonland permanent phases out until this Saga leaves the battlefield.\nOnce this turn, if a creature you control would die, you may have it phase out instead.\nUntil your next turn, permanents phase in under your control.",
             "shape": "saga",
             "set": "SS",
             "loyalty": "",
@@ -2072,7 +2072,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/xDDYx1\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 4",
+            "notes": "https://www.artstation.com/artwork/xDDYx1\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 4",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2084,10 +2084,10 @@
             "number": 32,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II \u2013 Search your library for three sorcery cards with mana value 3, exile them, then shuffle.\nIII, IV \u2013 Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nSearch your library for three sorcery cards with mana value 3, exile them, then shuffle.\nCast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II \u2013 Search your library for three sorcery cards with mana value 3, exile them, then shuffle.\nIII, IV \u2013 Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nSearch your library for three sorcery cards with mana value 3, exile them, then shuffle.\nCast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.\n\u200b",
             "shape": "saga",
             "set": "SS",
             "loyalty": "",
@@ -2141,7 +2141,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "https://nikyeliseyev.artstation.com/projects/6dzDn\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n!tag<otag> mv1-matters\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 7",
+            "notes": "https://nikyeliseyev.artstation.com/projects/6dzDn\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n!tag<otag> mv1-matters\n\n!tag<giftee> itaiuukl\n!group 25S0\n!sort 7",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2176,10 +2176,10 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Tap target creature and put three stun counters on it.\nII \u2013 At the end of combat this turn, untap each creature you control.\nIII \u2013 Destroy all tapped creatures.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nTap target creature and put three stun counters on it.\nAt the end of combat this turn, untap each creature you control.\nDestroy all tapped creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2013 Tap target creature and put three stun counters on it.\nII \u2013 At the end of combat this turn, untap each creature you control.\nIII \u2013 Destroy all tapped creatures.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nTap target creature and put three stun counters on it.\nAt the end of combat this turn, untap each creature you control.\nDestroy all tapped creatures.",
             "shape": "saga",
             "set": "SS",
             "loyalty": "",
@@ -2233,7 +2233,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "https://www.behance.net/gallery/40460865/Break\n\n!tag highlight\n!tag color-bend\n\n!tag<token> creature\n!tag<token> Insect\n!tag<token> Spirit\n!tag<token> copy\n!tag<token> flying\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> banish\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> crashington\n!group 25W0\n!sort 1",
+            "notes": "https://www.behance.net/gallery/40460865/Break\n\n!tag Highlight\n!tag color-bend\n\n!tag<token> creature\n!tag<token> Insect\n!tag<token> Spirit\n!tag<token> copy\n!tag<token> flying\n\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> banish\n!tag<otag> evasion\n!tag<otag> removal\n\n!tag<giftee> crashington\n!group 25W0\n!sort 1",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2417,7 +2417,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.deviantart.com/yuumei/art/Chinese-New-Year-828170709\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R2\n!sort 03",
+            "notes": "https://www.deviantart.com/yuumei/art/Chinese-New-Year-828170709\n\n!tag Underdark\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2440,7 +2440,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag underdark\n!tag workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S3R1\n!sort 02",
+            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag Underdark\n!tag Workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S3R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2509,7 +2509,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2578,7 +2578,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!group S3R3\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag Underdark\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!group S3R3\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2624,7 +2624,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/mB2le\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S3R3\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/mB2le\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S3R3\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2647,7 +2647,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R1\n!sort 02",
+            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2716,7 +2716,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/rAPJdE\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Zombie\n\n!tag<atag> male\n\n!group S4R2\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/rAPJdE\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag Highlight\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Zombie\n\n!tag<atag> male\n\n!group S4R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2762,7 +2762,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "https://www.deviantart.com/kilartdev/art/WITCH-680898026\n\n!tag<plane> innistrad\n\n!tag<token> creature\n!tag<token> Zombie\n!tag<token> decayed\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R2\n!sort 03",
+            "notes": "https://www.deviantart.com/kilartdev/art/WITCH-680898026\n\n!tag<plane> innistrad\n\n!tag<token> creature\n!tag<token> Zombie\n!tag<token> decayed\n!tag<token> cant-block\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2785,7 +2785,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "https://thecollectibles.tumblr.com/post/647031857785044992/mushroom-fighter-character-design-challenge-by\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Saproling\n!tag<counter> spore\n\n!tag<atag> male\n\n!group S4R3\n!sort 01",
+            "notes": "https://thecollectibles.tumblr.com/post/647031857785044992/mushroom-fighter-character-design-challenge-by\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Saproling\n!tag<counter> spore\n\n!tag<atag> male\n\n!group S4R3\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2877,7 +2877,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "https://ericawilliamsillustration.com/works#/thorny/\n\n!tag<character> sorrel\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!group S4R4\n!sort 03",
+            "notes": "https://ericawilliamsillustration.com/works#/thorny/\n\n!tag<character> sorrel\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!group S4R4\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2958,7 +2958,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "https://vk.com/yanamarsh\n\n!tag<character> maeve\n\n!tag underdark\n!tag universes-beyond\n!tag color-bend\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S4\u00bdR2\n!sort 02",
+            "notes": "https://vk.com/yanamarsh\n\n!tag<character> maeve\n\n!tag Underdark\n!tag universes-beyond\n!tag color-bend\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S4\u00bdR2\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3004,7 +3004,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 02",
+            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag Highlight\n!tag Workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3027,7 +3027,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 03",
+            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag Highlight\n!tag Workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3050,7 +3050,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/eL4R6\n\n!tag<mechanic> holmishire\n\n!tag underdark\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S5R1\n!sort 04",
+            "notes": "https://www.artstation.com/artwork/eL4R6\n\n!tag<mechanic> holmishire\n\n!tag Underdark\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S5R1\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3119,7 +3119,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "https://www.furaffinity.net/view/42383694/\n\n!tag<character> sibelle\n!tag<character> brutis\n\n!tag underdark\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S5R2\n!sort 03",
+            "notes": "https://www.furaffinity.net/view/42383694/\n\n!tag<character> sibelle\n!tag<character> brutis\n\n!tag Underdark\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S5R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3142,7 +3142,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> typal-coupling\n\n!group S6R1\n!sort 01",
+            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> typal-coupling\n\n!group S6R1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3165,7 +3165,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/characterdesigns/comments/ucv2v6/oc_oscar_the_therian_a_main_character_in_my/\n\n!tag workshop\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6R1\n!sort 02",
+            "notes": "https://www.reddit.com/r/characterdesigns/comments/ucv2v6/oc_oscar_the_therian_a_main_character_in_my/\n\n!tag Workshop\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3188,7 +3188,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CjqK5MKLgs3/?img_index=1\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Ouphe\n\n!tag<atag> male\n\n!group S6R1\n!sort 03",
+            "notes": "https://www.instagram.com/p/CjqK5MKLgs3/?img_index=1\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Ouphe\n\n!tag<atag> male\n\n!group S6R1\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3280,7 +3280,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group S6R2\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group S6R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3418,7 +3418,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> removal\n!tag<otag> typal-coupling\n\n!group S6\u00bdR1\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> removal\n!tag<otag> typal-coupling\n\n!group S6\u00bdR1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3441,7 +3441,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "https://www.deviantart.com/apricotknight/art/Keeper-of-the-Forest-378925799\n\n!tag workshop\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> poison\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S6\u00bdR1\n!sort 01",
+            "notes": "https://www.deviantart.com/apricotknight/art/Keeper-of-the-Forest-378925799\n\n!tag Workshop\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> poison\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S6\u00bdR1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3487,7 +3487,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite effect\n\n!group S6R7\n!sort 05",
+            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite-effect\n\n!group S6R7\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3568,7 +3568,7 @@
             "alias2": "",
             "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
             "rotated": true,
-            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> removal\n\n!group S6R7\n!sort 02",
+            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> removal\n\n!group S6R7\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3591,7 +3591,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag<plane> ravnica\n!tag<character> ubea\n\n!tag underdark\n!tag workshop\n\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> male\n\n!group S6R7\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag<plane> ravnica\n!tag<character> ubea\n\n!tag Underdark\n!tag Workshop\n\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> male\n\n!group S6R7\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3637,7 +3637,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 02",
+            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3683,7 +3683,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!group S7R2\n!sort 01",
+            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!group S7R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3913,7 +3913,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag highlight\n\n!tag<with> remindertext\n\n!tag<atag> nonbinary\n\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!sort 04A\n",
+            "notes": "https://www.artstation.com/artwork/Le3q50\n\n!tag Highlight\n\n!tag<with> remindertext\n\n!tag<atag> nonbinary\n\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!sort 04A",
             "image_type": "png",
             "v_mana": ""
         },

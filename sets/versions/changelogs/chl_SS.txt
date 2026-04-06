@@ -1,4 +1,124 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Blaithi Armsmaster
+
+Cloak in Rime
+
+Blackwings' Blessing
+
+Eternities' Wake
+
+Cinder's Prophecy
+
+Ora, Unbridled
+
+Simul, the Veil-Cursed
+
+Back
+
+Delving Nixie
+
+Earnest Vassal
+
+Harvest Sentinel
+
+Observance of the Sacred
+
+Parry
+
+Trollsbane Punk
+
+Moment of Privacy
+
+Nippy Shoalsteer
+
+Carrion Peddler
+
+Blighted Hunt
+
+Glint in the Depths
+
+Motley Wayfinder
+
+Rainfall
+
+Grandfather's Blade
+
+WITCHING
+
+Coffee Medium
+
+Record Spill
+
+Lift the Veil
+
+Pumpkin Farmers
+
+Audana
+
+Manamorphose
+
+Lorelei No Longer
+
+Chase the Shifting Moon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target nonland permanent phases out until this Saga leaves the battlefield.
+II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
+IV — Until your next turn, permanents phase in under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Target nonland permanent phases out until this Saga leaves the battlefield.
+Once this turn, if a creature you control would die, you may have it phase out instead.
+Until your next turn, permanents phase in under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target nonland permanent phases out until this Saga leaves the battlefield.
+II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
+IV — Until your next turn, permanents phase in under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Target nonland permanent phases out until this Saga leaves the battlefield.
+Once this turn, if a creature you control would die, you may have it phase out instead.
+Until your next turn, permanents phase in under your control.
+
+Dryad of Dusk's Whisper
+
+Pierce the Cosmos
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​
+
+Gentle Jackalope
+
+Chase the Blinding Sun
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — At the end of combat this turn, untap each creature you control.
+III — Destroy all tapped creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Tap target creature and put three stun counters on it.
+At the end of combat this turn, untap each creature you control.
+Destroy all tapped creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — At the end of combat this turn, untap each creature you control.
+III — Destroy all tapped creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Tap target creature and put three stun counters on it.
+At the end of combat this turn, untap each creature you control.
+Destroy all tapped creatures.
+
+Spectramorphosis
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

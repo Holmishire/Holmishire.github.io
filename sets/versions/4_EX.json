@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<art> female\n\n!group godspine"
+            "notes": "https://www.artstation.com/artwork/N5vy6z\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<counter> stun\n\n!tag<art> female\n\n!group godspine"
         },
         {
             "card_name": "Veintapped Relic",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag highlight\n\n!tag<with> flavotext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group godspine"
+            "notes": "https://www.artstation.com/artwork/d09YZK\n\n!tag<plane> godspine\n!tag<plane> issendrask\n\n!tag Highlight\n\n!tag<with> flavotext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n!tag<counter> PP\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n\n!group godspine"
         },
         {
             "card_name": "Gone Astray",

@@ -1,4 +1,62 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Dusk Harvest
+
+Fiery Reprieve
+
+Petal Collector
+
+Borrowed Shelter
+
+Sulking Recluse
+
+Mistress of the Hunt
+
+Asphodel's Sentinel
+
+Lambholt Recreant
+
+Adnascentia
+
+Immersion
+
+Maeve of Nine Lives
+
+Nesting Furie
+
+Chortle of Selkies
+
+Thrice-horned Forerunner
+
+Vengeful Brutis
+
+Cootie Courier
+
+Stewardship of Murk
+
+Ickle Inchhiker
+
+Crack in the Archives
+
+Razortusk Challenger
+
+Autumn Court Mediator
+
+Inquisitorial Prospect
+
+Rhythm
+
+Ubea, Sixth's Appraiser
+
+Phantom Chupacabra
+
+Sympath en-Vec
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://www.deviantart.com/yuumei/art/Chinese-New-Year-828170709\n\n!tag underdark\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R2\n!sort 03"
+            "notes": "https://www.deviantart.com/yuumei/art/Chinese-New-Year-828170709\n\n!tag Underdark\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R2\n!sort 03"
         },
         {
             "card_name": "Fiery Reprieve",
@@ -47,7 +47,7 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag underdark\n!tag workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S3R1\n!sort 02"
+            "notes": "https://merasgar.tumblr.com/post/184120523956/411\n\n!tag Underdark\n!tag Workshop\n\n!tag<with> remindertext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S3R1\n!sort 02"
         },
         {
             "card_name": "Amberheart Pod",
@@ -110,7 +110,7 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 03"
+            "notes": "https://www.artstation.com/artwork/Gad42W\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S3R1\n!sort 03"
         },
         {
             "card_name": "Dreaded Needle",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!group S3R3\n!sort 02"
+            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag Underdark\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> symmetrical\n\n!group S3R3\n!sort 02"
         },
         {
             "card_name": "Nima, Free-Spirited",
@@ -215,7 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/mB2le\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S3R3\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/mB2le\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S3R3\n!sort 01"
         },
         {
             "card_name": "Mistress of the Hunt",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R1\n!sort 02"
+            "notes": "https://kelogsloops.com/watercolor/2019/5/13/the-hiding-place-1\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S4R1\n!sort 02"
         },
         {
             "card_name": "Imperial Stalwart",
@@ -299,7 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/rAPJdE\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Zombie\n\n!tag<atag> male\n\n!group S4R2\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/rAPJdE\n\n!tag<plane> theros\n!tag<mechanic> holmishire\n\n!tag Highlight\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Zombie\n\n!tag<atag> male\n\n!group S4R2\n!sort 01"
         },
         {
             "card_name": "Stalking Draugr",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "https://www.deviantart.com/kilartdev/art/WITCH-680898026\n\n!tag<plane> innistrad\n\n!tag<token> creature\n!tag<token> Zombie\n!tag<token> decayed\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R2\n!sort 03"
+            "notes": "https://www.deviantart.com/kilartdev/art/WITCH-680898026\n\n!tag<plane> innistrad\n\n!tag<token> creature\n!tag<token> Zombie\n!tag<token> decayed\n!tag<token> cant-block\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R2\n!sort 03"
         },
         {
             "card_name": "Adnascentia",
@@ -362,7 +362,7 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "https://thecollectibles.tumblr.com/post/647031857785044992/mushroom-fighter-character-design-challenge-by\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Saproling\n!tag<counter> spore\n\n!tag<atag> male\n\n!group S4R3\n!sort 01"
+            "notes": "https://thecollectibles.tumblr.com/post/647031857785044992/mushroom-fighter-character-design-challenge-by\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Saproling\n!tag<counter> spore\n\n!tag<atag> male\n\n!group S4R3\n!sort 01"
         },
         {
             "card_name": "Unseen Hand",
@@ -446,7 +446,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "https://ericawilliamsillustration.com/works#/thorny/\n\n!tag<character> sorrel\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!group S4R4\n!sort 03"
+            "notes": "https://ericawilliamsillustration.com/works#/thorny/\n\n!tag<character> sorrel\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!group S4R4\n!sort 03"
         },
         {
             "card_name": "Shrinking Lily",
@@ -521,7 +521,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "https://vk.com/yanamarsh\n\n!tag<character> maeve\n\n!tag underdark\n!tag universes-beyond\n!tag color-bend\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S4\u00bdR2\n!sort 02"
+            "notes": "https://vk.com/yanamarsh\n\n!tag<character> maeve\n\n!tag Underdark\n!tag universes-beyond\n!tag color-bend\n\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S4\u00bdR2\n!sort 02"
         },
         {
             "card_name": "HINTERLANDS",
@@ -563,7 +563,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag highlight\n!tag workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 02"
+            "notes": "https://www.deviantart.com/biffno/art/Nest-173029952\n\n!tag<mechanic> holmishire\n\n!tag Highlight\n!tag Workshop\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 02"
         },
         {
             "card_name": "Chortle of Selkies",
@@ -584,7 +584,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag highlight\n!tag workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 03"
+            "notes": "https://www.instagram.com/p/Bjf4CkUF9aB/?img_index=1\n\n!tag Highlight\n!tag Workshop\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Merfolk\n!tag<token> Scout\n!tag<token> copy\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group S5R1\n!sort 03"
         },
         {
             "card_name": "Thrice-horned Forerunner",
@@ -605,7 +605,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/eL4R6\n\n!tag<mechanic> holmishire\n\n!tag underdark\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S5R1\n!sort 04"
+            "notes": "https://www.artstation.com/artwork/eL4R6\n\n!tag<mechanic> holmishire\n\n!tag Underdark\n!tag color-bend\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S5R1\n!sort 04"
         },
         {
             "card_name": "Sibelle's Coaxing Hex",
@@ -668,7 +668,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "https://www.furaffinity.net/view/42383694/\n\n!tag<character> sibelle\n!tag<character> brutis\n\n!tag underdark\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S5R2\n!sort 03"
+            "notes": "https://www.furaffinity.net/view/42383694/\n\n!tag<character> sibelle\n!tag<character> brutis\n\n!tag Underdark\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S5R2\n!sort 03"
         },
         {
             "card_name": "Cootie Courier",
@@ -689,7 +689,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> typal-coupling\n\n!group S6R1\n!sort 01"
+            "notes": "https://www.instagram.com/p/CjnmobbLZuG/?img_index=1\n\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!tag<otag> typal-coupling\n\n!group S6R1\n!sort 01"
         },
         {
             "card_name": "Stewardship of Murk",
@@ -710,7 +710,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "https://www.reddit.com/r/characterdesigns/comments/ucv2v6/oc_oscar_the_therian_a_main_character_in_my/\n\n!tag workshop\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6R1\n!sort 02"
+            "notes": "https://www.reddit.com/r/characterdesigns/comments/ucv2v6/oc_oscar_the_therian_a_main_character_in_my/\n\n!tag Workshop\n\n!tag<with> remindertext\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6R1\n!sort 02"
         },
         {
             "card_name": "Ickle Inchhiker",
@@ -731,7 +731,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/CjqK5MKLgs3/?img_index=1\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Ouphe\n\n!tag<atag> male\n\n!group S6R1\n!sort 03"
+            "notes": "https://www.instagram.com/p/CjqK5MKLgs3/?img_index=1\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<token> creature\n!tag<token> Ouphe\n\n!tag<atag> male\n\n!group S6R1\n!sort 03"
         },
         {
             "card_name": "Runic Awakening",
@@ -815,7 +815,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group S6R2\n!sort 03"
+            "notes": "https://www.artstation.com/artwork/wJExWY\n\n!tag<character> kikue\n\n!tag Highlight\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group S6R2\n!sort 03"
         },
         {
             "card_name": "Kikue, Souls Ablaze",
@@ -941,7 +941,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> removal\n!tag<otag> typal-coupling\n\n!group S6\u00bdR1\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/2xBxEJ\n\n!tag<mechanic> holmishire\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> removal\n!tag<otag> typal-coupling\n\n!group S6\u00bdR1\n!sort 01"
         },
         {
             "card_name": "Autumn Court Mediator",
@@ -962,7 +962,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "https://www.deviantart.com/apricotknight/art/Keeper-of-the-Forest-378925799\n\n!tag workshop\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> poison\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S6\u00bdR1\n!sort 01"
+            "notes": "https://www.deviantart.com/apricotknight/art/Keeper-of-the-Forest-378925799\n\n!tag Workshop\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> poison\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S6\u00bdR1\n!sort 01"
         },
         {
             "card_name": "Hymn of Renewal",
@@ -1004,7 +1004,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite effect\n\n!group S6R7\n!sort 05"
+            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!tag<otag> indefinite-effect\n\n!group S6R7\n!sort 05"
         },
         {
             "card_name": "Stormcoil Tribute",
@@ -1079,7 +1079,7 @@
             "alias2": "",
             "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
             "rotated": true,
-            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> removal\n\n!group S6R7\n!sort 02"
+            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> removal\n\n!group S6R7\n!sort 02"
         },
         {
             "card_name": "Ubea, Sixth's Appraiser",
@@ -1100,7 +1100,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag<plane> ravnica\n!tag<character> ubea\n\n!tag underdark\n!tag workshop\n\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> male\n\n!group S6R7\n!sort 01"
+            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag<plane> ravnica\n!tag<character> ubea\n\n!tag Underdark\n!tag Workshop\n\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> male\n\n!group S6R7\n!sort 01"
         },
         {
             "card_name": "Borrowed Mettle",
@@ -1142,7 +1142,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 02"
+            "notes": "https://www.deviantart.com/fenmori/art/turquoise-october-757716559\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!group S7R1\n!sort 02"
         },
         {
             "card_name": "Wildflower Guardian",
@@ -1184,7 +1184,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!group S7R2\n!sort 01"
+            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!group S7R2\n!sort 01"
         },
         {
             "card_name": "Mantle of the Meek",

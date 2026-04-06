@@ -38,7 +38,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group first\n!sort 99"
+            "notes": "https://www.flickr.com/photos/amber-tree/16534175950/in/photostream/\nhttps://www.pinterest.ca/pin/8514686788011247/\n\n!tag<plane> innistrad\n\n!tag Highlight\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<frame> dfc\n\n!tag<atag> female\n\n!tag<otag> symmetrical\n\n!group first\n!sort 99"
         },
         {
             "card_name": "Hand In Hand",
@@ -143,7 +143,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> removal\n\n!group first\n!sort 94"
+            "notes": "https://www.artstation.com/artwork/AR9Oq\n\n!tag Underdark\n!tag Workshop\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<otag> fog\n!tag<otag> removal\n\n!group first\n!sort 94"
         },
         {
             "card_name": "Smokeshawl Penitent",
@@ -164,7 +164,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n\n!tag workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> echo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group first\n!sort 93"
+            "notes": "https://www.artstation.com/artwork/3qE6GE\n\n!tag<mechanic> holmishire\n\n!tag Workshop\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> echo\n\n!tag<atag> female\n\n!tag<otag> evasion\n\n!group first\n!sort 93"
         },
         {
             "card_name": "Megni's Fervent Plea",
@@ -302,7 +302,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group part02\n!sort 86"
+            "notes": "https://x.com/ionomycin/status/1851755963499581807/photo/1\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!tag<otag> removal\n\n!group part02\n!sort 86"
         },
         {
             "card_name": "Ramshackle Renegade",
@@ -389,5 +389,5 @@
             "notes": "https://www.deviantart.com/kangjason/art/The-Big-Game-Huntress-440864185\n\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<frame> prototype\n\n!tag<art> female\n\n!tag<otag> alt-cost\n!tag<otag> evasion\n!tag<otag> indefinite-effect\n\n!group part03\n!sort 83"
         }
     ],
-    "version": 6
+    "version": 7
 }

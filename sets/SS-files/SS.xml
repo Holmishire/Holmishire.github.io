@@ -1084,9 +1084,9 @@ At the beginning of your next turn&apos;s end step, that permanent&apos;s contro
 		<card>
 			<name>Chase the Shifting Moon</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-I — Target nonland permanent phases out until this Saga leaves the battlefield.
-II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
-IV — Until your next turn, permanents phase in under your control.</text>
+Target nonland permanent phases out until this Saga leaves the battlefield.
+Once this turn, if a creature you control would die, you may have it phase out instead.
+Until your next turn, permanents phase in under your control.</text>
 			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/50.png" num="12">SS</set>
 			<prop>
 				<layout>saga</layout>
@@ -1154,8 +1154,8 @@ If a triggered ability of this permanent would trigger, that ability triggers an
 		<card>
 			<name>Pierce the Cosmos</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-I, II — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
-III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
 ​</text>
 			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/54.png" num="32">SS</set>
 			<prop>
@@ -1227,9 +1227,9 @@ Noncreature spells cost {WP} more to cast. ({WP} can be paid with either {W} or 
 		<card>
 			<name>Chase the Blinding Sun</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-I — Tap target creature and put three stun counters on it.
-II — At the end of combat this turn, untap each creature you control.
-III — Destroy all tapped creatures.</text>
+Tap target creature and put three stun counters on it.
+At the end of combat this turn, untap each creature you control.
+Destroy all tapped creatures.</text>
 			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SS-files/img/58.png" num="2">SS</set>
 			<prop>
 				<layout>saga</layout>

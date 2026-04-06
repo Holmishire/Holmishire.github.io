@@ -1,4 +1,52 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Chérie the Untethered
+
+Borrowed Shelter
+
+Unseen Hand
+
+Dawnherald
+
+Immersion
+
+Runic Awakening
+
+Inaya of Lost Promise
+
+Wilt-Leaf Paladin
+
+Seeping Slime
+
+Autumn Court Mediator
+
+Inquisitorial Prospect
+
+Stormcoil Tribute
+
+Aqueduct Ancient
+
+Rhythm
+
+Ubea, Sixth's Appraiser
+
+Sympath en-Vec
+
+Kaiso's Absolution
+
+Syr Belladora, Witchslayer
+
+To Stoke the Embers
+
+Scavenger Errant
+
+Shadar-kai Sanctifier
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

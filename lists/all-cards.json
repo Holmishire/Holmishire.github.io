@@ -2263,7 +2263,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "https://www.deviantart.com/yuka-soemy/art/Moon-752096109\n\n!tag<character> cherie\n!tag<character> ollie\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S3R2\n!sort 02",
+            "notes": "https://www.deviantart.com/yuka-soemy/art/Moon-752096109\n\n!tag<character> cherie\n!tag<character> ollie\n\n!tag<with> remindertext\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<frame> promo\n\n!tag<atag> female\n\n!group S3R2\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2286,7 +2286,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S3R3\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/KaqXDB\n\n!tag underdark\n!tag workshop\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!tag<otag> fog\n\n!group S3R3\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2516,7 +2516,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "https://www.celialowenthal.com/?pgid=lu01lq4r-dfa61c72-9391-40bf-a70a-9426da286e4b\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R3\n!sort 03",
+            "notes": "https://www.celialowenthal.com/?pgid=lu01lq4r-dfa61c72-9391-40bf-a70a-9426da286e4b\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> dawnherald\n\n!tag<atag> male\n!tag<atag> female\n\n!group S4R3\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2539,7 +2539,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "https://www.artstation.com/blogs/ann_maulina/wdKD/huevember-2022-challenge\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<counter> stun\n\n!tag<atag> female\n\n!group S4R3\n!sort 02",
+            "notes": "https://www.artstation.com/blogs/ann_maulina/wdKD/huevember-2022-challenge\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> dawnherald\n!tag<counter> stun\n\n!tag<atag> female\n\n!group S4R3\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2585,7 +2585,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "https://ericawilliamsillustration.com/works#/thorny/\n\n!tag<character> sorrel\n\n!tag highlight\n\n!tag<with> flavortext\n\n!group S4R4\n!sort 03",
+            "notes": "https://ericawilliamsillustration.com/works#/thorny/\n\n!tag<character> sorrel\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!group S4R4\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2919,7 +2919,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/x0PZE\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> +1/+1\n\n!group S6R1\n!sort 04",
+            "notes": "https://www.artstation.com/artwork/x0PZE\n\n!tag color-bend\n\n!tag<with> remindertext\n!tag<counter> PP\n\n!group S6R1\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2942,7 +2942,7 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/2xLJRg\n\n!tag<character> kikue\n!tag<character> inaya\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> male\n!tag<atag> female\n\n!group S6R2\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/2xLJRg\n\n!tag<character> kikue\n!tag<character> inaya\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!tag<atag> male\n!tag<atag> female\n\n!group S6R2\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3080,7 +3080,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/DLldgo\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n!tag<plane> innistrad\n\n!tag<with> flavortext\n!tag<frame> promo\n!tag<counter> +1/+1\n\n!tag<atag> female\n\n!group S6R6\u00bd\n!sort 02",
+            "notes": "https://www.artstation.com/artwork/DLldgo\n\n!tag<plane> lorwyn\n!tag<plane> shadowmoor\n!tag<plane> innistrad\n\n!tag<with> flavortext\n!tag<frame> promo\n!tag<counter> PP\n\n!tag<atag> female\n\n!group S6R6\u00bd\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3103,7 +3103,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "https://www.instagram.com/jamesrpgart/p/DCe59SlymoF/\n\n!tag<plane> ravnica\n!tag<character> ilromov\n\n!tag<with> flavortext\n\n!tag<atag> male\n\n!group S6\u00bdR1\n!sort 02",
+            "notes": "https://www.instagram.com/jamesrpgart/p/DCe59SlymoF/\n\n!tag<plane> ravnica\n!tag<character> ilromov\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n\n!tag<atag> male\n\n!group S6\u00bdR1\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3149,7 +3149,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "https://www.deviantart.com/apricotknight/art/Keeper-of-the-Forest-378925799\n\n!tag workshop\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> poison\n\n!tag<atag> male\n\n!group S6\u00bdR1\n!sort 01",
+            "notes": "https://www.deviantart.com/apricotknight/art/Keeper-of-the-Forest-378925799\n\n!tag workshop\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> remindertext\n!tag<counter> poison\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S6\u00bdR1\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3195,7 +3195,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<frame> saga\n!tag<counter> +1/+1\n\n!tag<atag> female\n\n!group S6R7\n!sort 05",
+            "notes": "https://nord-sol.com/uzripjhcxsvgyz0g9xo2dqfz15d88o\n\n!tag<plane> ravnica\n!tag<mechanic> herziquerzi\n\n!tag highlight\n!tag color-bend\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> orzhov\n!tag<frame> saga\n!tag<counter> PP\n\n!tag<atag> female\n\n!group S6R7\n!sort 05",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3218,7 +3218,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/3dN6RB\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n\n!group S6R7\n!sort 03",
+            "notes": "https://www.artstation.com/artwork/3dN6RB\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!group S6R7\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3241,7 +3241,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/QzP5oL\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n\n!group S6R7\n!sort 06",
+            "notes": "https://www.artstation.com/artwork/QzP5oL\n\n!tag<plane> ravnica\n!tag<mechanic> mattelonian\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> simic\n\n!group S6R7\n!sort 06",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3276,7 +3276,7 @@
             "alias2": "",
             "rules_text3": "Fuse [i](You may cast one or both halves of this card from your hand.)[/i]",
             "rotated": true,
-            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<frame> split\n\n!tag<atag> male\n\n!group S6R7\n!sort 02",
+            "notes": "https://www.threads.com/@jarreau_wimberly/post/CuiWM2WMCwD\nhttps://www.kristinacarrollart.com/#/quaithe/\n\n!tag<plane> ravnica\n\n!tag highlight\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> rakdos\n!tag<frame> split\n\n!tag<atag> male\n\n!group S6R7\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3299,7 +3299,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag<plane> ravnica\n!tag<character> ubea\n\n!tag underdark\n!tag workshop\n\n!tag<token> artifact\n!tag<token> treasure\n\n!tag<atag> male\n\n!group S6R7\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/w06G5Z\n\n!tag<plane> ravnica\n!tag<character> ubea\n\n!tag underdark\n!tag workshop\n\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> male\n\n!group S6R7\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3391,7 +3391,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R2\n!sort 01",
+            "notes": "https://x.com/ameizhao/status/894834172342173698/\n\n!tag<plane> dominaria\n!tag<plane> rath\n\n!tag highlight\n!tag color-bend\n\n!tag<with> flavortext\n\n!tag<atag> female\n\n!group S7R2\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3437,7 +3437,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "https://toniinfante.artstation.com/projects/Ka4bKr\n\n!tag<plane> kamigawa\n!tag<character> kaiso\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!group S7R2\n!sort 03",
+            "notes": "https://toniinfante.artstation.com/projects/Ka4bKr\n\n!tag<plane> kamigawa\n!tag<character> kaiso\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<otag> fog\n\n!group S7R2\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3483,7 +3483,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "https://www.instagram.com/p/DFDvElIMERV\n\n!tag<plane> eldraine\n!tag<character> belladora\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> treasure\n\n!tag<atag> female\n\n!group S7R3\n!sort 03",
+            "notes": "https://www.instagram.com/p/DFDvElIMERV\n\n!tag<plane> eldraine\n!tag<character> belladora\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> Treasure\n\n!tag<atag> female\n\n!group S7R3\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3506,7 +3506,7 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "https://www.webtoons.com/en/fantasy/the-dark-lords-confession/\n\n!tag<plane> eldraine\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<with> watermark\n\n!tag<atag> male\n\n!group S7R3\n!sort 02",
+            "notes": "https://www.webtoons.com/en/fantasy/the-dark-lords-confession/\n\n!tag<plane> eldraine\n!tag<mechanic> holmishire\n\n!tag<with> remindertext\n!tag<with> watermark\n!tag<watermark> embereth\n\n!tag<atag> male\n\n!group S7R3\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3575,7 +3575,7 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "https://www.artstation.com/artwork/0XJEyK\n\n!tag<plane> eldraine\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> treasure\n!tag<token> equipment\n\n!tag<atag> female\n\n!group S7R4\n!sort 01",
+            "notes": "https://www.artstation.com/artwork/0XJEyK\n\n!tag<plane> eldraine\n\n!tag color-bend\n\n!tag<with> flavortext\n!tag<token> artifact\n!tag<token> Treasure\n!tag<token> Equipment\n\n!tag<atag> female\n\n!group S7R4\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3598,7 +3598,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "https://ca.pinterest.com/larrikin99/the-art-of-symbaroum/folks/\nhttps://hellequin.net/oldRoot/Player's%20Handbook.pdf\n\n!tag<plane> forgotten realms\n!tag<character> Raven Queen\n\n!tag universes-beyond\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n\n!tag<atag> male\n\n!group S7R4\n!sort 01",
+            "notes": "https://ca.pinterest.com/larrikin99/the-art-of-symbaroum/folks/\nhttps://hellequin.net/oldRoot/Player's%20Handbook.pdf\n\n!tag<plane> forgotten realms\n!tag<character> Raven Queen\n\n!tag universes-beyond\n!tag color-bend\n\n!tag<with> flavortext\n!tag<with> watermark\n!tag<watermark> ravenqueen\n\n!tag<atag> male\n\n!group S7R4\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },

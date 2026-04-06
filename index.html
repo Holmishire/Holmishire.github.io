@@ -276,12 +276,19 @@
 
 				card_list_arrayified = card_list.cards;
 
-				let all_tags = new Set();
+				let tagCategories = {}; // { category: Set(...) }
 				card_list_arrayified.forEach(card => {
 					if (card.notes) {
-						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						const tagMatches = card.notes.matchAll(/!tag(?:<(\w+)>)?\s+([^\s\n\b]+)/g);
+						
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							const category = match[1] || "tag"; // default category
+							const value = match[2];
+
+							if (!tagCategories[category]) {
+								tagCategories[category] = new Set();
+							}
+							tagCategories[category].add(value);
 						}
 					}
 				});
@@ -312,48 +319,67 @@
 					const updateDropdown = function() {
 						const value = searchInput.value;
 						const cursorPosition = searchInput.selectionStart;
-						
-						// Find the tag: prefix immediately preceding the cursor
-						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
-						
-						if (lastTagIndex !== -1) {
-							const queryStart = lastTagIndex + 4;
-							const query = value.substring(queryStart, cursorPosition);
-							
-							if (!query.includes(" ")) {
-								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+
+						// Find last "word:" pattern before cursor
+						const prefixMatch = value.substring(0, cursorPosition).match(/(\w+):([^\s]*)$/);
+
+						if (prefixMatch) {
+							const category = prefixMatch[1];
+							const query = prefixMatch[2];
+
+							if (tagCategories[category]) {
+								const filteredTags = Array.from(tagCategories[category])
+									.filter(tag => tag.toLowerCase().startsWith(query.toLowerCase()))
+									.sort();
+
 								if (filteredTags.length > 0) {
 									tagDropdown.innerHTML = "";
+
 									filteredTags.forEach(tag => {
 										const div = document.createElement("div");
 										div.innerText = tag;
 										div.style.padding = "5px 10px";
 										div.style.cursor = "pointer";
 										div.style.whiteSpace = "nowrap";
+
 										div.onmouseover = () => div.style.background = "#f0f0f0";
 										div.onmouseout = () => div.style.background = "white";
+
 										div.onclick = () => {
-											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											const start = prefixMatch.index + category.length + 1;
+											const newValue =
+												value.substring(0, start) +
+												tag +
+												" " +
+												value.substring(cursorPosition);
+
 											searchInput.value = newValue;
 											tagDropdown.style.display = "none";
 											searchInput.focus();
-											const newCursorPos = queryStart + tag.length + 1;
+
+											const newCursorPos = start + tag.length + 1;
 											searchInput.setSelectionRange(newCursorPos, newCursorPos);
 										};
+
 										tagDropdown.appendChild(div);
 									});
 
-									// Calculate position
-									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									// Positioning
+									mirror.textContent = value.substring(0, prefixMatch.index + category.length + 1);
 									const textWidth = mirror.getBoundingClientRect().width;
 									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
-									
-									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+
+									tagDropdown.style.left = Math.min(
+										textWidth + inputPaddingLeft,
+										searchInput.offsetWidth - tagDropdown.offsetWidth
+									) + "px";
+
 									tagDropdown.style.display = "block";
 									return;
 								}
 							}
 						}
+
 						tagDropdown.style.display = "none";
 					};
 

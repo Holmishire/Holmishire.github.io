@@ -1,4 +1,122 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Dusk Harvest
+
+Fiery Reprieve
+
+Amberheart Pod
+
+Declaw
+
+Petal Collector
+
+Dreaded Needle
+
+Chérie the Untethered
+
+Borrowed Shelter
+
+Nima, Free-Spirited
+
+Sulking Recluse
+
+Mistress of the Hunt
+
+Imperial Stalwart
+
+Vicious Pursuit
+
+Asphodel's Sentinel
+
+Adnascentia
+
+Unseen Hand
+
+Dawnherald
+
+Alight
+
+Immersion
+
+Shrinking Lily
+
+Sentenced
+
+Nesting Furie
+
+Chortle of Selkies
+
+Thrice-horned Forerunner
+
+Sibelle's Coaxing Hex
+
+Vengeful Brutis
+
+Cootie Courier
+
+Stewardship of Murk
+
+Ickle Inchhiker
+
+Runic Awakening
+
+Inaya of Lost Promise
+
+Fallow Fields Warden
+
+Crack in the Archives
+
+Last Sunrise
+
+Wilt-Leaf Paladin
+
+Seeping Slime
+
+Razortusk Challenger
+
+Autumn Court Mediator
+
+Hymn of Renewal
+
+Inquisitorial Prospect
+
+Stormcoil Tribute
+
+Aqueduct Ancient
+
+Rhythm
+
+Borrowed Mettle
+
+Phantom Chupacabra
+
+Wildflower Guardian
+
+Sympath en-Vec
+
+Mantle of the Meek
+
+Kaiso's Absolution
+
+Found Lacking
+
+Syr Belladora, Witchslayer
+
+To Stoke the Embers
+
+Gloriless Death
+
+Pathfinder Solemn
+
+Scavenger Errant
+
+Shadar-kai Sanctifier
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Borrowed Mettle added.

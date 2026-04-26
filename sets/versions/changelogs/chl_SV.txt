@@ -1,4 +1,24 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Whelm added.
+Pact Comes Due added.
+Davaa, Jolt of Winter added.
+A Whisper Away added.
+Greensleeves the Weary added.
+Swallow the Sky added.
+The Dawn Rose Missionary added.
+Wisp added.
+
+
+Gloriless Death
+
+Pathfinder Solemn
+
+Scavenger Errant
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

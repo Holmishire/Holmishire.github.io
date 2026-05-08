@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>HG</name>
+			<longname>Hill Giants</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-08</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Warden of the Nithir-Sìth</name>
+			<text>Phaselock (Creatures phase out as this deals damage to them. Phaselocked creatures don&apos;t phase in at untap unless their controller skips that turn&apos;s draw step.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/HG-files/img/0.png" num="1">HG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1C</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

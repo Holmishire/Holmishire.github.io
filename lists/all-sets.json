@@ -11,6 +11,11 @@
             "formats": "legacy"
         },
         {
+            "set_code": "HG",
+            "set_name": "Hill Giants",
+            "formats": "legacy"
+        },
+        {
             "set_code": "SS",
             "set_name": "Secret Santa",
             "formats": "legacy"

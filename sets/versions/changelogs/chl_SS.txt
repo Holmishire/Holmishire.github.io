@@ -1,4 +1,12 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Motley Wayfinder
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

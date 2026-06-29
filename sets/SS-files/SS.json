@@ -692,7 +692,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "https://redslug.tumblr.com/post/186772706359/a-moon-worship-ritual\n\n!tag<plane> mere\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<counter> PP\n\n!tag<male>\n!tag<female>\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 01"
+            "notes": "https://redslug.tumblr.com/post/186772706359/a-moon-worship-ritual\n\n!tag<plane> mere\n\n!tag Highlight\n\n!tag<with> flavortext\n!tag<counter> PP\n\n!tag<atag> male\n!tag<atag> female\n\n!tag<giftee> squidpizza\n!group 23S\n!sort 01"
         },
         {
             "card_name": "Rainfall",
@@ -1913,5 +1913,5 @@
             "notes": "https://www.deviantart.com/snatti89/art/threatening-warrior-424877258\n\n!tag<plane> edge\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> male\n\n!tag<giftee> flaredirector\n!group 26S\u00bd\n!sort 02"
         }
     ],
-    "version": 6
+    "version": 7
 }

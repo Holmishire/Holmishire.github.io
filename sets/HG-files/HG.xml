@@ -5,7 +5,7 @@
 			<name>HG</name>
 			<longname>Hill Giants</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-08</releasedate>
+			<releasedate>2026-06-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -21,6 +21,24 @@
 				<manacost>1C</manacost>
 				<cmc>2</cmc>
 				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maiden of Crashing Tide</name>
+			<text>(This card is blue. Spend a different color of mana on each {V}.)
+Drop — When this creature enters, untap each creature you control. They gain haste until end of turn. Then if you didn&apos;t cast any creature spells during your last turn, tap each creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/HG-files/img/1.png" num="2">HG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>VVU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

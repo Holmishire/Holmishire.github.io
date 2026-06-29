@@ -1,5 +1,38 @@
 ﻿[
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Maiden of Crashing Tide",
+        "number": 2,
+        "shape": "normal",
+        "set": "HG",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
         "card_name": "Warden of the Nithir-S\u00ecth",
         "number": 1,
         "shape": "normal",

@@ -1,4 +1,27 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Stormflight added.
+Rokka, Angel of Savagery added.
+Amahu, Hurloon Hero added.
+Planar Drift added.
+Tangleroot Crystal added.
+Echo Strike added.
+Llanowar Warden added.
+Stormflight Lookout added.
+Wicker Witch of the Woods added.
+Knight of the Ebon Hand added.
+Aerial Collision added.
+Ember Chant added.
+Daylight Chant added.
+Dowsing Spaewife added.
+Wonder added.
+Breathtaking Leap added.
+Kiln-vested Vanguard added.
+
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

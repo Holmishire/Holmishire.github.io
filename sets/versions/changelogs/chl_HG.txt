@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Maiden of Crashing Tide added.
+
+
+Warden of the Nithir-Sìth
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

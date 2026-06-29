@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Stormflight
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Stormflight added.

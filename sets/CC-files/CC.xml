@@ -5,17 +5,272 @@
 			<name>CC</name>
 			<longname>Card Coliseum</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-15</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
+		<card>
+			<name>Hand In Hand</name>
+			<text>Creatures you control have soulbond. (Unpaired creatures may pair as either enters the battlefield. They remain paired for as long as you control both of them.)
+Whenever you cast a spell that targets a creature you control and could target another creature paired with it, copy that spell. The copy targets the other creature.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/0.png" num="7">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dewdrop Strawman</name>
+			<text>At the beginning of your end step, you lose 1 life and create a 1/1 blue Bird Illusion creature token with flying.
+When Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illusion token you control. You gain 1 life for each token sacrificed this way.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/1.png" num="17">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grudge Scavenge</name>
+			<text>Exile any number of target artifacts with total mana value twice X or less. For each artifact exiled this way, create a 0/1 red Alien Beast creature token with prowess and &quot;This creature can&apos;t block alone.&quot;</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/2.png" num="6">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oth&apos;teva Conservationist</name>
+			<text>When this creature enters or dies, return target permanent card with mana value 2 or less from your graveyard to your hand.
+Reprocess (If this dies, shuffle it from its owner&apos;s graveyard into their library. Look at the top two cards, then put one into their graveyard.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/3.png" num="12">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treachery Unveiled</name>
+			<text>Target player separates the attacking creatures they control into two piles. Choose one of those piles. Untap each creature in that pile and gain control of those creatures until end of turn.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/4.png" num="15">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RRWW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smokeshawl Penitent</name>
+			<text>Menace, reach
+Whenever this creature deals combat damage to a player, put an echo counter on it. (For each echo counter this dies with, you may choose an ability that would trigger to trigger an additional time.)
+When this creature dies, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/5.png" num="10">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aenin&apos;s Journaling</name>
+			<text>At the beginning of each main phase during your turn, you may exile a permanent card from your graveyard. If you do, add {C} or one mana of any of the exiled card&apos;s colors. Otherwise, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/6.png" num="11">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crippling Snare</name>
+			<text>Put two stun counters on target creature. For as long as that creature has a stun counter on it, it has &quot;When this creature is dealt damage, destroy it.&quot; (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/7.png" num="5">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Regisaur Packmate</name>
+			<text>Trample, haste
+Enrage — Whenever this creature is dealt damage, create a 3/2 green Dinosaur creature token that can&apos;t block.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/8.png" num="9">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryptosleep Reliquary</name>
+			<text>Whenever a nontoken creature you control becomes tapped, you may put a stun counter on it. If you do, draw a card.
+{1}{U}, {T}: Tap target creature, then scry 1.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/9.png" num="16">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Efface</name>
+			<text>Exile target artifact, enchantment, or token.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/10.png" num="1">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ramshackle Renegade</name>
+			<text>Whenever another creature or artifact you control dies, each opponent loses 1 life and you gain 1 life.
+Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/11.png" num="14">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clouds&apos; Dominion</name>
+			<text>Whenever you attack, scry X, where X is the greatest power among attacking creatures you control. Then if X is 9 or greater, exile this enchantment and take an extra turn after this one.</text>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/12.png" num="4">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Outrider of the Lysian Mists</name>
+			<text>Beast-rider—vigilance {2}{G}{G} — 4/3 (Cast for or pay its rider cost as a sorcery to gain the Beast type, vigilance, and new mana cost and size.)
+Reach, protection from creatures with flying (This creature can&apos;t be blocked, targeted or dealt damage by creatures with flying.)</text>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/13.png" num="13">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quarry-Quarry Huntress</name>
+			<text>Dragon-rider—flying {5}{R}{R} — 4/5 (Cast for or pay its rider cost as a sorcery to gain the Dragon type, flying, and new mana cost and size.)
+Reach
+When this creature enters or rides, it deals damage equal to its power to target player.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/14.png" num="8">CC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
 		<card>
 			<name>Tender Goatress</name>
 			<text>Flash
 Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 ---
 (Back): Effalen Tinderwolf</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/0_front.png" num="3a">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/15_front.png" num="3a">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -36,7 +291,7 @@ Daybound (If a player casts no spells during their own turn, it becomes night ne
 Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 ---
 (Front): Tender Goatress</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/0_back.png" num="3b">CC</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/15_back.png" num="3b">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -52,107 +307,6 @@ Nightbound (If a player casts at least two spells during their own turn, it beco
 			<related attach="transform">Tender Goatress</related>
 		</card>
 		<card>
-			<name>Hand In Hand</name>
-			<text>Creatures you control have soulbond. (Unpaired creatures may pair as either enters the battlefield. They remain paired for as long as you control both of them.)
-Whenever you cast a spell that targets a creature you control and could target another creature paired with it, copy that spell. The copy targets the other creature.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/1.png" num="7">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Dewdrop Strawman</name>
-			<text>At the beginning of your end step, you lose 1 life and create a 1/1 blue Bird Illusion creature token with flying.
-When Dewdrop Strawman becomes the target of a spell, sacrifice it and each Illusion token you control. You gain 1 life for each token sacrificed this way.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/2.png" num="17">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact</type>
-				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Grudge Scavenge</name>
-			<text>Exile any number of target artifacts with total mana value twice X or less. For each artifact exiled this way, create a 0/1 red Alien Beast creature token with prowess and &quot;This creature can&apos;t block alone.&quot;</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/3.png" num="6">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>X1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Oth&apos;teva Conservationist</name>
-			<text>When this creature enters or dies, return target permanent card with mana value 2 or less from your graveyard to your hand.
-Reprocess (If this dies, shuffle it from its owner&apos;s graveyard into their library. Look at the top two cards, then put one into their graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/4.png" num="12">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Artificer Druid</type>
-				<maintype>Creature</maintype>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Treachery Unveiled</name>
-			<text>Target player separates the attacking creatures they control into two piles. Choose one of those piles. Untap each creature in that pile and gain control of those creatures until end of turn.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/5.png" num="15">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2RRWW</manacost>
-				<cmc>6</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Smokeshawl Penitent</name>
-			<text>Menace, reach
-Whenever this creature deals combat damage to a player, put an echo counter on it. (For each echo counter this dies with, you may choose an ability that would trigger to trigger an additional time.)
-When this creature dies, exile the top card of your library. You may play that card until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/6.png" num="10">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Ranger Shaman</type>
-				<maintype>Creature</maintype>
-				<manacost>1RR</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Megni&apos;s Fervent Plea</name>
 			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
 Choose X—
@@ -162,7 +316,7 @@ Choose X—
 • Put this spell onto the battlefield transformed and attached to target creature you control.
 ---
 (Back): Megnificient, the Witchblade</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/7_front.png" num="2a">CC</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/17_front.png" num="2a">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -182,7 +336,7 @@ Choose X—
 Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 ---
 (Front): Megni&apos;s Fervent Plea</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/7_back.png" num="2b">CC</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/17_back.png" num="2b">CC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -195,157 +349,6 @@ Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">Megni&apos;s Fervent Plea</related>
-		</card>
-		<card>
-			<name>Aenin&apos;s Journaling</name>
-			<text>At the beginning of each main phase during your turn, you may exile a permanent card from your graveyard. If you do, add {C} or one mana of any of the exiled card&apos;s colors. Otherwise, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/8.png" num="11">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Crippling Snare</name>
-			<text>Put two stun counters on target creature. For as long as that creature has a stun counter on it, it has &quot;When this creature is dealt damage, destroy it.&quot; (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/9.png" num="5">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Regisaur Packmate</name>
-			<text>Trample, haste
-Enrage — Whenever this creature is dealt damage, create a 3/2 green Dinosaur creature token that can&apos;t block.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/10.png" num="9">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Dinosaur</type>
-				<maintype>Creature</maintype>
-				<manacost>4RR</manacost>
-				<cmc>6</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Cryptosleep Reliquary</name>
-			<text>Whenever a nontoken creature you control becomes tapped, you may put a stun counter on it. If you do, draw a card.
-{1}{U}, {T}: Tap target creature, then scry 1.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/CC-files/img/11.png" num="16">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment Artifact</type>
-				<maintype>Artifact</maintype>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Efface</name>
-			<text>Exile target artifact, enchantment, or token.</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/12.png" num="1">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>WW</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Ramshackle Renegade</name>
-			<text>Whenever another creature or artifact you control dies, each opponent loses 1 life and you gain 1 life.
-Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/13.png" num="14">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Construct Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>1/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Clouds&apos; Dominion</name>
-			<text>Whenever you attack, scry X, where X is the greatest power among attacking creatures you control. Then if X is 9 or greater, exile this enchantment and take an extra turn after this one.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/CC-files/img/14.png" num="4">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Outrider of the Lysian Mists</name>
-			<text>2GG —</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/CC-files/img/15.png" num="13">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Archer Scout</type>
-				<maintype>Creature</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Quarry-Quarry Huntress</name>
-			<text>5RR —</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/CC-files/img/16.png" num="8">CC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Archer</type>
-				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

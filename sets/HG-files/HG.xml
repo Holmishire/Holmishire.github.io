@@ -5,7 +5,7 @@
 			<name>HG</name>
 			<longname>Hill Giants</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-29</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -41,6 +41,23 @@ Drop — When this creature enters, untap each creature you control. They gain h
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crippling Shot</name>
+			<text>Sneak {R} (You may cast this spell for {R} if you also return an unblocked attacker you control to hand during the declare blockers step.)
+This spell deals 1 damage to any target. If another source you control would deal damage to that permanent or player this turn, it deals double that damage instead.</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/HG-files/img/2.png" num="3">HG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

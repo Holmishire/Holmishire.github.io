@@ -1,4 +1,15 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Crippling Shot added.
+
+
+Warden of the Nithir-Sìth
+
+Maiden of Crashing Tide
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Maiden of Crashing Tide added.

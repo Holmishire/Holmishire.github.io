@@ -1,4 +1,54 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Hand In Hand
+
+Dewdrop Strawman
+
+Grudge Scavenge
+
+Oth'teva Conservationist
+
+Treachery Unveiled
+
+Smokeshawl Penitent
+
+Aenin's Journaling
+
+Crippling Snare
+
+Regisaur Packmate
+
+Cryptosleep Reliquary
+
+Efface
+
+Ramshackle Renegade
+
+Clouds' Dominion
+
+Outrider of the Lysian Mists
+rules_text: 2GG — => Beast-rider—vigilance {2}{G}{G} — 4/3 [i](Cast for or pay its rider cost as a sorcery to gain the Beast type, vigilance, and new mana cost and size.)[/i]
+Reach, protection from creatures with flying [i](This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i]
+special_text: 2GG — => Beast-rider—vigilance {2}{G}{G} — 4/3 [i](Cast for or pay its rider cost as a sorcery to gain the Beast type, vigilance, and new mana cost and size.)[/i]
+Reach, protection from creatures with flying [i](This creature can't be blocked, targeted or dealt damage by creatures with flying.)[/i]
+
+Quarry-Quarry Huntress
+rules_text: 5RR — => Dragon-rider—flying {5}{R}{R} — 4/5 [i](Cast for or pay its rider cost as a sorcery to gain the Dragon type, flying, and new mana cost and size.)[/i]
+Reach
+When this creature enters or rides, it deals damage equal to its power to target player.
+special_text: 5RR — => Dragon-rider—flying {5}{R}{R} — 4/5 [i](Cast for or pay its rider cost as a sorcery to gain the Dragon type, flying, and new mana cost and size.)[/i]
+Reach
+When this creature enters or rides, it deals damage equal to its power to target player.
+
+Tender Goatress
+
+Megni's Fervent Plea
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

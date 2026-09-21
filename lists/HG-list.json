@@ -14,7 +14,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Crippling Shot",
+        "number": 3,
+        "shape": "normal",
+        "set": "HG",
+        "rotated": false,
+        "position": "2"
     },
     {
         "card_name": "e"

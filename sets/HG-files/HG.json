@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "https://ca.pinterest.com/pin/365213851013376563/\n\n!tag<character> daltae\n!tag<mechanic> holmishire\n\n!tag Workshop\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> banish\n\n!sort 010"
+            "notes": "https://ca.pinterest.com/pin/365213851013376563/\n\n!tag<character> daltae\n!tag<mechanic> holmishire\n\n!tag Workshop\n\n!tag<with> flavortext\n!tag<with> flavortext-attributed\n!tag<with> remindertext\n\n!tag<atag> female\n!tag<atag> color\n\n!tag<otag> banish\n\n!sort 010"
         },
         {
             "card_name": "Maiden of Crashing Tide",
@@ -47,8 +47,29 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "https://www.zerochan.net/4415468\n\n!tag<mechanic> platypeople\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n\n!tag<otag> evasion"
+            "notes": "https://www.zerochan.net/4415468\n\n!tag<mechanic> platypeople\n\n!tag<with> flavortext\n!tag<with> remindertext\n\n!tag<atag> female\n!tag<atag> oriental\n!tag<atag> underwater\n!tag<atag> color\n!tag<atag> offcolor-highlight\n\n!tag<otag> evasion"
+        },
+        {
+            "card_name": "Crippling Shot",
+            "color": "R",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 3,
+            "color_identity": "R",
+            "cost": "{2}{R}",
+            "rules_text": "Sneak {R} [i](You may cast this spell for {R} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]\nThis spell deals 1 damage to any target. If another source you control would deal damage to that permanent or player this turn, it deals double that damage instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HG",
+            "loyalty": "",
+            "artist": "Inkeyjay",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
+            "notes": "https://mirevansblog.tumblr.com/post/692132766250319872/mirevan\n\n!tag Workshop\n\n!tag<with> remindertext\n\n!tag<atag> female\n!tag<atag> abstract-background\n!tag<atag> color\n!tag<atag> color-saturated\n\n!tag<otag> alt-cost\n!tag<otag> removal\n\n!sort 050"
         }
     ],
-    "version": 2
+    "version": 3
 }

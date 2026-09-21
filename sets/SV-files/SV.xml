@@ -5,7 +5,7 @@
 			<name>SV</name>
 			<longname>MSE Survivor</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-25</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -809,33 +809,11 @@ Exile target spell that&apos;s a creature or enchantment. If this spell was kick
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Inquisitorial Prospect</name>
-			<text>Diverge (Pick only one path as a sorcery to gain that type and a +1/+1 counter.)
-During your turn, this creature has first strike.
-{2}{WB}: Cleric
-You gain 5 life.
-{2}{W}{B}: Assassin
-This creature gains deathtouch and double strike until end of turn.</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/46.png" num="62">SV</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Knight</type>
-				<maintype>Creature</maintype>
-				<manacost>1W/B</manacost>
-				<cmc>2</cmc>
-				<colors>WB</colors>
-				<coloridentity>WB</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Stormcoil Tribute</name>
 			<text>Flying, vigilance
 Symbiosis {U} ({U}, Exile this card from your hand as a sorcery: Target creature gains the following abilities until end of turn. You may cast this later from exile.)
 This creature can block only creatures with flying.</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/47.png" num="17">SV</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/46.png" num="17">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -854,7 +832,7 @@ This creature can block only creatures with flying.</text>
 			<text>Trample
 Symbiosis {1}{GU}{GU} ({1}{GU}{GU}, Exile this card from your hand as a sorcery: Target creature gains the following abilities until end of turn. You may cast this later from exile.)
 Whenever this creature deals combat damage to a player, draw that many cards.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/48.png" num="49">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/47.png" num="49">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -869,33 +847,11 @@ Whenever this creature deals combat damage to a player, draw that many cards.</t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Rhythm // Grime</name>
-			<text>Target creature gets +1/+0 and gains menace until end of turn. It must be blocked this turn if able.
-Fuse (You may cast one or both halves of this card from your hand.)
-
----
-
-Target creature gains deathtouch until end of turn. When it dies this turn, return it to its owner&apos;s hand.
-Fuse (You may cast one or both halves of this card from your hand.)</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/49.png" num="67">SV</set>
-			<prop>
-				<layout>split</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>1R // 1B</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>BR</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Ubea, Sixth&apos;s Appraiser</name>
 			<text>Ward—Sacrifice a land.
 Whenever another creature you control dies, create a tapped Treasure token.
 Whenever a player sacrifices a noncreature permanent, target player loses 1 life and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/50.png" num="31">SV</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/48.png" num="31">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -915,7 +871,7 @@ Whenever a player sacrifices a noncreature permanent, target player loses 1 life
 Choose one or both —
 • Target creature you control fights target creature you don&apos;t control.
 • Target creature gains trample until end of turn. Draw a card.</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/51.png" num="40">SV</set>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/49.png" num="40">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,7 +888,7 @@ Choose one or both —
 			<name>Phantom Chupacabra</name>
 			<text>Bestow {2}{B}{B} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
 Enchanted creature gets -2/-2.</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/52.png" num="26">SV</set>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/50.png" num="26">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -950,7 +906,7 @@ Enchanted creature gets -2/-2.</text>
 			<name>Wildflower Guardian</name>
 			<text>Reach, lifelink, ward {1}
 During your turn, spells you cast cost {G} less to cast if they target a creature, and an additional {1} less to cast for each creature they target. (A spell you cast costs {1}{G} less to cast if it targets only one creature, {2}{G} less if it targets two, and so on.)</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/53.png" num="66">SV</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/51.png" num="66">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -968,7 +924,7 @@ During your turn, spells you cast cost {G} less to cast if they target a creatur
 			<name>Sympath en-Vec</name>
 			<text>Flash
 You may have this creature enter as a copy of a creature you control. When you do, exile that creature until this creature leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/54.png" num="10">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/52.png" num="10">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -987,7 +943,7 @@ You may have this creature enter as a copy of a creature you control. When you d
 			<text>Enchant creature
 Creatures with power 3 or greater don&apos;t untap during their controllers&apos; untap steps.
 Enchanted creature gets +1/+1 and has vigilance and ward {1}.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/55.png" num="5">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/53.png" num="5">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1004,7 +960,7 @@ Enchanted creature gets +1/+1 and has vigilance and ward {1}.</text>
 			<name>Kaiso&apos;s Absolution</name>
 			<text>Attacking or blocking creatures target player controls phase out. (Treat them and anything attached to them as though they don&apos;t exist until their controller&apos;s next turn.)
 Lionheart — If you control an attacking legendary creature, untap a legendary creature you control, then after this phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/56.png" num="4">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/54.png" num="4">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1022,7 +978,7 @@ Lionheart — If you control an attacking legendary creature, untap a legendary 
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Tap target creature. Then put a stun counter on it if this spell was bargained.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/57.png" num="15">SV</set>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/55.png" num="15">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1039,7 +995,7 @@ Draw a card.</text>
 			<name>Syr Belladora, Witchslayer</name>
 			<text>Menace, deathtouch, haste
 Whenever this creature deals combat damage to a player, that player discards a card. If they didn&apos;t discard a nonland card this way, you create a Treasure token and gain 3 life.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/58.png" num="30">SV</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/56.png" num="30">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1058,7 +1014,7 @@ Whenever this creature deals combat damage to a player, that player discards a c
 			<text>Enchant creature
 Enchanted creature and creatures enchanted player controls get +1/+0 and have haste.
 Oath {R}{R}{R} (If you cast this card for its oath cost, it&apos;s an Aura Oath with enchant player instead of its other enchant ability.)</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/59.png" num="38">SV</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/57.png" num="38">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1075,7 +1031,7 @@ Oath {R}{R}{R} (If you cast this card for its oath cost, it&apos;s an Aura Oath 
 			<name>Gloriless Death</name>
 			<text>Adamant — If at least three black mana was spent to cast this spell, whenever a creature dies this turn, each opponent loses 1 life and you gain 1 life.
 Destroy target creature.</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/60.png" num="23">SV</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/58.png" num="23">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1093,7 +1049,7 @@ Destroy target creature.</text>
 			<text>First strike, haste
 As this creature enters, choose a creature type.
 Whenever this creature deals combat damage to a player, exile the top two cards of your library. You may cast a spell of the chosen type from among them. A creature cast this way enters tapped and attacking.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/61.png" num="37">SV</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/59.png" num="37">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1111,7 +1067,7 @@ Whenever this creature deals combat damage to a player, exile the top two cards 
 			<name>Scavenger Errant</name>
 			<text>Whenever another creature you control dies, create a tapped Treasure token.
 Treasure tokens you control are Equipment in addition to their other types and have &quot;Equipped creature gets +1/+0&quot; and equip {T}.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/62.png" num="64">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/60.png" num="64">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1130,7 +1086,7 @@ Treasure tokens you control are Equipment in addition to their other types and h
 			<text>Deathtouch
 Creature cards can&apos;t leave graveyards.
 As long as you&apos;ve sacrificed an artifact this turn, this creature gets +1/+0 and has haste.</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/63.png" num="27">SV</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/61.png" num="27">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1147,7 +1103,7 @@ As long as you&apos;ve sacrificed an artifact this turn, this creature gets +1/+
 		<card>
 			<name>Whelm</name>
 			<text>Choose any number of target spells and/or nontoken, nonland permanents with total mana value less than or equal to the amount of mana spent to cast this spell. Return each spell and permanent chosen this way to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/64.png" num="18">SV</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/62.png" num="18">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1163,7 +1119,7 @@ As long as you&apos;ve sacrificed an artifact this turn, this creature gets +1/+
 		<card>
 			<name>Pact Comes Due</name>
 			<text>Target player reveals their hand. You choose a nonland card from it, then that player discards a card. Create a tapped Treasure token unless the chosen card was discarded this way.</text>
-			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/65.png" num="25">SV</set>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/63.png" num="25">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1180,7 +1136,7 @@ As long as you&apos;ve sacrificed an artifact this turn, this creature gets +1/+
 			<name>Davaa, Jolt of Winter</name>
 			<text>Creature cards in your graveyard with mana value 1 have unearth {BR}. ({BR}: Return it to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
 Creatures you control with the same name as a creature card that left your graveyard this turn have indestructible.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/66.png" num="2">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/64.png" num="2">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1198,7 +1154,7 @@ Creatures you control with the same name as a creature card that left your grave
 			<name>A Whisper Away</name>
 			<text>Look at the top four cards of your library. Put one of them into your hand, one on top of your library, and the rest on the bottom of your library.
 Create a blue Wisp token. (It&apos;s a 0/1 creature with &quot;Sacrifice this token: Add {U}. This mana can&apos;t be spent on spells that don&apos;t target.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/67.png" num="19">SV</set>
+			<set rarity="uncommon" picurl="https://Holmishire.github.io/sets/SV-files/img/65.png" num="19">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1171,7 @@ Create a blue Wisp token. (It&apos;s a 0/1 creature with &quot;Sacrifice this to
 			<name>Greensleeves the Weary</name>
 			<text>Vigilance, lifelink
 Whenever Greensleeves becomes the target of a spell, choose a card name. Search that spell&apos;s controller&apos;s graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.</text>
-			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/68.png" num="54">SV</set>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/66.png" num="54">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1232,7 +1188,7 @@ Whenever Greensleeves becomes the target of a spell, choose a card name. Search 
 		<card>
 			<name>Swallow the Sky</name>
 			<text>Destroy all permanents, then create a tapped X/X blue Shark Leviathan creature token, where X is the number of lands you controlled that were destroyed this way.</text>
-			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/69.png" num="9">SV</set>
+			<set rarity="mythic" picurl="https://Holmishire.github.io/sets/SV-files/img/67.png" num="9">SV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1242,6 +1198,50 @@ Whenever Greensleeves becomes the target of a spell, choose a card name. Search 
 				<cmc>8</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inquisitorial Prospect</name>
+			<text>Diverge (Pick only one path as a sorcery to gain that type and a +1/+1 counter.)
+During your turn, this creature has first strike.
+{2}{WB}: Cleric
+You gain 5 life.
+{2}{W}{B}: Assassin
+This creature gains deathtouch and double strike until end of turn.</text>
+			<set rarity="common" picurl="https://Holmishire.github.io/sets/SV-files/img/68.png" num="62">SV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhythm // Grime</name>
+			<text>Target creature gets +1/+0 and gains menace until end of turn. It must be blocked this turn if able.
+Fuse (You may cast one or both halves of this card from your hand.)
+
+---
+
+Target creature gains deathtouch until end of turn. When it dies this turn, return it to its owner&apos;s hand.
+Fuse (You may cast one or both halves of this card from your hand.)</text>
+			<set rarity="rare" picurl="https://Holmishire.github.io/sets/SV-files/img/69.png" num="67">SV</set>
+			<prop>
+				<layout>split</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R // 1B</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>

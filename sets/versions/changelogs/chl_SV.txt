@@ -1,4 +1,154 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Dusk Harvest
+
+Amberheart Pod
+
+Declaw
+
+Petal Collector
+
+Dreaded Needle
+
+Chérie the Untethered
+
+Borrowed Shelter
+
+Nima, Free-Spirited
+
+Sulking Recluse
+
+Mistress of the Hunt
+
+Imperial Stalwart
+
+Vicious Pursuit
+
+Asphodel's Sentinel
+
+Stalking Draugr
+
+Lambholt Recreant
+
+Adnascentia
+
+Unseen Hand
+
+Alight
+
+Immersion
+
+Sentenced
+
+Chortle of Selkies
+
+Sibelle's Coaxing Hex
+
+Sibelle of Sacred Horn
+
+Vengeful Brutis
+
+Cootie Courier
+
+Stewardship of Murk
+
+Ickle Inchhiker
+
+Runic Awakening
+
+Inaya of Lost Promise
+
+Crack in the Archives
+
+Kikue, Souls Ablaze
+
+Last Sunrise
+
+Oona's Reversal
+
+Seeping Slime
+
+Hymn of Renewal
+
+Stormcoil Tribute
+
+Aqueduct Ancient
+
+Ubea, Sixth's Appraiser
+
+Borrowed Mettle
+
+Phantom Chupacabra
+
+Wildflower Guardian
+
+Sympath en-Vec
+
+Mantle of the Meek
+
+Kaiso's Absolution
+
+Found Lacking
+
+Syr Belladora, Witchslayer
+
+To Stoke the Embers
+
+Gloriless Death
+
+Pathfinder Solemn
+
+Scavenger Errant
+
+Shadar-kai Sanctifier
+
+Whelm
+
+Pact Comes Due
+
+Davaa, Jolt of Winter
+
+A Whisper Away
+
+Greensleeves the Weary
+
+Swallow the Sky
+
+Inquisitorial Prospect
+rules_text: Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+During your turn, this creature has first strike.
+{2}{WB}: Cleric
+You gain 5 life.
+{2}{W}{B}: Assassin
+This creature gains deathtouch and double strike until end of turn. => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+During your turn, this creature has first strike.
+{2}{WB}: Cleric
+You gain 5 life.
+{2}{W}{B}: Assassin
+This creature gains deathtouch and double strike until end of turn.
+
+special_text: Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+During your turn, this creature has first strike.
+{2}{WB}: Cleric
+You gain 5 life.
+{2}{W}{B}: Assassin
+This creature gains deathtouch and double strike until end of turn. => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+During your turn, this creature has first strike.
+{2}{WB}: Cleric
+You gain 5 life.
+{2}{W}{B}: Assassin
+This creature gains deathtouch and double strike until end of turn.
+
+
+Rhythm
+
+Wisp
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Whelm added.

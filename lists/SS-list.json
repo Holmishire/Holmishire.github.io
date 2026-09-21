@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "68"
+        "position": "50"
     },
     {
         "card_name": "e"
@@ -40,7 +40,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "69"
+        "position": "51"
     },
     {
         "card_name": "Amahu, Hurloon Hero",
@@ -48,7 +48,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "70"
+        "position": "52"
     },
     {
         "card_name": "Planar Drift",
@@ -56,7 +56,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "71"
+        "position": "53"
     },
     {
         "card_name": "Tangleroot Crystal",
@@ -64,7 +64,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "72"
+        "position": "54"
     },
     {
         "card_name": "Echo Strike",
@@ -72,7 +72,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "73"
+        "position": "55"
     },
     {
         "card_name": "Llanowar Warden",
@@ -80,7 +80,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "74"
+        "position": "56"
     },
     {
         "card_name": "Stormflight Lookout",
@@ -88,7 +88,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "75"
+        "position": "57"
     },
     {
         "card_name": "Wicker Witch of the Woods",
@@ -96,7 +96,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "76"
+        "position": "58"
     },
     {
         "card_name": "Knight of the Ebon Hand",
@@ -104,7 +104,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "77"
+        "position": "59"
     },
     {
         "card_name": "Aerial Collision",
@@ -112,7 +112,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "78"
+        "position": "60"
     },
     {
         "card_name": "Ember Chant",
@@ -120,7 +120,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "79"
+        "position": "61"
     },
     {
         "card_name": "Daylight Chant",
@@ -128,7 +128,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "80"
+        "position": "62"
     },
     {
         "card_name": "Dowsing Spaewife",
@@ -136,7 +136,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "81"
+        "position": "63"
     },
     {
         "card_name": "Wonder",
@@ -144,7 +144,7 @@
         "shape": "token",
         "set": "SS",
         "rotated": false,
-        "position": "82"
+        "position": "90"
     },
     {
         "card_name": "e"
@@ -170,7 +170,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "83"
+        "position": "64"
     },
     {
         "card_name": "Kiln-vested Vanguard",
@@ -178,7 +178,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "84"
+        "position": "65"
     },
     {
         "card_name": "e"
@@ -208,7 +208,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "60"
+        "position": "42"
     },
     {
         "card_name": "Mossback Elk",
@@ -216,7 +216,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "61"
+        "position": "43"
     },
     {
         "card_name": "Sacred Starseeker",
@@ -224,7 +224,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "62"
+        "position": "44"
     },
     {
         "card_name": "Obsession Crown",
@@ -232,7 +232,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "63"
+        "position": "45"
     },
     {
         "card_name": "Obviation Crown",
@@ -240,7 +240,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "64"
+        "position": "46"
     },
     {
         "card_name": "Obligation Crown",
@@ -248,7 +248,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "65"
+        "position": "47"
     },
     {
         "card_name": "Obtention Crown",
@@ -256,7 +256,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "66"
+        "position": "48"
     },
     {
         "card_name": "e"
@@ -288,7 +288,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "67"
+        "position": "49"
     },
     {
         "card_name": "e"
@@ -321,7 +321,7 @@
         "shape": "saga",
         "set": "SS",
         "rotated": false,
-        "position": "50"
+        "position": "87"
     },
     {
         "card_name": "Eyes Agape",
@@ -329,7 +329,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "51"
+        "position": "35"
     },
     {
         "card_name": "Surge Protector",
@@ -337,7 +337,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "52"
+        "position": "36"
     },
     {
         "card_name": "Dryad of Dusk's Whisper",
@@ -345,7 +345,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "53"
+        "position": "37"
     },
     {
         "card_name": "Pierce the Cosmos",
@@ -353,7 +353,7 @@
         "shape": "saga",
         "set": "SS",
         "rotated": false,
-        "position": "54"
+        "position": "88"
     },
     {
         "card_name": "Legion's Echo",
@@ -361,7 +361,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "55"
+        "position": "38"
     },
     {
         "card_name": "Gentle Jackalope",
@@ -369,7 +369,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "56"
+        "position": "39"
     },
     {
         "card_name": "Chevalier Ros\u00e9",
@@ -377,7 +377,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "57"
+        "position": "40"
     },
     {
         "card_name": "Chase the Blinding Sun",
@@ -385,7 +385,7 @@
         "shape": "saga",
         "set": "SS",
         "rotated": false,
-        "position": "58"
+        "position": "89"
     },
     {
         "card_name": "e"
@@ -411,7 +411,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "59"
+        "position": "41"
     },
     {
         "card_name": "e"
@@ -522,7 +522,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "36"
+        "position": "28"
     },
     {
         "card_name": "Audana",
@@ -530,7 +530,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "43"
+        "position": "31"
     },
     {
         "card_name": "e"
@@ -559,26 +559,50 @@
     {
         "card_name": "Clow Cards, Reclaimed",
         "number": 17,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "35"
+        "position": "74"
+    },
+    {
+        "card_name": "Tomoyo's Claim",
+        "number": 17,
+        "shape": "saga",
+        "set": "SS",
+        "rotated": false,
+        "position": "92"
     },
     {
         "card_name": "Coffee Medium",
         "number": 35,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "37"
+        "position": "75"
+    },
+    {
+        "card_name": "Coven Caf\u00e9",
+        "number": 35,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Cult's Corner Shop",
+        "number": 30,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "78"
     },
     {
         "card_name": "Record Spill",
         "number": 30,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "38"
+        "position": "77"
     },
     {
         "card_name": "Lift the Veil",
@@ -586,7 +610,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "39"
+        "position": "29"
     },
     {
         "card_name": "Familiar's Friend",
@@ -594,7 +618,7 @@
         "shape": "adventure",
         "set": "SS",
         "rotated": false,
-        "position": "40"
+        "position": "79"
     },
     {
         "card_name": "Pumpkin Farmers",
@@ -602,15 +626,23 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "41"
+        "position": "30"
     },
     {
         "card_name": "Speeding Ticket",
         "number": 13,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "42"
+        "position": "80"
+    },
+    {
+        "card_name": "Taking It Slow",
+        "number": 13,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "81"
     },
     {
         "card_name": "Cat",
@@ -618,15 +650,23 @@
         "shape": "token",
         "set": "SS",
         "rotated": false,
-        "position": "49"
+        "position": "86"
     },
     {
         "card_name": "Kaede, Dayspring Snoop",
         "number": 50,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "44"
+        "position": "82"
+    },
+    {
+        "card_name": "Sunkissed Kaede",
+        "number": 50,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "83"
     },
     {
         "card_name": "Manamorphose",
@@ -634,7 +674,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "45"
+        "position": "32"
     },
     {
         "card_name": "Tobi's Heart-Splinter",
@@ -642,7 +682,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "46"
+        "position": "33"
     },
     {
         "card_name": "Take Another Breath",
@@ -650,18 +690,23 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "47"
+        "position": "34"
     },
     {
         "card_name": "Lorelei No Longer",
         "number": 21,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "48"
+        "position": "84"
     },
     {
-        "card_name": "e"
+        "card_name": "Lorelei's Unraveling",
+        "number": 21,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "85"
     },
     {
         "card_name": "e"
@@ -685,7 +730,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "18"
+        "position": "13"
     },
     {
         "card_name": "Parry",
@@ -693,7 +738,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "20"
+        "position": "15"
     },
     {
         "card_name": "Moment of Privacy",
@@ -701,7 +746,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "22"
+        "position": "17"
     },
     {
         "card_name": "Carrion Peddler",
@@ -709,7 +754,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "24"
+        "position": "19"
     },
     {
         "card_name": "Ritual Warden",
@@ -717,7 +762,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "26"
+        "position": "21"
     },
     {
         "card_name": "Scarlet Crucible",
@@ -725,7 +770,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "27"
+        "position": "22"
     },
     {
         "card_name": "Soldier Devout",
@@ -733,7 +778,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "19"
+        "position": "14"
     },
     {
         "card_name": "Trollsbane Punk",
@@ -741,7 +786,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "21"
+        "position": "16"
     },
     {
         "card_name": "Nippy Shoalsteer",
@@ -749,7 +794,7 @@
         "shape": "leveler",
         "set": "SS",
         "rotated": false,
-        "position": "23"
+        "position": "18"
     },
     {
         "card_name": "Blighted Hunt",
@@ -757,7 +802,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "25"
+        "position": "20"
     },
     {
         "card_name": "Human",
@@ -765,7 +810,7 @@
         "shape": "token",
         "set": "SS",
         "rotated": false,
-        "position": "17"
+        "position": "71"
     },
     {
         "card_name": "Nunieve's Aspirant",
@@ -773,7 +818,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "28"
+        "position": "23"
     },
     {
         "card_name": "e"
@@ -805,7 +850,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "34"
+        "position": "27"
     },
     {
         "card_name": "e"
@@ -838,15 +883,23 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "30"
+        "position": "24"
+    },
+    {
+        "card_name": "Celestial Sphere",
+        "number": 49,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "72"
     },
     {
         "card_name": "Glint in the Depths",
         "number": 49,
-        "shape": "transform double faced",
+        "shape": "saga",
         "set": "SS",
         "rotated": false,
-        "position": "29"
+        "position": "91"
     },
     {
         "card_name": "Scarwood Pilferer",
@@ -854,7 +907,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "32"
+        "position": "26"
     },
     {
         "card_name": "Rainfall",
@@ -862,7 +915,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "31"
+        "position": "25"
     },
     {
         "card_name": "Tardy Grayson",
@@ -870,7 +923,19 @@
         "shape": "planeswalker",
         "set": "SS",
         "rotated": false,
-        "position": "33"
+        "position": "73"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -891,7 +956,7 @@
         "shape": "leveler",
         "set": "SS",
         "rotated": false,
-        "position": "9"
+        "position": "8"
     },
     {
         "card_name": "Husk of Cinder",
@@ -899,7 +964,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "8"
+        "position": "7"
     },
     {
         "card_name": "Cinder's Prophecy",
@@ -907,18 +972,23 @@
         "shape": "saga",
         "set": "SS",
         "rotated": false,
-        "position": "7"
+        "position": "66"
+    },
+    {
+        "card_name": "In Search of a Spark",
+        "number": 61,
+        "shape": "normal",
+        "set": "SS",
+        "rotated": false,
+        "position": "68"
     },
     {
         "card_name": "Simul, the Veil-Cursed",
         "number": 61,
-        "shape": "modal double faced",
+        "shape": "planeswalker",
         "set": "SS",
         "rotated": false,
-        "position": "10"
-    },
-    {
-        "card_name": "e"
+        "position": "67"
     },
     {
         "card_name": "er"
@@ -939,7 +1009,7 @@
         "shape": "fuse split",
         "set": "SS",
         "rotated": true,
-        "position": "12"
+        "position": "69"
     },
     {
         "card_name": "Autumnal Vale",
@@ -947,7 +1017,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "11"
+        "position": "9"
     },
     {
         "card_name": "Harvest Sentinel",
@@ -955,7 +1025,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "15"
+        "position": "12"
     },
     {
         "card_name": "Earnest Vassal",
@@ -963,7 +1033,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "14"
+        "position": "11"
     },
     {
         "card_name": "Delving Nixie",
@@ -971,7 +1041,7 @@
         "shape": "normal",
         "set": "SS",
         "rotated": false,
-        "position": "13"
+        "position": "10"
     },
     {
         "card_name": "Ouphe",
@@ -979,7 +1049,7 @@
         "shape": "token",
         "set": "SS",
         "rotated": false,
-        "position": "16"
+        "position": "70"
     },
     {
         "card_name": "e"

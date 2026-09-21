@@ -1,4 +1,271 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+In Search of a Spark added.
+Celestial Sphere added.
+Coven Café added.
+Cult's Corner Shop added.
+Taking It Slow added.
+Sunkissed Kaede added.
+Lorelei's Unraveling added.
+Tomoyo's Claim added.
+
+
+Blaithi Armsmaster
+
+Cloak in Rime
+rules_text: Enchant creature
+Enchanted creature has protection from mana value 2 or greater. [i](This permanent can't be targeted, dealt damage, enchanted, or equipped by anything with mana value 2 or greater..)[/i]
+When enchanted creature deals damage, sacrifice this Aura. => Enchant creature
+Enchanted creature has protection from mana value 2 or greater. [i](This permanent can't be targeted, dealt damage, enchanted, or equipped by anything with mana value 2 or greater.)[/i]
+When enchanted creature deals damage, sacrifice this Aura.
+
+Blackwings' Blessing
+
+Day's End Rest
+
+Gracious Mycologist
+
+Kin & Kiln
+
+Eternities' Wake
+
+Husk of Cinder
+
+Ora, Unbridled
+rules_text: If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.
+Whenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.
+
+[level -2] Creatures you control get +1/+0 until end of turn. => If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.
+Whenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.
+[level -2] Creatures you control get +1/+0 until end of turn.
+
+special_text: If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.
+Whenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.
+
+[level -2] Creatures you control get +1/+0 until end of turn. => If Ora, Unbridled would die as a creature, she becomes an Ora Planeswalker instead.
+Whenever a source you control deals excess damage to a permanent, put a loyalty counter on Ora, Unbridled.
+[level -2] Creatures you control get +1/+0 until end of turn.
+
+
+Autumnal Vale
+
+Delving Nixie
+
+Earnest Vassal
+
+Harvest Sentinel
+
+Observance of the Sacred
+
+Soldier Devout
+
+Parry
+
+Trollsbane Punk
+
+Moment of Privacy
+
+Nippy Shoalsteer
+
+Carrion Peddler
+
+Blighted Hunt
+
+Ritual Warden
+
+Scarlet Crucible
+
+Nunieve's Aspirant
+
+Motley Wayfinder
+
+Rainfall
+
+Scarwood Pilferer
+
+Grandfather's Blade
+
+WITCHING
+
+Lift the Veil
+
+Pumpkin Farmers
+
+Audana
+
+Manamorphose
+
+Tobi's Heart-Splinter
+
+Take Another Breath
+
+Eyes Agape
+
+Surge Protector
+
+Dryad of Dusk's Whisper
+
+Legion's Echo
+
+Gentle Jackalope
+
+Chevalier Rosé
+
+Crawling from the Drink
+
+Spectramorphosis
+
+Mossback Elk
+
+Sacred Starseeker
+
+Obsession Crown
+
+Obviation Crown
+
+Obligation Crown
+
+Obtention Crown
+
+Harmonious Migration
+
+Stormflight
+
+Rokka, Angel of Savagery
+
+Amahu, Hurloon Hero
+
+Planar Drift
+
+Tangleroot Crystal
+
+Echo Strike
+
+Llanowar Warden
+
+Stormflight Lookout
+
+Wicker Witch of the Woods
+
+Knight of the Ebon Hand
+
+Aerial Collision
+
+Ember Chant
+
+Daylight Chant
+
+Dowsing Spaewife
+
+Breathtaking Leap
+
+Kiln-vested Vanguard
+
+Cinder's Prophecy
+rules_text: 
+I — Remove a counter from a permanent you control. You lose 1 life, then draw a card.
+II — Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I, II — Remove a counter from a permanent you control. You lose 1 life, then draw a card.
+III — Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control.
+special_text: 
+I — Remove a counter from a permanent you control. You lose 1 life, then draw a card.
+II — Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I, II — Remove a counter from a permanent you control. You lose 1 life, then draw a card.
+III — Put a lifelink counter and an indestructible counter on target creature you control, then sacrifice each other creature you control.
+
+Simul, the Veil-Cursed
+
+Back
+
+Ouphe
+
+Human
+
+Tardy Grayson
+
+Clow Cards, Reclaimed
+
+Coffee Medium
+
+Record Spill
+
+Familiar's Friend
+
+Speeding Ticket
+
+Kaede, Dayspring Snoop
+
+Lorelei No Longer
+
+Cat
+
+Chase the Shifting Moon
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Target nonland permanent phases out until this Saga leaves the battlefield.
+Once this turn, if a creature you control would die, you may have it phase out instead.
+Until your next turn, permanents phase in under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target nonland permanent phases out until this Saga leaves the battlefield.
+II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
+IV — Until your next turn, permanents phase in under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Target nonland permanent phases out until this Saga leaves the battlefield.
+Once this turn, if a creature you control would die, you may have it phase out instead.
+Until your next turn, permanents phase in under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target nonland permanent phases out until this Saga leaves the battlefield.
+II, III — Once this turn, if a creature you control would die, you may have it phase out instead.
+IV — Until your next turn, permanents phase in under your control.
+
+Pierce the Cosmos
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+II, III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Search your library for three sorcery cards with mana value 3, exile them, then shuffle.
+II, III, IV — Cast a card exiled with this Saga without paying its mana cost, then any player may pay 4 life. If a player does, counter that spell.
+
+Chase the Blinding Sun
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Tap target creature and put three stun counters on it.
+At the end of combat this turn, untap each creature you control.
+Destroy all tapped creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap target creature and put three stun counters on it.
+II, III — At the end of combat this turn, untap each creature you control.
+IV — Destroy all tapped creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Tap target creature and put three stun counters on it.
+At the end of combat this turn, untap each creature you control.
+Destroy all tapped creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap target creature and put three stun counters on it.
+II, III — At the end of combat this turn, untap each creature you control.
+IV — Destroy all tapped creatures.
+
+Wonder
+
+Glint in the Depths
+rules_text: [i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]
+When Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.
+A card is put into your graveyard from your library.
+III — An Island or Swamp enters the battlefield under your control. => [i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]
+When Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.
+II — A card is put into your graveyard from your library.
+III — An Island or Swamp enters the battlefield under your control.
+special_text: [i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]
+When Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.
+A card is put into your graveyard from your library.
+III — An Island or Swamp enters the battlefield under your control. => [i](As you complete a condition, decode it. After all are decoded, you solve the mystery and transform it.)[/i]
+When Glint in the Depths enters the battlefield, create a 2/1 Frog Noble creature token and you gain 2 life.
+II — A card is put into your graveyard from your library.
+III — An Island or Swamp enters the battlefield under your control.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

@@ -131,10 +131,18 @@
     {
         "card_name": "Megni's Fervent Plea",
         "number": 2,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "CC",
         "rotated": false,
         "position": "17"
+    },
+    {
+        "card_name": "Megnificient, the Witchblade",
+        "number": 2,
+        "shape": "normal",
+        "set": "CC",
+        "rotated": false,
+        "position": "18"
     },
     {
         "card_name": "Smokeshawl Penitent",
@@ -185,18 +193,20 @@
         "position": "0"
     },
     {
+        "card_name": "Effalen Tinderwolf",
+        "number": 3,
+        "shape": "normal",
+        "set": "CC",
+        "rotated": false,
+        "position": "16"
+    },
+    {
         "card_name": "Tender Goatress",
         "number": 3,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "CC",
         "rotated": false,
         "position": "15"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

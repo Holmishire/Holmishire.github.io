@@ -1,4 +1,50 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+In Search of a Spark removed.
+Celestial Sphere removed.
+Coven Café removed.
+Cult's Corner Shop removed.
+Taking It Slow removed.
+Sunkissed Kaede removed.
+Lorelei's Unraveling removed.
+Tomoyo's Claim removed.
+
+Harvest Sentinel
+
+Observance of the Sacred
+
+Chevalier Rosé
+
+Crawling from the Drink
+
+Obviation Crown
+
+Tangleroot Crystal
+
+Daylight Chant
+
+Simul, the Veil-Cursed
+
+Clow Cards, Reclaimed
+
+Coffee Medium
+
+Record Spill
+
+Speeding Ticket
+
+Kaede, Dayspring Snoop
+
+Lorelei No Longer
+
+Chase the Blinding Sun
+
+Glint in the Depths
+
+
+VERSION 8 CHANGELOG
 ====================
 
 In Search of a Spark added.

@@ -559,47 +559,23 @@
     {
         "card_name": "Clow Cards, Reclaimed",
         "number": 17,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "74"
     },
     {
-        "card_name": "Tomoyo's Claim",
-        "number": 17,
-        "shape": "saga",
-        "set": "SS",
-        "rotated": false,
-        "position": "92"
-    },
-    {
         "card_name": "Coffee Medium",
         "number": 35,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "75"
     },
     {
-        "card_name": "Coven Caf\u00e9",
-        "number": 35,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "76"
-    },
-    {
-        "card_name": "Cult's Corner Shop",
-        "number": 30,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "78"
-    },
-    {
         "card_name": "Record Spill",
         "number": 30,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "77"
@@ -631,18 +607,10 @@
     {
         "card_name": "Speeding Ticket",
         "number": 13,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "80"
-    },
-    {
-        "card_name": "Taking It Slow",
-        "number": 13,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "81"
     },
     {
         "card_name": "Cat",
@@ -655,18 +623,10 @@
     {
         "card_name": "Kaede, Dayspring Snoop",
         "number": 50,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "82"
-    },
-    {
-        "card_name": "Sunkissed Kaede",
-        "number": 50,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "83"
     },
     {
         "card_name": "Manamorphose",
@@ -695,18 +655,13 @@
     {
         "card_name": "Lorelei No Longer",
         "number": 21,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "84"
     },
     {
-        "card_name": "Lorelei's Unraveling",
-        "number": 21,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "85"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -886,17 +841,9 @@
         "position": "24"
     },
     {
-        "card_name": "Celestial Sphere",
-        "number": 49,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "72"
-    },
-    {
         "card_name": "Glint in the Depths",
         "number": 49,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SS",
         "rotated": false,
         "position": "91"
@@ -924,18 +871,6 @@
         "set": "SS",
         "rotated": false,
         "position": "73"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -975,20 +910,15 @@
         "position": "66"
     },
     {
-        "card_name": "In Search of a Spark",
-        "number": 61,
-        "shape": "normal",
-        "set": "SS",
-        "rotated": false,
-        "position": "68"
-    },
-    {
         "card_name": "Simul, the Veil-Cursed",
         "number": 61,
-        "shape": "planeswalker",
+        "shape": "modal double faced",
         "set": "SS",
         "rotated": false,
         "position": "67"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
